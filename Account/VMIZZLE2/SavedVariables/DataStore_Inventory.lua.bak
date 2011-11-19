@@ -1,0 +1,44 @@
+
+DataStore_InventoryDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["Inventory"] = {
+					55229, -- [1]
+					57377, -- [2]
+					"|cff1eff00|Hitem:57360:3835:0:0:0:0:0:2104338560:83:0|h[Shoulderguards of Empty Memory]|h|r", -- [3]
+					nil, -- [4]
+					55032, -- [5]
+					59785, -- [6]
+					66901, -- [7]
+					"|cff0070dd|Hitem:57260:2649:0:0:0:0:0:719104448:83:0|h[Nemesis Crushers]|h|r", -- [8]
+					57303, -- [9]
+					57320, -- [10]
+					57383, -- [11]
+					66900, -- [12]
+					59792, -- [13]
+					55251, -- [14]
+					57348, -- [15]
+					"|cff0070dd|Hitem:66978:3368:0:0:0:0:0:1068728768:83:0|h[Rage-Possessed Greatsword]|h|r", -- [16]
+					nil, -- [17]
+					"|cff0070dd|Hitem:62240:0:4005:0:0:0:0:1091951232:83:0|h[Etched Horn]|h|r", -- [18]
+					43156, -- [19]
+				},
+				["averageItemLvl"] = 291.8125,
+				["lastUpdate"] = 1321711799,
+			},
+		},
+		["Guilds"] = {
+			["Default.Silvermoon.Parental Control"] = {
+				["Members"] = {
+					["Dkuno"] = {
+						["averageItemLvl"] = 291,
+					},
+				},
+			},
+		},
+	},
+}

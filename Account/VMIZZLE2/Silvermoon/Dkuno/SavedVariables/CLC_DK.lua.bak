@@ -1,0 +1,295 @@
+
+CLCDK_Settings = {
+	["RuneBars"] = true,
+	["DTTrans"] = 1,
+	["CD"] = {
+		{
+			true, -- [1]
+			true, -- [2]
+			false, -- [3]
+			false, -- [4]
+			["DiseaseOption"] = 0,
+			["RP"] = true,
+			["CLCDK_CDRPanel_DD_Priority"] = {
+				"Priority", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD2_Two"] = {
+				"Scarlet Fever", -- [1]
+				true, -- [2]
+			},
+			["Horn"] = false,
+			["CLCDK_CDRPanel_DD_CD1_One"] = {
+				"Bone Shield", -- [1]
+				true, -- [2]
+			},
+			["CLCDK_CDRPanel_DD_CD1_Two"] = {
+				"Vampiric Blood", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD4_Two"] = {
+				"Trinket Slot 2", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD4_One"] = {
+				"Trinket Slot 1", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD3_Two"] = {
+				"Blood Tap", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD3_One"] = {
+				"Horn of Winter", -- [1]
+				true, -- [2]
+			},
+			["CLCDK_CDRPanel_DD_CD2_One"] = {
+				"Rune Tap", -- [1]
+			},
+			["SpecOption"] = true,
+			["Outbreak"] = true,
+		}, -- [1]
+		{
+			true, -- [1]
+			true, -- [2]
+			false, -- [3]
+			false, -- [4]
+			["DiseaseOption"] = 2,
+			["RP"] = true,
+			["CLCDK_CDRPanel_DD_Priority"] = {
+				"Priority", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD2_Two"] = {
+				"Freezing Fog", -- [1]
+				true, -- [2]
+			},
+			["Horn"] = true,
+			["CLCDK_CDRPanel_DD_CD1_One"] = {
+				"Lichborne", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD1_Two"] = {
+				"Lichborne", -- [1]
+				true, -- [2]
+			},
+			["CLCDK_CDRPanel_DD_CD4_Two"] = {
+				"Trinket Slot 2", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD4_One"] = {
+				"Trinket Slot 1", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD3_Two"] = {
+				"Blood Tap", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD3_One"] = {
+				"Horn of Winter", -- [1]
+				true, -- [2]
+			},
+			["CLCDK_CDRPanel_DD_CD2_One"] = {
+				"Killing Machine", -- [1]
+				true, -- [2]
+			},
+			["SpecOption"] = true,
+			["Outbreak"] = false,
+		}, -- [2]
+		{
+			true, -- [1]
+			true, -- [2]
+			false, -- [3]
+			false, -- [4]
+			["DiseaseOption"] = 2,
+			["RP"] = true,
+			["CLCDK_CDRPanel_DD_Priority"] = {
+				"Priority", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD2_Two"] = {
+				"Sudden Doom", -- [1]
+				true, -- [2]
+			},
+			["Horn"] = true,
+			["CLCDK_CDRPanel_DD_CD1_One"] = {
+				"Shadow Infusion", -- [1]
+				true, -- [2]
+			},
+			["CLCDK_CDRPanel_DD_CD1_Two"] = {
+				"Dark Transformation", -- [1]
+				true, -- [2]
+			},
+			["CLCDK_CDRPanel_DD_CD4_Two"] = {
+				"Trinket Slot 2", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD4_One"] = {
+				"Trinket Slot 1", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD3_Two"] = {
+				"Blood Tap", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD3_One"] = {
+				"Horn of Winter", -- [1]
+				true, -- [2]
+			},
+			["CLCDK_CDRPanel_DD_CD2_One"] = {
+				"Runic Corruption", -- [1]
+				true, -- [2]
+			},
+			["SpecOption"] = true,
+			["Outbreak"] = true,
+		}, -- [3]
+		[0] = {
+			true, -- [1]
+			true, -- [2]
+			false, -- [3]
+			false, -- [4]
+			["DiseaseOption"] = 2,
+			["RP"] = true,
+			["CLCDK_CDRPanel_DD_Priority"] = {
+				"Priority", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD2_Two"] = {
+				"Army of the Dead", -- [1]
+			},
+			["Horn"] = true,
+			["CLCDK_CDRPanel_DD_CD1_One"] = {
+				"Horn of Winter", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD1_Two"] = {
+				"Blood Tap", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD4_Two"] = {
+				"Trinket Slot 2", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD4_One"] = {
+				"Trinket Slot 1", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD3_Two"] = {
+				"Blood Tap", -- [1]
+			},
+			["CLCDK_CDRPanel_DD_CD3_One"] = {
+				"Horn of Winter", -- [1]
+				true, -- [2]
+			},
+			["CLCDK_CDRPanel_DD_CD2_One"] = {
+				"Raise Dead", -- [1]
+			},
+			["SpecOption"] = true,
+			["Outbreak"] = false,
+		},
+	},
+	["Scale"] = 1,
+	["Range"] = true,
+	["GCD"] = true,
+	["Locked"] = true,
+	["NormTrans"] = 1,
+	["Disease"] = true,
+	["CombatTrans"] = 1,
+	["Location"] = {
+		["CLCDK.Diseases"] = {
+			["Rel"] = "CLCDK.RunicPower",
+			["RelPoint"] = "BOTTOMRIGHT",
+			["Point"] = "TOPRIGHT",
+			["Scale"] = 1,
+			["Y"] = 0,
+			["X"] = 0,
+		},
+		["CLCDK"] = {
+			["Y"] = -175,
+			["RelPoint"] = "CENTER",
+			["Point"] = "Center",
+			["Scale"] = 1,
+			["X"] = 0,
+		},
+		["CLCDK.CD3"] = {
+			["Rel"] = "CLCDK.CD1",
+			["RelPoint"] = "TOPLEFT",
+			["Point"] = "TOPRIGHT",
+			["Scale"] = 1,
+			["Y"] = 0,
+			["X"] = -2,
+		},
+		["CLCDK.DT"] = {
+			["Rel"] = "CLCDK.CD3",
+			["RelPoint"] = "BOTTOMLEFT",
+			["Point"] = "BOTTOMRIGHT",
+			["Scale"] = 0.7,
+			["Y"] = 0,
+			["X"] = -2,
+		},
+		["CLCDK.CD4"] = {
+			["Rel"] = "CLCDK.CD2",
+			["RelPoint"] = "TOPRIGHT",
+			["Point"] = "TOPLEFT",
+			["Scale"] = 1,
+			["Y"] = 0,
+			["X"] = 2,
+		},
+		["CLCDK.RunicPower"] = {
+			["Rel"] = "CLCDK.RuneBar",
+			["RelPoint"] = "BOTTOMRIGHT",
+			["Point"] = "TOPRIGHT",
+			["Scale"] = 1,
+			["Y"] = 0,
+			["X"] = 0,
+		},
+		["CLCDK.RuneBarHolder"] = {
+			["Rel"] = "CLCDK",
+			["RelPoint"] = "TopLeft",
+			["Point"] = "BottomLeft",
+			["Scale"] = 0.86,
+			["Y"] = 0,
+			["X"] = 0,
+		},
+		["CLCDK.RuneBar"] = {
+			["Rel"] = "CLCDK",
+			["RelPoint"] = "Top",
+			["Point"] = "Top",
+			["Scale"] = 1,
+			["Y"] = -2,
+			["X"] = 0,
+		},
+		["CLCDK.Move"] = {
+			["Rel"] = "CLCDK.RuneBar",
+			["RelPoint"] = "BOTTOMLEFT",
+			["Point"] = "TOPLEFT",
+			["Scale"] = 1,
+			["Y"] = 0,
+			["X"] = 0,
+		},
+		["CLCDK.CD1"] = {
+			["Rel"] = "CLCDK",
+			["RelPoint"] = "TOPLEFT",
+			["Point"] = "TOPRIGHT",
+			["Scale"] = 1,
+			["Y"] = -3,
+			["X"] = -1,
+		},
+		["CLCDK.CD2"] = {
+			["Rel"] = "CLCDK",
+			["RelPoint"] = "TOPRIGHT",
+			["Point"] = "TOPLEFT",
+			["Scale"] = 1,
+			["Y"] = -3,
+			["X"] = 1,
+		},
+	},
+	["DT"] = {
+		["CColours"] = true,
+		["Enable"] = true,
+		["TPriority"] = true,
+		["Dots"] = {
+			["Blood Plague"] = true,
+			["Frost Fever"] = true,
+			["Death and Decay"] = true,
+		},
+		["Threat"] = 1,
+		["Numframes"] = 5,
+		["Target"] = true,
+		["Warning"] = 3,
+		["Update"] = 2.5,
+		["TColours"] = true,
+	},
+	["LockedPieces"] = true,
+	["RP"] = true,
+	["Version"] = 4.017,
+	["Trans"] = 0.5,
+	["Rune"] = true,
+	["RuneOrder"] = 1,
+	["VScheme"] = "Normal",
+	["lbf"] = {
+		"Blizzard", -- [1]
+		0, -- [2]
+	},
+}

@@ -1,0 +1,1563 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Teenybanker"] = {
+			["GUID"] = "0x0100000004B2465D",
+			["LastEventHealth"] = {
+				"52 (100%)", -- [1]
+				"42 (80%)", -- [2]
+				"50 (96%)", -- [3]
+				"52 (100%)", -- [4]
+				"45 (86%)", -- [5]
+				"37 (71%)", -- [6]
+				"28 (53%)", -- [7]
+				"20 (38%)", -- [8]
+				"52 (100%)", -- [9]
+				"52 (100%)", -- [10]
+				"52 (100%)", -- [11]
+				"52 (100%)", -- [12]
+				"52 (100%)", -- [13]
+				"52 (100%)", -- [14]
+				"52 (100%)", -- [15]
+				"34 (65%)", -- [16]
+				"34 (65%)", -- [17]
+				"34 (65%)", -- [18]
+				"18 (35%)", -- [19]
+				"18 (35%)", -- [20]
+				"4 (7%)", -- [21]
+				"4 (7%)", -- [22]
+				"0 (0%)", -- [23]
+				"52 (100%)", -- [24]
+				"38 (73%)", -- [25]
+			},
+			["LastAttackedBy"] = "Snow Tracker Wolf",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"MISC", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					1, -- [1]
+				},
+				["ActiveTime"] = {
+					20.06, -- [1]
+				},
+				["TimeDamage"] = {
+					20.06, -- [1]
+				},
+				["DamageTaken"] = {
+					151, -- [1]
+				},
+				["Damage"] = {
+					183, -- [1]
+				},
+			},
+			["enClass"] = "MAGE",
+			["unit"] = "Teenybanker",
+			["DeathLogs"] = {
+				{
+					["MessageIncoming"] = {
+						false, -- [1]
+						false, -- [2]
+						false, -- [3]
+						true, -- [4]
+						false, -- [5]
+						false, -- [6]
+						true, -- [7]
+						false, -- [8]
+						true, -- [9]
+						false, -- [10]
+						true, -- [11]
+						true, -- [12]
+					},
+					["Messages"] = {
+						"Teenybanker Fireball Timber Miss (Fire)", -- [1]
+						"Teenybanker Fireball Timber Hit -27 (Fire)", -- [2]
+						"Teenybanker Fireball Timber Miss (Fire)", -- [3]
+						"Timber Melee Teenybanker Hit -18 (Physical)", -- [4]
+						"Teenybanker Fireball Timber Miss (Fire)", -- [5]
+						"Teenybanker Fireball Timber Hit -28 (Fire)", -- [6]
+						"Timber Melee Teenybanker Hit -16 (Physical)", -- [7]
+						"Teenybanker Fireball Timber Hit -22 (Fire)", -- [8]
+						"Timber Melee Teenybanker Hit -14 (Physical)", -- [9]
+						"Teenybanker Fireball Timber Hit -22 (Fire)", -- [10]
+						"Timber Melee Teenybanker Hit -14 (Physical)", -- [11]
+						"Teenybanker dies.", -- [12]
+					},
+					["DeathAt"] = 1316722592,
+					["HealthNum"] = {
+						100, -- [1]
+						100, -- [2]
+						100, -- [3]
+						100, -- [4]
+						65.38461538461539, -- [5]
+						65.38461538461539, -- [6]
+						65.38461538461539, -- [7]
+						35.29411764705883, -- [8]
+						35.29411764705883, -- [9]
+						7.843137254901961, -- [10]
+						7.843137254901961, -- [11]
+						0, -- [12]
+					},
+					["MessageTimes"] = {
+						-10.26399999999558, -- [1]
+						-8.736000000004424, -- [2]
+						-7.144999999989523, -- [3]
+						-6.405999999988126, -- [4]
+						-5.845000000001164, -- [5]
+						-4.587999999988824, -- [6]
+						-4.326999999990221, -- [7]
+						-2.615999999979977, -- [8]
+						-2.356999999989057, -- [9]
+						-0.6330000000016298, -- [10]
+						-0.3019999999960419, -- [11]
+						0, -- [12]
+					},
+					["KilledBy"] = "Timber",
+					["Health"] = {
+						"52 (100%)", -- [1]
+						"52 (100%)", -- [2]
+						"52 (100%)", -- [3]
+						"52 (100%)", -- [4]
+						"34 (65%)", -- [5]
+						"34 (65%)", -- [6]
+						"34 (65%)", -- [7]
+						"18 (35%)", -- [8]
+						"18 (35%)", -- [9]
+						"4 (7%)", -- [10]
+						"4 (7%)", -- [11]
+						"0 (0%)", -- [12]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						34.61538461538461, -- [4]
+						0, -- [5]
+						0, -- [6]
+						30.76923076923077, -- [7]
+						0, -- [8]
+						27.45098039215686, -- [9]
+						0, -- [10]
+						27.45098039215686, -- [11]
+						0, -- [12]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"MISC", -- [12]
+					},
+				}, -- [1]
+			},
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 4,
+			["LastEventNum"] = {
+				19.23076923076923, -- [1]
+				17.30769230769231, -- [2]
+				3.846153846153846, -- [3]
+				13.46153846153846, -- [4]
+				15.38461538461539, -- [5]
+				17.30769230769231, -- [6]
+				15.38461538461539, -- [7]
+				15.38461538461539, -- [8]
+				[15] = 34.61538461538461,
+				[20] = 27.45098039215686,
+				[24] = 26.92307692307692,
+				[18] = 30.76923076923077,
+				[22] = 27.45098039215686,
+				[25] = 26.92307692307692,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastAbility"] = 250131.628,
+			["LastDamageTaken"] = 14,
+			["Owner"] = false,
+			["TimeLast"] = {
+				["DeathCount"] = 1316722590,
+				["ActiveTime"] = 1316722589,
+				["TimeDamage"] = 1316722589,
+				["OVERALL"] = 1316722728,
+				["DamageTaken"] = 1316722728,
+				["Damage"] = 1316722589,
+			},
+			["NextEventNum"] = 26,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				80.76923076923077, -- [2]
+				96.15384615384616, -- [3]
+				100, -- [4]
+				86.53846153846153, -- [5]
+				71.15384615384616, -- [6]
+				53.84615384615385, -- [7]
+				38.46153846153846, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				65.38461538461539, -- [16]
+				65.38461538461539, -- [17]
+				65.38461538461539, -- [18]
+				35.29411764705883, -- [19]
+				35.29411764705883, -- [20]
+				7.843137254901961, -- [21]
+				7.843137254901961, -- [22]
+				0, -- [23]
+				100, -- [24]
+				73.07692307692308, -- [25]
+			},
+			["LastEvents"] = {
+				"Crushcog Sentry-Bot Melee Teenybanker Hit -10 (Physical)", -- [1]
+				"Crushcog Sentry-Bot Melee Teenybanker Hit -9 (Physical)", -- [2]
+				"Environment Falling Teenybanker Hit -2 (Physical)", -- [3]
+				"Crushcog Battle Suit Melee Teenybanker Hit -7 (Physical)", -- [4]
+				"Crushcog Battle Suit Melee Teenybanker Hit -8 (Physical)", -- [5]
+				"Crushcog Battle Suit Melee Teenybanker Hit -9 (Physical)", -- [6]
+				"Crushcog Battle Suit Melee Teenybanker Hit -8 (Physical)", -- [7]
+				"Crushcog Battle Suit Melee Teenybanker Hit -8 (Physical)", -- [8]
+				"Teenybanker Fireball Crushcog Battle Suit Hit -28 (Fire)", -- [9]
+				"Teenybanker Fireball Crushcog Battle Suit Hit -27 (Fire)", -- [10]
+				"Teenybanker Fireball Crushcog Battle Suit Hit -29 (Fire)", -- [11]
+				"Teenybanker Fireball Timber Miss (Fire)", -- [12]
+				"Teenybanker Fireball Timber Hit -27 (Fire)", -- [13]
+				"Teenybanker Fireball Timber Miss (Fire)", -- [14]
+				"Timber Melee Teenybanker Hit -18 (Physical)", -- [15]
+				"Teenybanker Fireball Timber Miss (Fire)", -- [16]
+				"Teenybanker Fireball Timber Hit -28 (Fire)", -- [17]
+				"Timber Melee Teenybanker Hit -16 (Physical)", -- [18]
+				"Teenybanker Fireball Timber Hit -22 (Fire)", -- [19]
+				"Timber Melee Teenybanker Hit -14 (Physical)", -- [20]
+				"Teenybanker Fireball Timber Hit -22 (Fire)", -- [21]
+				"Timber Melee Teenybanker Hit -14 (Physical)", -- [22]
+				"Teenybanker dies.", -- [23]
+				"Snow Tracker Wolf Melee Teenybanker Hit -14 (Physical)", -- [24]
+				"Snow Tracker Wolf Melee Teenybanker Hit -14 (Physical)", -- [25]
+			},
+			["Name"] = "Teenybanker",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				true, -- [15]
+				false, -- [16]
+				false, -- [17]
+				true, -- [18]
+				false, -- [19]
+				true, -- [20]
+				false, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+			},
+			["LastEventTimes"] = {
+				249936.112, -- [1]
+				249938.153, -- [2]
+				250025.076, -- [3]
+				250033.249, -- [4]
+				250035.367, -- [5]
+				250037.277, -- [6]
+				250040.402, -- [7]
+				250042.461, -- [8]
+				250078.079, -- [9]
+				250080.209, -- [10]
+				250081.511, -- [11]
+				250121.997, -- [12]
+				250123.525, -- [13]
+				250125.116, -- [14]
+				250125.855, -- [15]
+				250126.416, -- [16]
+				250127.673, -- [17]
+				250127.934, -- [18]
+				250129.645, -- [19]
+				250129.904, -- [20]
+				250131.628, -- [21]
+				250131.959, -- [22]
+				250132.261, -- [23]
+				250267.08, -- [24]
+				250269.817, -- [25]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Crushcog Sentry-Bot"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 19,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 19,
+					},
+					["DamageTaken"] = 19,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 62,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["DeathCount"] = 1,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+								["Miss"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 62,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 99,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 99,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Timber"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 99,
+								},
+							},
+							["amount"] = 99,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Timber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 62,
+								},
+							},
+							["amount"] = 62,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Timber"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 13.13,
+								},
+							},
+							["amount"] = 13.13,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 13.13,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 28,
+									["min"] = 22,
+									["count"] = 4,
+									["amount"] = 99,
+								},
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 99,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 13.13,
+					["TimeDamaging"] = {
+						["Timber"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 13.13,
+								},
+							},
+							["amount"] = 13.13,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 84,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 84,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Crushcog Battle Suit"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 84,
+								},
+							},
+							["amount"] = 84,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Crushcog Battle Suit"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 6.93,
+								},
+							},
+							["amount"] = 6.93,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 6.93,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 29,
+									["min"] = 27,
+									["count"] = 3,
+									["amount"] = 84,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 84,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 6.93,
+					["TimeDamaging"] = {
+						["Crushcog Battle Suit"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 6.93,
+								},
+							},
+							["amount"] = 6.93,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 40,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 40,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Crushcog Battle Suit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 28,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 28,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Snow Tracker Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 28,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 28,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 28,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Snow Tracker Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 28,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeDamaging"] = {
+						["Crushcog Battle Suit"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 6.93,
+								},
+							},
+							["amount"] = 6.93,
+						},
+						["Timber"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 13.13,
+								},
+							},
+							["amount"] = 13.13,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["DamagedWho"] = {
+						["Crushcog Battle Suit"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 84,
+								},
+							},
+							["amount"] = 84,
+						},
+						["Timber"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 99,
+								},
+							},
+							["amount"] = 99,
+						},
+					},
+					["ElementDone"] = {
+						["Fire"] = 183,
+					},
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 29,
+									["min"] = 22,
+									["count"] = 7,
+									["amount"] = 183,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 183,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 13,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamageTaken"] = 151,
+					["TimeSpent"] = {
+						["Crushcog Battle Suit"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 6.93,
+								},
+							},
+							["amount"] = 6.93,
+						},
+						["Timber"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 13.13,
+								},
+							},
+							["amount"] = 13.13,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 13,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 13,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 20.06,
+					["WhoDamaged"] = {
+						["Timber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 62,
+								},
+							},
+							["amount"] = 62,
+						},
+						["Crushcog Sentry-Bot"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 19,
+						},
+						["Snow Tracker Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 28,
+								},
+							},
+							["amount"] = 28,
+						},
+						["Crushcog Battle Suit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 149,
+						["Physical"] = 2,
+					},
+					["TimeDamage"] = 20.06,
+					["Damage"] = 183,
+				},
+			},
+			["UnitLockout"] = 1316722394,
+			["LastActive"] = 1316722728,
+		},
+	},
+	["FightNum"] = 5,
+	["CombatTimes"] = {
+		{
+			1316722394, -- [1]
+			1316722416, -- [2]
+			"15:13:14", -- [3]
+			"15:13:36", -- [4]
+			"Crushcog Sentry-Bot", -- [5]
+		}, -- [1]
+		{
+			1316722491, -- [1]
+			1316722502, -- [2]
+			"15:14:51", -- [3]
+			"15:15:02", -- [4]
+			"Crushcog Battle Suit", -- [5]
+		}, -- [2]
+		{
+			1316722536, -- [1]
+			1316722541, -- [2]
+			"15:15:36", -- [3]
+			"15:15:41", -- [4]
+			"Crushcog Battle Suit", -- [5]
+		}, -- [3]
+		{
+			1316722580, -- [1]
+			1316722591, -- [2]
+			"15:16:20", -- [3]
+			"15:16:31", -- [4]
+			"Timber", -- [5]
+		}, -- [4]
+		{
+			1316722725, -- [1]
+			1316722736, -- [2]
+			"15:18:45", -- [3]
+			"15:18:56", -- [4]
+			"Snow Tracker Wolf", -- [5]
+		}, -- [5]
+	},
+	["FoughtWho"] = {
+		"Snow Tracker Wolf 15:18:45-15:18:56", -- [1]
+		"Timber 15:16:20-15:16:31", -- [2]
+		"Crushcog Battle Suit 15:15:36-15:15:41", -- [3]
+		"Crushcog Battle Suit 15:14:51-15:15:02", -- [4]
+		"Crushcog Sentry-Bot 15:13:14-15:13:36", -- [5]
+	},
+}

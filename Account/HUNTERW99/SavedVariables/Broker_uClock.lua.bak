@@ -1,0 +1,10 @@
+
+uClockDB = {
+	["profileKeys"] = {
+		["Mebeezwarlok - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,33 @@
+
+AucAdvancedConfig = {
+	["users.Silvermoon.Professerake"] = "Default",
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["pricelevel"] = {
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Silvermoon"] = "Professerake",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+		},
+		["Current"] = {
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}

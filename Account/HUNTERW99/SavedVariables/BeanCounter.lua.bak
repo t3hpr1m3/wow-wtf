@@ -1,0 +1,55 @@
+
+BeanCounterDB = {
+	["Gul'dan"] = {
+		["Vampiero"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["profile.Default"] = {
+		["configator.left"] = 487.9999261417814,
+		["configator.top"] = 724.5000083774369,
+		["util.beancounter.ButtonuseDateCheck"] = false,
+	},
+	["Gul'dan"] = {
+		["Vampiero"] = {
+			["version"] = 3.02,
+			["faction"] = "Alliance",
+			["wealth"] = 3338,
+			["maintenance"] = {
+				["compactDB"] = 1319978494,
+				["sortArray"] = 1319788559,
+				["prunePostedDB"] = 1319858540,
+			},
+			["mailbox"] = {
+			},
+		},
+	},
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil

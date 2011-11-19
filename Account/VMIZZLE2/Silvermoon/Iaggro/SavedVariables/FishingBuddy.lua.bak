@@ -1,0 +1,13 @@
+
+FishingBuddy_Player = {
+	["Settings"] = {
+		["MinimapButtonPosition"] = 33,
+		["OutfitManager"] = "None",
+		["EasyCast"] = 1,
+		["ResetWatcher"] = 1,
+	},
+	["Outfit"] = {
+	},
+	["WasWearing"] = {
+	},
+}

@@ -1,0 +1,10 @@
+
+uClockDB = {
+	["profileKeys"] = {
+		["Iaggro - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

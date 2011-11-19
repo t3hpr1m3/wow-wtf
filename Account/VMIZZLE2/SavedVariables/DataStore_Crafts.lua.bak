@@ -1,0 +1,29 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["Professions"] = {
+					["Inscription"] = {
+						["MaxRank"] = 525,
+						["Rank"] = 501,
+					},
+					["Herbalism"] = {
+						["MaxRank"] = 525,
+						["Rank"] = 525,
+					},
+					["First Aid"] = {
+						["MaxRank"] = 450,
+						["Rank"] = 417,
+					},
+				},
+				["Prof2"] = "Inscription",
+				["lastUpdate"] = 1321711907,
+				["Prof1"] = "Herbalism",
+			},
+		},
+	},
+}

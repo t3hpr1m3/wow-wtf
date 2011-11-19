@@ -1,0 +1,2469 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Hanuka"] = {
+			["GUID"] = "0x01000000047C9ACD",
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 2,
+			["GuardianReverseGUIDs"] = {
+				["Spot"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF140CCFB2D00CFC3",
+					},
+				},
+				["Worg Pup"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF13028130043B151",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "UNGROUPED",
+			["Name"] = "Hanuka",
+			["Pet"] = {
+				"Spot <Hanuka>", -- [1]
+				"Worg Pup <Hanuka>", -- [2]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1317068792,
+			["LastFightIn"] = 0,
+		},
+		["Dyanae"] = {
+			["GUID"] = "0x01000000002B28A6",
+			["type"] = "Ungrouped",
+			["GuardianReverseGUIDs"] = {
+				["Laydi"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF140A5773200D0E8",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "UNGROUPED",
+			["Name"] = "Dyanae",
+			["Pet"] = {
+				"Laydi <Dyanae>", -- [1]
+			},
+			["Fights"] = {
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1317070832,
+			["LastFightIn"] = 2,
+		},
+		["Amelmade"] = {
+			["GUID"] = "0x01000000044DB332",
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 2,
+			["GuardianReverseGUIDs"] = {
+				["iwanbiteu"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF140AD6E9D00CFC5",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "UNGROUPED",
+			["Name"] = "Amelmade",
+			["Pet"] = {
+				"iwanbiteu <Amelmade>", -- [1]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1317068804,
+			["LastFightIn"] = 0,
+		},
+		["Barrypreist"] = {
+			["GUID"] = "0x010000000424F4B2",
+			["type"] = "Ungrouped",
+			["GuardianReverseGUIDs"] = {
+				["Smolderweb Hatchling"] = {
+					["LatestGuardian"] = 1,
+					["GUIDs"] = {
+						"0xF13029660043F9DD", -- [1]
+						[0] = "0xF13029660043F7EB",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "UNGROUPED",
+			["Name"] = "Barrypreist",
+			["Pet"] = {
+				"Smolderweb Hatchling <Barrypreist>", -- [1]
+			},
+			["Fights"] = {
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1317070801,
+			["LastFightIn"] = 2,
+		},
+		["Mebeezwarlok"] = {
+			["GUID"] = "0x0100000004B0C644",
+			["TimeLast"] = {
+				["TimeDamage"] = 1317070796,
+				["Overhealing"] = 1317070780,
+				["ActiveTime"] = 1317070796,
+				["ManaGain"] = 1317070795,
+				["OVERALL"] = 1317070796,
+				["DOT_Time"] = 1317070796,
+				["Damage"] = 1317070796,
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"HEAL", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["Overhealing"] = {
+					7320, -- [1]
+				},
+				["ActiveTime"] = {
+					141.88, -- [1]
+				},
+				["TimeDamage"] = {
+					141.88, -- [1]
+				},
+				["ManaGain"] = {
+					61862, -- [1]
+				},
+				["DOT_Time"] = {
+					349, -- [1]
+				},
+				["Damage"] = {
+					333385, -- [1]
+				},
+			},
+			["enClass"] = "WARLOCK",
+			["unit"] = "Mebeezwarlok",
+			["level"] = 83,
+			["LastFightIn"] = 1,
+			["LastEventNum"] = {
+				[2] = 4,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 2,
+			["LastAbility"] = 62159.284,
+			["Owner"] = false,
+			["LastEventHealth"] = {
+				"61000 (100%)", -- [1]
+				"61000 (100%)", -- [2]
+				"61000 (100%)", -- [3]
+				"61000 (100%)", -- [4]
+				"61000 (100%)", -- [5]
+				"61000 (100%)", -- [6]
+				"61000 (100%)", -- [7]
+				"61000 (100%)", -- [8]
+				"61000 (100%)", -- [9]
+				"61000 (100%)", -- [10]
+				"61000 (100%)", -- [11]
+				"61000 (100%)", -- [12]
+				"61000 (100%)", -- [13]
+				"61000 (100%)", -- [14]
+				"61000 (100%)", -- [15]
+				"61000 (100%)", -- [16]
+				"61000 (100%)", -- [17]
+				"61000 (100%)", -- [18]
+				"61000 (100%)", -- [19]
+				"61000 (100%)", -- [20]
+				"61000 (100%)", -- [21]
+				"61000 (100%)", -- [22]
+				"61000 (100%)", -- [23]
+				"61000 (100%)", -- [24]
+				"61000 (100%)", -- [25]
+				"61000 (100%)", -- [26]
+				"61000 (100%)", -- [27]
+				"61000 (100%)", -- [28]
+				"61000 (100%)", -- [29]
+				"61000 (100%)", -- [30]
+				"61000 (100%)", -- [31]
+				"61000 (100%)", -- [32]
+				"61000 (100%)", -- [33]
+				"61000 (100%)", -- [34]
+				"61000 (100%)", -- [35]
+				"61000 (100%)", -- [36]
+				"61000 (100%)", -- [37]
+				"61000 (100%)", -- [38]
+				"61000 (100%)", -- [39]
+				"61000 (100%)", -- [40]
+				"61000 (100%)", -- [41]
+				"61000 (100%)", -- [42]
+				"61000 (100%)", -- [43]
+				"61000 (100%)", -- [44]
+				"61000 (100%)", -- [45]
+				"61000 (100%)", -- [46]
+				"61000 (100%)", -- [47]
+				"61000 (100%)", -- [48]
+				"61000 (100%)", -- [49]
+				"61000 (100%)", -- [50]
+			},
+			["NextEventNum"] = 25,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				100, -- [47]
+				100, -- [48]
+				100, -- [49]
+				100, -- [50]
+			},
+			["LastEvents"] = {
+				"Mebeezwarlok Soul Fire Training Dummy Crit -15407 (Fire)", -- [1]
+				"Mebeezwarlok Soul Leech Mebeezwarlok Hit +2440 (2440 overheal)", -- [2]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -735 (Shadow)", -- [3]
+				"Mebeezwarlok Burning Embers (DoT) Training Dummy Tick -478 (Fire)", -- [4]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -869 (Shadow)", -- [5]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -734 (Shadow)", -- [6]
+				"Mebeezwarlok Immolate (DoT) Training Dummy Tick -2619 (Fire)", -- [7]
+				"Mebeezwarlok Burning Embers (DoT) Training Dummy Tick -478 (Fire)", -- [8]
+				"Mebeezwarlok Burning Embers (DoT) Training Dummy Tick -478 (Fire)", -- [9]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -806 (Shadow)", -- [10]
+				"Mebeezwarlok Incinerate Training Dummy Hit -5155 (Fire)", -- [11]
+				"Mebeezwarlok Burning Embers (DoT) Training Dummy Tick -478 (Fire)", -- [12]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -868 (Shadow)", -- [13]
+				"Mebeezwarlok Burning Embers (DoT) Training Dummy Tick -478 (Fire)", -- [14]
+				"Mebeezwarlok Shadow Bolt Training Dummy Hit -4459 (Shadow)", -- [15]
+				"Mebeezwarlok Burning Embers (DoT) Training Dummy Tick -478 (Fire)", -- [16]
+				"Mebeezwarlok Burning Embers (DoT) Training Dummy Tick -478 (Fire)", -- [17]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Crit -1733 (Shadow)", -- [18]
+				"Mebeezwarlok Shadow Bolt Training Dummy Hit -4488 (Shadow)", -- [19]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Crit -1733 (Shadow)", -- [20]
+				"Mebeezwarlok Shadow Bolt Training Dummy Crit -8820 (Shadow)", -- [21]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Crit -1732 (Shadow)", -- [22]
+				"Mebeezwarlok Shadow Bolt Training Dummy Hit -4461 (Shadow)", -- [23]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -868 (Shadow)", -- [24]
+				"Mebeezwarlok Shadow Bolt Training Dummy Hit -5725 (Shadow)", -- [25]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -590 (Shadow)", -- [26]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -591 (Shadow)", -- [27]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -1113 (Shadow)", -- [28]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -590 (Shadow)", -- [29]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -591 (Shadow)", -- [30]
+				"Mebeezwarlok Shadow Bolt Training Dummy Hit -5315 (Shadow)", -- [31]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -1113 (Shadow)", -- [32]
+				"Mebeezwarlok Immolate Training Dummy Hit -3541 (Fire)", -- [33]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -663 (Shadow)", -- [34]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -1113 (Shadow)", -- [35]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -663 (Shadow)", -- [36]
+				"Mebeezwarlok Immolate (DoT) Training Dummy Tick -2620 (Fire)", -- [37]
+				"Mebeezwarlok Incinerate Training Dummy Hit -5910 (Fire)", -- [38]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -663 (Shadow)", -- [39]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -1114 (Shadow)", -- [40]
+				"Mebeezwarlok Immolate (DoT) Training Dummy Tick -2620 (Fire)", -- [41]
+				"Mebeezwarlok Shadow Bolt Training Dummy Hit -4107 (Shadow)", -- [42]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Crit -1322 (Shadow)", -- [43]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -1113 (Shadow)", -- [44]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Crit -1465 (Shadow)", -- [45]
+				"Mebeezwarlok Immolate (DoT) Training Dummy Crit -5225 (Fire)", -- [46]
+				"Mebeezwarlok Shadow Bolt Training Dummy Hit -4130 (Shadow)", -- [47]
+				"Mebeezwarlok Bane of Agony (DoT) Training Dummy Tick -735 (Shadow)", -- [48]
+				"Mebeezwarlok Corruption (DoT) Training Dummy Tick -1114 (Shadow)", -- [49]
+				"Mebeezwarlok Immolate (DoT) Training Dummy Tick -2620 (Fire)", -- [50]
+			},
+			["Name"] = "Mebeezwarlok",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				62143.21900000001, -- [1]
+				62143.467, -- [2]
+				62143.468, -- [3]
+				62145.029, -- [4]
+				62145.269, -- [5]
+				62145.468, -- [6]
+				62145.468, -- [7]
+				62145.75, -- [8]
+				62146.92, -- [9]
+				62147.16600000001, -- [10]
+				62147.409, -- [11]
+				62147.93300000001, -- [12]
+				62148.215, -- [13]
+				62148.816, -- [14]
+				62149.9, -- [15]
+				62149.9, -- [16]
+				62150.74, -- [17]
+				62151.303, -- [18]
+				62152.264, -- [19]
+				62153.745, -- [20]
+				62154.467, -- [21]
+				62156.705, -- [22]
+				62156.825, -- [23]
+				62159.284, -- [24]
+				62124.323, -- [25]
+				62124.924, -- [26]
+				62126.766, -- [27]
+				62127.884, -- [28]
+				62128.68300000001, -- [29]
+				62130.406, -- [30]
+				62130.686, -- [31]
+				62130.686, -- [32]
+				62131.77, -- [33]
+				62132.293, -- [34]
+				62133.501, -- [35]
+				62134.099, -- [36]
+				62134.38000000001, -- [37]
+				62135.393, -- [38]
+				62136.235, -- [39]
+				62136.236, -- [40]
+				62137.163, -- [41]
+				62137.929, -- [42]
+				62137.929, -- [43]
+				62138.929, -- [44]
+				62139.973, -- [45]
+				62139.973, -- [46]
+				62140.575, -- [47]
+				62141.615, -- [48]
+				62141.734, -- [49]
+				62142.89900000001, -- [50]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["DOTs"] = {
+						["Bane of Agony (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Immolate (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 18,
+						},
+					},
+					["ActiveTime"] = 23.6,
+					["ElementHitsDone"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 18,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 8.25,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 3.41,
+								},
+								["Incinerate"] = {
+									["count"] = 1.09,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 4.77,
+								},
+								["Immolate"] = {
+									["count"] = 3.5,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 2.58,
+								},
+							},
+							["amount"] = 23.6,
+						},
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 5693,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 7212,
+								},
+								["Incinerate"] = {
+									["count"] = 7027,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 11993,
+								},
+								["Immolate"] = {
+									["count"] = 2747,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 9848,
+								},
+							},
+							["amount"] = 44520,
+						},
+					},
+					["ElementDone"] = {
+						["Shadow"] = 22753,
+						["Fire"] = 21767,
+					},
+					["Attacks"] = {
+						["Bane of Agony (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1011,
+									["min"] = 1011,
+									["count"] = 1,
+									["amount"] = 1011,
+								},
+								["Tick"] = {
+									["max"] = 568,
+									["min"] = 506,
+									["count"] = 9,
+									["amount"] = 4682,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 5693,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2057,
+									["min"] = 2057,
+									["count"] = 1,
+									["amount"] = 2057,
+								},
+								["Tick"] = {
+									["max"] = 1031,
+									["min"] = 1031,
+									["count"] = 5,
+									["amount"] = 5155,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 7212,
+						},
+						["Incinerate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 7027,
+									["min"] = 7027,
+									["count"] = 1,
+									["amount"] = 7027,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 7027,
+						},
+						["Immolate (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3991,
+									["min"] = 3991,
+									["count"] = 1,
+									["amount"] = 3991,
+								},
+								["Tick"] = {
+									["max"] = 2001,
+									["min"] = 2000,
+									["count"] = 4,
+									["amount"] = 8002,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 11993,
+						},
+						["Immolate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2747,
+									["min"] = 2747,
+									["count"] = 1,
+									["amount"] = 2747,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2747,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4929,
+									["min"] = 4919,
+									["count"] = 2,
+									["amount"] = 9848,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 9848,
+						},
+					},
+					["ManaGained"] = {
+						["Life Tap"] = {
+							["Details"] = {
+								["Mebeezwarlok"] = {
+									["count"] = 53840,
+								},
+							},
+							["amount"] = 53840,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Mebeezwarlok"] = {
+							["Details"] = {
+								["Life Tap"] = {
+									["count"] = 53840,
+								},
+							},
+							["amount"] = 53840,
+						},
+					},
+					["TimeDamage"] = 23.6,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 8.25,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 3.41,
+								},
+								["Incinerate"] = {
+									["count"] = 1.09,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 4.77,
+								},
+								["Immolate"] = {
+									["count"] = 3.5,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 2.58,
+								},
+							},
+							["amount"] = 23.6,
+						},
+					},
+					["ManaGain"] = 53840,
+					["DOT_Time"] = 53,
+					["Damage"] = 44520,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["Bane of Agony (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 78,
+								},
+							},
+							["amount"] = 78,
+						},
+						["Immolate (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 63,
+								},
+							},
+							["amount"] = 63,
+						},
+						["Burning Embers (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 63,
+								},
+							},
+							["amount"] = 63,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 72,
+								},
+							},
+							["amount"] = 72,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 41,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 52,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 18,
+								},
+								["Crit"] = {
+									["count"] = 18,
+								},
+								["Tick"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 84,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 276,
+					["Damage"] = 282249,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 120455,
+						["Shadow"] = 161794,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 26142,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 27663,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 10036,
+								},
+								["Soul Fire"] = {
+									["count"] = 30957,
+								},
+								["Incinerate"] = {
+									["count"] = 16673,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 50330,
+								},
+								["Immolate"] = {
+									["count"] = 12459,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 107989,
+								},
+							},
+							["amount"] = 282249,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+						["Soul Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2440,
+									["min"] = 2440,
+									["count"] = 3,
+									["amount"] = 7320,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 7320,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Mebeezwarlok"] = {
+							["Details"] = {
+								["Replenishment"] = {
+									["count"] = 2186,
+								},
+								["Soul Leech"] = {
+									["count"] = 5836,
+								},
+							},
+							["amount"] = 8022,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+						["Replenishment"] = {
+							["Details"] = {
+								["Mebeezwarlok"] = {
+									["count"] = 2186,
+								},
+							},
+							["amount"] = 2186,
+						},
+						["Soul Leech"] = {
+							["Details"] = {
+								["Mebeezwarlok"] = {
+									["count"] = 5836,
+								},
+							},
+							["amount"] = 5836,
+						},
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 7320,
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 28.81,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 15.44,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 13.2,
+								},
+								["Soul Fire"] = {
+									["count"] = 1.32,
+								},
+								["Incinerate"] = {
+									["count"] = 2.75,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 12.1,
+								},
+								["Immolate"] = {
+									["count"] = 6.95,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 19.45,
+								},
+							},
+							["amount"] = 100.02,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 100.02,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Bane of Agony (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1465,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 9445,
+								},
+								["Tick"] = {
+									["max"] = 806,
+									["min"] = 0,
+									["count"] = 30,
+									["amount"] = 16697,
+								},
+							},
+							["count"] = 39,
+							["amount"] = 26142,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1871,
+									["min"] = 1604,
+									["count"] = 6,
+									["amount"] = 10544,
+								},
+								["Tick"] = {
+									["max"] = 1114,
+									["min"] = 804,
+									["count"] = 18,
+									["amount"] = 17119,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 27663,
+						},
+						["Burning Embers (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 478,
+									["min"] = 477,
+									["count"] = 21,
+									["amount"] = 10036,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 10036,
+						},
+						["Soul Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 15407,
+									["min"] = 15407,
+									["count"] = 1,
+									["amount"] = 15407,
+								},
+								["Hit"] = {
+									["max"] = 7812,
+									["min"] = 7738,
+									["count"] = 2,
+									["amount"] = 15550,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 30957,
+						},
+						["Incinerate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5910,
+									["min"] = 5155,
+									["count"] = 3,
+									["amount"] = 16673,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 16673,
+						},
+						["Immolate (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5225,
+									["min"] = 5225,
+									["count"] = 1,
+									["amount"] = 5225,
+								},
+								["Tick"] = {
+									["max"] = 2620,
+									["min"] = 2000,
+									["count"] = 20,
+									["amount"] = 45105,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 50330,
+						},
+						["Immolate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3541,
+									["min"] = 2747,
+									["count"] = 4,
+									["amount"] = 12459,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 12459,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8820,
+									["min"] = 8261,
+									["count"] = 3,
+									["amount"] = 25893,
+								},
+								["Hit"] = {
+									["max"] = 5753,
+									["min"] = 3832,
+									["count"] = 18,
+									["amount"] = 82096,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 107989,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 100.02,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 28.81,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 15.44,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 13.2,
+								},
+								["Soul Fire"] = {
+									["count"] = 1.32,
+								},
+								["Incinerate"] = {
+									["count"] = 2.75,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 12.1,
+								},
+								["Immolate"] = {
+									["count"] = 6.95,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 19.45,
+								},
+							},
+							["amount"] = 100.02,
+						},
+					},
+					["ManaGain"] = 8022,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+						["Bane of Agony (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 78,
+								},
+							},
+							["amount"] = 78,
+						},
+						["Immolate (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 63,
+								},
+							},
+							["amount"] = 63,
+						},
+						["Burning Embers (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 63,
+								},
+							},
+							["amount"] = 63,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 72,
+								},
+							},
+							["amount"] = 72,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 41,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 52,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 18,
+								},
+								["Crit"] = {
+									["count"] = 18,
+								},
+								["Tick"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 84,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 276,
+					["Damage"] = 282249,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 120455,
+						["Shadow"] = 161794,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 26142,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 27663,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 10036,
+								},
+								["Soul Fire"] = {
+									["count"] = 30957,
+								},
+								["Incinerate"] = {
+									["count"] = 16673,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 50330,
+								},
+								["Immolate"] = {
+									["count"] = 12459,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 107989,
+								},
+							},
+							["amount"] = 282249,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+						["Soul Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2440,
+									["min"] = 2440,
+									["count"] = 3,
+									["amount"] = 7320,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 7320,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Mebeezwarlok"] = {
+							["Details"] = {
+								["Replenishment"] = {
+									["count"] = 2186,
+								},
+								["Soul Leech"] = {
+									["count"] = 5836,
+								},
+							},
+							["amount"] = 8022,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+						["Replenishment"] = {
+							["Details"] = {
+								["Mebeezwarlok"] = {
+									["count"] = 2186,
+								},
+							},
+							["amount"] = 2186,
+						},
+						["Soul Leech"] = {
+							["Details"] = {
+								["Mebeezwarlok"] = {
+									["count"] = 5836,
+								},
+							},
+							["amount"] = 5836,
+						},
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 7320,
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 28.81,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 15.44,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 13.2,
+								},
+								["Soul Fire"] = {
+									["count"] = 1.32,
+								},
+								["Incinerate"] = {
+									["count"] = 2.75,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 12.1,
+								},
+								["Immolate"] = {
+									["count"] = 6.95,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 19.45,
+								},
+							},
+							["amount"] = 100.02,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 100.02,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Bane of Agony (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1465,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 9445,
+								},
+								["Tick"] = {
+									["max"] = 806,
+									["min"] = 0,
+									["count"] = 30,
+									["amount"] = 16697,
+								},
+							},
+							["count"] = 39,
+							["amount"] = 26142,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1871,
+									["min"] = 1604,
+									["count"] = 6,
+									["amount"] = 10544,
+								},
+								["Tick"] = {
+									["max"] = 1114,
+									["min"] = 804,
+									["count"] = 18,
+									["amount"] = 17119,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 27663,
+						},
+						["Burning Embers (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 478,
+									["min"] = 477,
+									["count"] = 21,
+									["amount"] = 10036,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 10036,
+						},
+						["Soul Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 15407,
+									["min"] = 15407,
+									["count"] = 1,
+									["amount"] = 15407,
+								},
+								["Hit"] = {
+									["max"] = 7812,
+									["min"] = 7738,
+									["count"] = 2,
+									["amount"] = 15550,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 30957,
+						},
+						["Incinerate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5910,
+									["min"] = 5155,
+									["count"] = 3,
+									["amount"] = 16673,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 16673,
+						},
+						["Immolate (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5225,
+									["min"] = 5225,
+									["count"] = 1,
+									["amount"] = 5225,
+								},
+								["Tick"] = {
+									["max"] = 2620,
+									["min"] = 2000,
+									["count"] = 20,
+									["amount"] = 45105,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 50330,
+						},
+						["Immolate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3541,
+									["min"] = 2747,
+									["count"] = 4,
+									["amount"] = 12459,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 12459,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8820,
+									["min"] = 8261,
+									["count"] = 3,
+									["amount"] = 25893,
+								},
+								["Hit"] = {
+									["max"] = 5753,
+									["min"] = 3832,
+									["count"] = 18,
+									["amount"] = 82096,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 107989,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 100.02,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 28.81,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 15.44,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 13.2,
+								},
+								["Soul Fire"] = {
+									["count"] = 1.32,
+								},
+								["Incinerate"] = {
+									["count"] = 2.75,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 12.1,
+								},
+								["Immolate"] = {
+									["count"] = 6.95,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 19.45,
+								},
+							},
+							["amount"] = 100.02,
+						},
+					},
+					["ManaGain"] = 8022,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["OverHeals"] = {
+						["Soul Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2440,
+									["min"] = 2440,
+									["count"] = 3,
+									["amount"] = 7320,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 7320,
+						},
+					},
+					["Overhealing"] = 7320,
+					["DOTs"] = {
+						["Bane of Agony (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+						["Immolate (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 78,
+								},
+							},
+							["amount"] = 78,
+						},
+						["Burning Embers (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 63,
+								},
+							},
+							["amount"] = 63,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Training Dummy"] = {
+									["count"] = 90,
+								},
+							},
+							["amount"] = 90,
+						},
+					},
+					["ActiveTime"] = 141.88,
+					["ElementHitsDone"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 20,
+								},
+								["Crit"] = {
+									["count"] = 21,
+								},
+								["Tick"] = {
+									["count"] = 71,
+								},
+							},
+							["amount"] = 112,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 45,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 59,
+						},
+					},
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 55.32000000000001,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 18.85,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 13.2,
+								},
+								["Soul Fire"] = {
+									["count"] = 1.32,
+								},
+								["Incinerate"] = {
+									["count"] = 3.84,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 16.87,
+								},
+								["Immolate"] = {
+									["count"] = 10.45,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 22.03000000000001,
+								},
+							},
+							["amount"] = 141.88,
+						},
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 38451,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 34875,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 10036,
+								},
+								["Soul Fire"] = {
+									["count"] = 30957,
+								},
+								["Incinerate"] = {
+									["count"] = 23700,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 62323,
+								},
+								["Immolate"] = {
+									["count"] = 15206,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 117837,
+								},
+							},
+							["amount"] = 333385,
+						},
+					},
+					["ElementDone"] = {
+						["Shadow"] = 191163,
+						["Fire"] = 142222,
+					},
+					["Attacks"] = {
+						["Bane of Agony (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1465,
+									["min"] = 784,
+									["count"] = 11,
+									["amount"] = 11712,
+								},
+								["Tick"] = {
+									["max"] = 806,
+									["min"] = 393,
+									["count"] = 48,
+									["amount"] = 26739,
+								},
+							},
+							["count"] = 59,
+							["amount"] = 38451,
+						},
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2057,
+									["min"] = 1604,
+									["count"] = 7,
+									["amount"] = 12601,
+								},
+								["Tick"] = {
+									["max"] = 1114,
+									["min"] = 804,
+									["count"] = 23,
+									["amount"] = 22274,
+								},
+							},
+							["count"] = 30,
+							["amount"] = 34875,
+						},
+						["Burning Embers (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 478,
+									["min"] = 477,
+									["count"] = 21,
+									["amount"] = 10036,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 10036,
+						},
+						["Soul Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 15407,
+									["min"] = 15407,
+									["count"] = 1,
+									["amount"] = 15407,
+								},
+								["Hit"] = {
+									["max"] = 7812,
+									["min"] = 7738,
+									["count"] = 2,
+									["amount"] = 15550,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 30957,
+						},
+						["Incinerate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 7027,
+									["min"] = 5155,
+									["count"] = 4,
+									["amount"] = 23700,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 23700,
+						},
+						["Immolate (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5225,
+									["min"] = 3991,
+									["count"] = 2,
+									["amount"] = 9216,
+								},
+								["Tick"] = {
+									["max"] = 2620,
+									["min"] = 2000,
+									["count"] = 24,
+									["amount"] = 53107,
+								},
+							},
+							["count"] = 26,
+							["amount"] = 62323,
+						},
+						["Immolate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3541,
+									["min"] = 2747,
+									["count"] = 5,
+									["amount"] = 15206,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 15206,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8820,
+									["min"] = 8261,
+									["count"] = 3,
+									["amount"] = 25893,
+								},
+								["Hit"] = {
+									["max"] = 5753,
+									["min"] = 3832,
+									["count"] = 20,
+									["amount"] = 91944,
+								},
+							},
+							["count"] = 23,
+							["amount"] = 117837,
+						},
+					},
+					["ManaGained"] = {
+						["Life Tap"] = {
+							["Details"] = {
+								["Mebeezwarlok"] = {
+									["count"] = 53840,
+								},
+							},
+							["amount"] = 53840,
+						},
+						["Soul Leech"] = {
+							["Details"] = {
+								["Mebeezwarlok"] = {
+									["count"] = 5836,
+								},
+							},
+							["amount"] = 5836,
+						},
+						["Replenishment"] = {
+							["Details"] = {
+								["Mebeezwarlok"] = {
+									["count"] = 2186,
+								},
+							},
+							["amount"] = 2186,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Mebeezwarlok"] = {
+							["Details"] = {
+								["Life Tap"] = {
+									["count"] = 53840,
+								},
+								["Soul Leech"] = {
+									["count"] = 5836,
+								},
+								["Replenishment"] = {
+									["count"] = 2186,
+								},
+							},
+							["amount"] = 61862,
+						},
+					},
+					["TimeDamage"] = 141.88,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Bane of Agony (DoT)"] = {
+									["count"] = 55.32000000000001,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 18.85,
+								},
+								["Burning Embers (DoT)"] = {
+									["count"] = 13.2,
+								},
+								["Soul Fire"] = {
+									["count"] = 1.32,
+								},
+								["Incinerate"] = {
+									["count"] = 3.84,
+								},
+								["Immolate (DoT)"] = {
+									["count"] = 16.87,
+								},
+								["Immolate"] = {
+									["count"] = 10.45,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 22.03000000000001,
+								},
+							},
+							["amount"] = 141.88,
+						},
+					},
+					["ManaGain"] = 61862,
+					["DOT_Time"] = 349,
+					["Damage"] = 333385,
+				},
+			},
+			["UnitLockout"] = 1317070649,
+			["LastActive"] = 1317070796,
+		},
+		["Silvershots"] = {
+			["GUID"] = "0x0100000004678B52",
+			["type"] = "Ungrouped",
+			["GuardianReverseGUIDs"] = {
+				["Cat"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF140CB5AD600D0E4",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "UNGROUPED",
+			["Name"] = "Silvershots",
+			["Pet"] = {
+				"Cat <Silvershots>", -- [1]
+			},
+			["Fights"] = {
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1317070823,
+			["LastFightIn"] = 2,
+		},
+	},
+	["FightNum"] = 2,
+	["CombatTimes"] = {
+		{
+			1317070649, -- [1]
+			1317070670, -- [2]
+			"15:57:29", -- [3]
+			"15:57:50", -- [4]
+			"Training Dummy", -- [5]
+		}, -- [1]
+		{
+			1317070699, -- [1]
+			1317070800, -- [2]
+			"15:58:20", -- [3]
+			"16:00:00", -- [4]
+			"Training Dummy", -- [5]
+		}, -- [2]
+	},
+	["FoughtWho"] = {
+		"Training Dummy 15:58:20-16:00:00", -- [1]
+		"Training Dummy 15:57:29-15:57:50", -- [2]
+	},
+}

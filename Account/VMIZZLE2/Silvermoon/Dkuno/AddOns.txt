@@ -1,0 +1,4 @@
+Bartender4: enabled
+ChocolateBar_Options: enabled
+Broker_MicroMenu: disabled
+Broker_XPRate: disabled

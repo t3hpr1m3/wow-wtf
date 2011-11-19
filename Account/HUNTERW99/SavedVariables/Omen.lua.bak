@@ -1,0 +1,12 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Mebeezwarlok - Silvermoon"] = "Mebeezwarlok - Silvermoon",
+	},
+	["profiles"] = {
+		["Mebeezwarlok - Silvermoon"] = {
+			["PositionY"] = 574.4999756883364,
+			["PositionX"] = 775.4999683709018,
+		},
+	},
+}

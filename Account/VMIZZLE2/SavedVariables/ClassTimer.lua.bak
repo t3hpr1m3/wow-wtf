@@ -1,0 +1,16 @@
+
+ClassTimerDB = {
+	["profileKeys"] = {
+		["Iaggro - Silvermoon"] = "Iaggro - Silvermoon",
+	},
+	["profiles"] = {
+		["Iaggro - Silvermoon"] = {
+			["Units"] = {
+				["player"] = {
+				},
+				["focus"] = {
+				},
+			},
+		},
+	},
+}

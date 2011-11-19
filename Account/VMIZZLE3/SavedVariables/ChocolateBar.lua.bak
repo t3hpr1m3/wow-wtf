@@ -1,0 +1,117 @@
+
+ChocolateBarDB = {
+	["profileKeys"] = {
+		["Professerake - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["objSettings"] = {
+				["ArkInventory_Tracking_Item"] = {
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = -1,
+				},
+				["TidyPlatesIcon"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["ArkInventory_Bags"] = {
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = -1,
+				},
+				["MoreChocolate"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["ArkInventory_Tracking_Currency"] = {
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = -1,
+				},
+				["ArkInventory_Mounts"] = {
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = -1,
+				},
+				["AtlasLoot"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["BeanCounter"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Enchantrix"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["ArkInventory_Pets"] = {
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = -1,
+				},
+				["Swatter"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Auc-Util-AutoMagic"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Bartender4"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Informant"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Auc-Util-SearchUI"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Broker_uClock"] = {
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = -1,
+				},
+				["ArkInventory_Money"] = {
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = -1,
+				},
+				["ClassTimer"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["AucAdvanced"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Omen"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Masque"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+			},
+		},
+	},
+}

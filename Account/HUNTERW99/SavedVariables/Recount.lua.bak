@@ -1,0 +1,32 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Mebeezwarlok - Silvermoon"] = "Mebeezwarlok - Silvermoon",
+	},
+	["profiles"] = {
+		["Mebeezwarlok - Silvermoon"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -395.0000294749002,
+					["x"] = 721.000332430371,
+					["w"] = 224.0000941008415,
+					["h"] = 206.0000299536109,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["MainWindowWidth"] = 224.0000941008415,
+			["MainWindowHeight"] = 206.0000299536109,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

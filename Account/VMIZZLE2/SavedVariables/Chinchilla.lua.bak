@@ -1,0 +1,36 @@
+
+Chinchilla2DB = {
+	["profileKeys"] = {
+		["Iaggro - Silvermoon"] = "Default",
+	},
+	["namespaces"] = {
+		["Ping"] = {
+		},
+		["Coordinates"] = {
+		},
+		["Appearance"] = {
+		},
+		["WheelZoom"] = {
+		},
+		["AutoZoom"] = {
+		},
+		["TrackingDots"] = {
+		},
+		["QuestTracker"] = {
+		},
+		["RangeCircle"] = {
+		},
+		["ShowHide"] = {
+		},
+		["Position"] = {
+		},
+		["Location"] = {
+		},
+		["Compass"] = {
+		},
+		["MoveButtons"] = {
+		},
+		["Expander"] = {
+		},
+	},
+}

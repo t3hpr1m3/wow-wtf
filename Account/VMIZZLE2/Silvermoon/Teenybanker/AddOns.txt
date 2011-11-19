@@ -1,0 +1,3 @@
+Bartender4: enabled
+Broker_MicroMenu: disabled
+Broker_XPRate: disabled

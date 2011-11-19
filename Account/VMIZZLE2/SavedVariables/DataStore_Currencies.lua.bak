@@ -1,0 +1,36 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Reference"] = {
+			["Currencies"] = {
+				"Dungeon and Raid|", -- [1]
+				"Justice Points|Interface\\Icons\\pvecurrency-justice", -- [2]
+				"Player vs. Player|", -- [3]
+				"Conquest Points|Interface\\Icons\\PVPCurrency-Conquest-Alliance", -- [4]
+				"Honor Points|Interface\\Icons\\PVPCurrency-Honor-Alliance", -- [5]
+			},
+			["CurrencyTextRev"] = {
+				["Justice Points"] = 2,
+				["Conquest Points"] = 4,
+				["Honor Points"] = 5,
+				["Player vs. Player"] = 3,
+				["Dungeon and Raid"] = 1,
+			},
+		},
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["Currencies"] = {
+					3, -- [1]
+					35844, -- [2]
+					7, -- [3]
+					8, -- [4]
+					27402, -- [5]
+				},
+				["lastUpdate"] = 1321711799,
+			},
+		},
+	},
+}

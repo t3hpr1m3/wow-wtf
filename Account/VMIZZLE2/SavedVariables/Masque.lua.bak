@@ -1,0 +1,43 @@
+
+MasqueDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Iaggro - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Groups"] = {
+				["Bartender4_4"] = {
+					["SkinID"] = "Dream",
+				},
+				["Bartender4_StanceBar"] = {
+					["SkinID"] = "Dream",
+				},
+				["Bartender4"] = {
+					["SkinID"] = "Dream",
+				},
+				["Bartender4_1"] = {
+					["SkinID"] = "Dream",
+				},
+				["Bartender4_PetBar"] = {
+					["SkinID"] = "Dream",
+				},
+				["Bartender4_3"] = {
+					["SkinID"] = "Dream",
+				},
+				["Bartender4_2"] = {
+					["SkinID"] = "Dream",
+				},
+				["Bartender4_MicroMenu"] = {
+					["SkinID"] = "Dream",
+				},
+				["Masque"] = {
+					["SkinID"] = "Dream",
+				},
+			},
+		},
+	},
+}

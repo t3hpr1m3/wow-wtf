@@ -1,0 +1,3934 @@
+
+ARKINVDB = {
+	["char"] = {
+		["Iaggro - Silvermoon"] = {
+			["option"] = {
+				["version"] = 3.0282,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Iaggro - Silvermoon"] = "Default",
+	},
+	["global"] = {
+		["option"] = {
+			["version"] = 3.0282,
+			["sort"] = {
+				["data"] = {
+					[9998] = {
+						["order"] = {
+							nil, -- [1]
+							nil, -- [2]
+							nil, -- [3]
+							nil, -- [4]
+							"itemstatlevel", -- [5]
+							"itemuselevel", -- [6]
+							"itemage", -- [7]
+							"itemtype", -- [8]
+							"vendorprice", -- [9]
+						},
+					},
+					[9995] = {
+						["order"] = {
+							"itemstatlevel", -- [1]
+							"itemuselevel", -- [2]
+							"itemage", -- [3]
+							"itemtype", -- [4]
+							"name", -- [5]
+							"category", -- [6]
+							"location", -- [7]
+							"vendorprice", -- [8]
+							"quality", -- [9]
+						},
+					},
+					[9999] = {
+						["order"] = {
+							"itemstatlevel", -- [1]
+							"itemuselevel", -- [2]
+							"itemage", -- [3]
+							"itemtype", -- [4]
+							"name", -- [5]
+							"category", -- [6]
+							"location", -- [7]
+							"vendorprice", -- [8]
+							"quality", -- [9]
+						},
+					},
+					[9996] = {
+						["order"] = {
+							nil, -- [1]
+							"itemstatlevel", -- [2]
+							"itemuselevel", -- [3]
+							"itemage", -- [4]
+							"itemtype", -- [5]
+							"name", -- [6]
+							"category", -- [7]
+							"location", -- [8]
+							"quality", -- [9]
+						},
+					},
+					[9997] = {
+						["order"] = {
+							nil, -- [1]
+							"itemstatlevel", -- [2]
+							"itemuselevel", -- [3]
+							"itemage", -- [4]
+							"itemtype", -- [5]
+							"category", -- [6]
+							"location", -- [7]
+							"vendorprice", -- [8]
+							"quality", -- [9]
+						},
+					},
+				},
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["option"] = {
+				["version"] = 3.0282,
+				["anchor"] = {
+					{
+						["b"] = 313.0004073827855,
+						["t"] = 881.0000545046298,
+						["l"] = 938.000269308949,
+						["r"] = 1595.99999206708,
+					}, -- [1]
+					[3] = {
+						["b"] = 225.9999164307934,
+						["t"] = 957.9999281933986,
+						["l"] = 82.0001648132471,
+						["r"] = 700.0001058634467,
+					},
+				},
+				["location"] = {
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+						["category"] = {
+							["1!437"] = 2,
+							["1!433"] = 2,
+							["1!416"] = 3,
+							["1!417"] = 2,
+							["1!424"] = 2,
+							["1!440"] = 2,
+							["1!431"] = 2,
+							["1!430"] = 2,
+							["1!435"] = 2,
+							["1!420"] = 2,
+							["1!404"] = 2,
+							["1!419"] = 2,
+							["1!418"] = 2,
+							["1!414"] = 3,
+							["1!436"] = 2,
+							["1!432"] = 2,
+						},
+					}, -- [1]
+					nil, -- [2]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [3]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [4]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [5]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [6]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [7]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [8]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [9]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [10]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [11]
+					{
+						["slot"] = {
+							["data"] = {
+								nil, -- [1]
+								nil, -- [2]
+								nil, -- [3]
+								nil, -- [4]
+								nil, -- [5]
+								{
+									["long"] = "WOW_SKILL_HERBALISM",
+								}, -- [6]
+								nil, -- [7]
+								nil, -- [8]
+								nil, -- [9]
+								{
+									["long"] = "WOW_SKILL_MINING",
+								}, -- [10]
+								nil, -- [11]
+								nil, -- [12]
+								nil, -- [13]
+								nil, -- [14]
+								nil, -- [15]
+								{
+									["long"] = "WOW_SKILL_INSCRIPTION",
+								}, -- [16]
+							},
+						},
+					}, -- [12]
+				},
+			},
+		},
+	},
+	["realm"] = {
+		["Silvermoon"] = {
+			["player"] = {
+				["version"] = 3.0282,
+				["data"] = {
+					["+Need That Bank Space"] = {
+						["info"] = {
+							["guild"] = "Need That Bank Space",
+							["money"] = 193858201,
+							["class"] = "GUILD",
+							["player_id"] = "+Need That Bank Space",
+							["class_local"] = "Guild",
+							["name"] = "Need That Bank Space",
+							["faction"] = "Alliance",
+							["faction_local"] = "Alliance",
+							["level"] = 0,
+							["guild_id"] = "+Need That Bank Space",
+							["realm"] = "Silvermoon",
+						},
+					},
+					["Iaggro"] = {
+						["info"] = {
+							["skills"] = {
+								"COOKING", -- [1]
+								"FISHING", -- [2]
+								"JEWELCRAFTING", -- [3]
+								"BLACKSMITHING", -- [4]
+								"FIRST_AID", -- [5]
+							},
+							["money"] = 15995656,
+							["class"] = "WARRIOR",
+							["player_id"] = "Iaggro",
+							["gender"] = 3,
+							["class_local"] = "Warrior",
+							["race"] = "Draenei",
+							["name"] = "Iaggro",
+							["faction"] = "Alliance",
+							["race_local"] = "Draenei",
+							["level"] = 81,
+							["faction_local"] = "Alliance",
+							["realm"] = "Silvermoon",
+						},
+						["location"] = {
+							{
+								["slot_count"] = 98,
+								["bag"] = {
+									{
+										["q"] = 1,
+										["type"] = 1,
+										["count"] = 16,
+										["slot"] = {
+											{
+												["q"] = 2,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 1,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cff1eff00|Hitem:21540:0:0:0:0:0:0:135910127:81:0|h[Elune's Lantern]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 2,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:43156:0:0:0:0:0:0:0:81:0|h[Tabard of the Wyrmrest Accord]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 3,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:21713:0:0:0:0:0:0:0:81:0|h[]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:5462:0:0:0:0:0:0:656608478:81:0|h[Dartol's Rod of Transformation]|h|r",
+												["loc_id"] = 1,
+												["slot_id"] = 4,
+												["sb"] = false,
+												["age"] = 21942669,
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 5,
+												["sb"] = false,
+												["age"] = 21942665,
+												["h"] = "|cffffffff|Hitem:40093:0:0:0:0:0:0:1614566730:81:0|h[Indestructible Potion]|h|r",
+												["count"] = 8,
+												["new"] = 2,
+											}, -- [5]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 6,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:20824:0:0:0:0:0:0:0:81:0|h[]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 7,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:41584:0:0:0:0:0:0:0:81:0|h[]|h|r",
+												["count"] = 127,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 8,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:21744:0:0:0:0:0:0:-1339208781:81:0|h[Lucky Rocket Cluster]|h|r",
+												["count"] = 11,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 4,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 9,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:36767:0:0:0:0:0:0:2062453120:81:0|h[Solid Dragon's Eye]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 10,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:34078:0:0:0:0:0:0:2057801843:81:0|h[Icehammer's Harpoon Controller]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 11,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:27667:0:0:0:0:0:0:388084887:81:0|h[]|h|r",
+												["count"] = 3,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 12,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:81:0|h[Hearthstone]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 13,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:34052:0:0:0:0:0:0:-1902624807:81:0|h[]|h|r",
+												["count"] = 2,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 14,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:21640:0:0:0:0:0:0:2018825534:81:0|h[Lunar Festival Fireworks Pack]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 1,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:20815:0:0:0:0:0:0:0:81:0|h[Jeweler's Kit]|h|r",
+												["loc_id"] = 1,
+												["slot_id"] = 15,
+												["sb"] = false,
+												["age"] = 21942670,
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [15]
+											{
+												["q"] = 4,
+												["bag_id"] = 1,
+												["loc_id"] = 1,
+												["slot_id"] = 16,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:40328:3818:3637:3497:0:0:0:528903124:81:0|h[Helm of Vital Protection]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [16]
+										},
+										["status"] = -3,
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_07_Green",
+									}, -- [1]
+									{
+										["q"] = 4,
+										["type"] = 1,
+										["count"] = 22,
+										["slot"] = {
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 1,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:43472:0:0:0:0:0:0:0:81:0|h[Snowfall Lager]|h|r",
+												["count"] = 3,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["h"] = "|cffffffff|Hitem:17058:0:0:0:0:0:0:1462762368:81:0|h[Fish Oil]|h|r",
+												["loc_id"] = 1,
+												["slot_id"] = 2,
+												["sb"] = false,
+												["age"] = 21942670,
+												["count"] = 14,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 3,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:33443:0:0:0:0:0:0:1447715712:81:0|h[Sour Goat Cheese]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 4,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:37460:0:0:0:0:0:0:0:81:0|h[Rope Pet Leash]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 5,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:21744:0:0:0:0:0:0:-1351660582:81:0|h[Lucky Rocket Cluster]|h|r",
+												["count"] = 20,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 6,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:21877:0:0:0:0:0:0:1170824576:81:0|h[Netherweave Cloth]|h|r",
+												["count"] = 5,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["h"] = "|cffffffff|Hitem:21881:0:0:0:0:0:0:-1989739904:81:0|h[Netherweb Spider Silk]|h|r",
+												["loc_id"] = 1,
+												["slot_id"] = 7,
+												["sb"] = false,
+												["age"] = 21942670,
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["h"] = "|cffffffff|Hitem:43499:0:0:0:0:0:0:0:81:0|h[Iron Boot Flask]|h|r",
+												["loc_id"] = 1,
+												["slot_id"] = 8,
+												["sb"] = true,
+												["age"] = 21942670,
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 9,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:5956:0:0:0:0:0:0:0:81:0|h[Blacksmith Hammer]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 10,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:52974:0:0:0:0:0:0:1183049856:81:0|h[Mack's Deep Sea Grog]|h|r",
+												["count"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 11,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:33445:0:0:0:0:0:0:1719334528:81:0|h[Honeymint Tea]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["h"] = "|cffffffff|Hitem:36916:0:0:0:0:0:0:880949888:81:0|h[Cobalt Bar]|h|r",
+												["loc_id"] = 1,
+												["slot_id"] = 12,
+												["sb"] = false,
+												["age"] = 21942670,
+												["count"] = 5,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 1,
+												["age"] = 21942670,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 13,
+												["sb"] = false,
+												["h"] = "|cffffffff|Hitem:62791:0:0:0:0:0:0:650331968:81:0|h[Blood Shrimp]|h|r",
+												["count"] = 17,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 14,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:33454:0:0:0:0:0:0:-2078077209:81:0|h[Salted Venison]|h|r",
+												["count"] = 7,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 4,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 15,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:39622:3253:3471:3454:0:0:0:0:81:0|h[Heroes' Dreadnaught Handguards]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [15]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 16,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:33470:0:0:0:0:0:0:1959652864:81:0|h[Frostweave Cloth]|h|r",
+												["count"] = 9,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 3,
+												["h"] = "|cff0070dd|Hitem:37627:0:3052:0:0:0:0:849205732:81:0|h[Snake Den Spaulders]|h|r",
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 17,
+												["sb"] = true,
+												["age"] = 21942670,
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [17]
+											{
+												["q"] = 4,
+												["h"] = "|cffa335ee|Hitem:39291:0:0:0:0:0:0:-2049018325:81:0|h[Torment of the Banished]|h|r",
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 18,
+												["sb"] = true,
+												["age"] = 21942670,
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [18]
+											{
+												["q"] = 4,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 19,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:40546:3818:3637:3471:0:0:0:0:81:0|h[Valorous Dreadnaught Greathelm]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [19]
+											{
+												["q"] = 4,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 20,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:40548:3811:3471:0:0:0:0:0:81:0|h[Valorous Dreadnaught Pauldrons]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [20]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 21,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:36913:0:0:0:0:0:0:600838848:81:0|h[Saronite Bar]|h|r",
+												["count"] = 15,
+												["new"] = 1,
+											}, -- [21]
+											{
+												["q"] = 1,
+												["bag_id"] = 2,
+												["loc_id"] = 1,
+												["slot_id"] = 22,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:36913:0:0:0:0:0:0:1083908224:81:0|h[Saronite Bar]|h|r",
+												["count"] = 20,
+												["new"] = 1,
+											}, -- [22]
+										},
+										["status"] = -3,
+										["h"] = "|cffa335ee|Hitem:43345:0:0:0:0:0:0:-2052291964:81:0|h[Dragon Hide Bag]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_26_Spellfire",
+									}, -- [2]
+									{
+										["q"] = 3,
+										["type"] = 1,
+										["count"] = 20,
+										["slot"] = {
+											{
+												["q"] = 1,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 1,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:58085:0:0:0:0:0:0:1041815872:81:0|h[Flask of Steelskin]|h|r",
+												["count"] = 3,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 3,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 2,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cff0070dd|Hitem:47247:0:0:0:0:0:0:822047808:81:0|h[Writ of Merit]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 1,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 3,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:21745:0:0:0:0:0:0:-1362979513:81:0|h[Elder's Moonstone]|h|r",
+												["count"] = 20,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 2,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 4,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:-1920883328:81:0|h[Khorium Lockbox]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 1,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 5,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:5951:0:0:0:0:0:0:1294828480:81:0|h[Moist Towelette]|h|r",
+												["count"] = 7,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 1,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 6,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:34753:0:0:0:0:0:0:1572708549:81:0|h[Great Feast]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 1,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 7,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:43000:0:0:0:0:0:0:1681650182:81:0|h[Dragonfin Filet]|h|r",
+												["count"] = 4,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 0,
+												["age"] = 21942669,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 8,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [8]
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 9,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [9]
+											{
+												["q"] = 1,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 10,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:21215:0:0:0:0:0:0:-1761131405:81:0|h[Graccu's Mince Meat Fruitcake]|h|r",
+												["count"] = 12,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 11,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [11]
+											{
+												["q"] = 4,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 12,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:44000:3297:3471:3293:0:0:0:900498052:81:0|h[Dragonstorm Breastplate]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 0,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 13,
+												["sb"] = false,
+												["age"] = 21942665,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [13]
+											{
+												["q"] = 0,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 14,
+												["sb"] = false,
+												["age"] = 21942663,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 15,
+												["sb"] = false,
+												["age"] = 21942665,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [15]
+											{
+												["q"] = 0,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 16,
+												["sb"] = false,
+												["age"] = 21942663,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [16]
+											{
+												["q"] = 0,
+												["age"] = 21942669,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 17,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [17]
+											{
+												["q"] = 0,
+												["age"] = 21942669,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 18,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [18]
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 19,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [19]
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 3,
+												["loc_id"] = 1,
+												["slot_id"] = 20,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [20]
+										},
+										["status"] = -3,
+										["empty"] = 11,
+										["h"] = "|cff0070dd|Hitem:34067:0:0:0:0:0:0:358824766:81:0|h[Tattered Hexcloth Sack]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_12",
+									}, -- [3]
+									{
+										["q"] = 3,
+										["type"] = 1,
+										["count"] = 20,
+										["slot"] = {
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 1,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [1]
+											{
+												["q"] = 0,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 2,
+												["sb"] = false,
+												["age"] = 21942668,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [2]
+											{
+												["q"] = 0,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 3,
+												["sb"] = false,
+												["age"] = 21942664,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [3]
+											{
+												["q"] = 0,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 4,
+												["sb"] = false,
+												["age"] = 21942664,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [4]
+											{
+												["q"] = 0,
+												["age"] = 21942669,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 5,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [5]
+											{
+												["q"] = 1,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 6,
+												["sb"] = false,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:40211:0:0:0:0:0:0:-1521389240:81:0|h[Potion of Speed]|h|r",
+												["count"] = 4,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 4,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 7,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:41168:0:3454:0:0:0:0:626282098:81:0|h[Armor Plated Combat Shotgun]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 4,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 8,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:40544:3297:3293:3471:0:0:0:0:81:0|h[Valorous Dreadnaught Breastplate]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 9,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [9]
+											{
+												["q"] = 2,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 10,
+												["sb"] = true,
+												["age"] = 21942665,
+												["h"] = "|cff1eff00|Hitem:59798:0:0:0:0:0:0:1933476480:81:0|h[Barnacle-Coated Greataxe]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 0,
+												["age"] = 21942663,
+												["loc_id"] = 1,
+												["slot_id"] = 11,
+												["sb"] = false,
+												["bag_id"] = 4,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [11]
+											{
+												["q"] = 0,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 12,
+												["sb"] = false,
+												["age"] = 21942665,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [12]
+											{
+												["q"] = 4,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 13,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffa335ee|Hitem:33326:1071:3142:0:0:0:0:1993890885:81:0|h[Bulwark of the Amani Empire]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 0,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 14,
+												["sb"] = false,
+												["age"] = 21942664,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["bag_id"] = 4,
+												["age"] = 21942662,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 15,
+												["new"] = false,
+											}, -- [15]
+											{
+												["q"] = 0,
+												["age"] = 21942663,
+												["loc_id"] = 1,
+												["slot_id"] = 16,
+												["sb"] = false,
+												["bag_id"] = 4,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [16]
+											{
+												["q"] = 0,
+												["age"] = 21942664,
+												["loc_id"] = 1,
+												["slot_id"] = 17,
+												["sb"] = false,
+												["bag_id"] = 4,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [17]
+											{
+												["q"] = 0,
+												["age"] = 21942664,
+												["loc_id"] = 1,
+												["slot_id"] = 18,
+												["sb"] = false,
+												["bag_id"] = 4,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [18]
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 19,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [19]
+											{
+												["q"] = 1,
+												["bag_id"] = 4,
+												["loc_id"] = 1,
+												["slot_id"] = 20,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:43157:0:0:0:0:0:0:0:81:0|h[Tabard of the Kirin Tor]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [20]
+										},
+										["status"] = -3,
+										["empty"] = 14,
+										["h"] = "|cff0070dd|Hitem:35516:0:0:0:0:0:0:-1767233386:81:0|h[Sun Touched Satchel]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_13",
+									}, -- [4]
+									{
+										["q"] = 2,
+										["type"] = 1,
+										["count"] = 20,
+										["slot"] = {
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["loc_id"] = 1,
+												["slot_id"] = 1,
+												["sb"] = false,
+												["age"] = 21942664,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [1]
+											{
+												["q"] = 1,
+												["bag_id"] = 5,
+												["loc_id"] = 1,
+												["slot_id"] = 2,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cffffffff|Hitem:43470:0:0:0:0:0:0:0:81:0|h[Worg Tooth Oatmeal Stout]|h|r",
+												["count"] = 3,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942662,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 3,
+												["new"] = false,
+											}, -- [3]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942662,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 4,
+												["new"] = false,
+											}, -- [4]
+											{
+												["q"] = 0,
+												["age"] = 21942663,
+												["loc_id"] = 1,
+												["slot_id"] = 5,
+												["sb"] = false,
+												["bag_id"] = 5,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [5]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["loc_id"] = 1,
+												["slot_id"] = 6,
+												["sb"] = false,
+												["age"] = 21942664,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [6]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942669,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 7,
+												["new"] = false,
+											}, -- [7]
+											{
+												["q"] = 0,
+												["age"] = 21942664,
+												["loc_id"] = 1,
+												["slot_id"] = 8,
+												["sb"] = false,
+												["bag_id"] = 5,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [8]
+											{
+												["q"] = 0,
+												["age"] = 21942669,
+												["bag_id"] = 5,
+												["loc_id"] = 1,
+												["slot_id"] = 9,
+												["sb"] = false,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [9]
+											{
+												["q"] = 0,
+												["age"] = 21942664,
+												["loc_id"] = 1,
+												["slot_id"] = 10,
+												["sb"] = false,
+												["bag_id"] = 5,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [10]
+											{
+												["q"] = 3,
+												["bag_id"] = 5,
+												["age"] = 21942661,
+												["h"] = "|cff0070dd|Hitem:12344:0:0:0:0:0:0:797398663:81:0|h[Seal of Ascension]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 1,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942662,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 12,
+												["new"] = false,
+											}, -- [12]
+											{
+												["q"] = 4,
+												["age"] = 21942668,
+												["bag_id"] = 5,
+												["loc_id"] = 1,
+												["slot_id"] = 13,
+												["sb"] = true,
+												["h"] = "|cffa335ee|Hitem:33214:2673:0:0:0:0:0:1978850918:81:0|h[Akil'zon's Talonblade]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 0,
+												["age"] = 21942663,
+												["loc_id"] = 1,
+												["slot_id"] = 14,
+												["sb"] = false,
+												["bag_id"] = 5,
+												["count"] = 1,
+												["new"] = false,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942663,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 15,
+												["new"] = false,
+											}, -- [15]
+											{
+												["q"] = 2,
+												["bag_id"] = 5,
+												["loc_id"] = 1,
+												["slot_id"] = 16,
+												["sb"] = true,
+												["age"] = 21942658,
+												["h"] = "|cff1eff00|Hitem:25978:0:0:0:0:0:0:543280044:81:0|h[Seth's Graphite Fishing Pole]|h|r",
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942662,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 17,
+												["new"] = false,
+											}, -- [17]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942662,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 18,
+												["new"] = false,
+											}, -- [18]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942664,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 19,
+												["new"] = false,
+											}, -- [19]
+											{
+												["q"] = 0,
+												["bag_id"] = 5,
+												["age"] = 21942664,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 1,
+												["slot_id"] = 20,
+												["new"] = false,
+											}, -- [20]
+										},
+										["status"] = -3,
+										["empty"] = 16,
+										["h"] = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:812310013:81:0|h[Frostweave Bag]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_EnchantedMageweave",
+									}, -- [5]
+								},
+							}, -- [1]
+							[6] = {
+								["slot_count"] = 19,
+								["bag"] = {
+									{
+										["type"] = 14,
+										["count"] = 19,
+										["slot"] = {
+											{
+												["q"] = 3,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff0070dd|Hitem:55023:0:0:0:0:0:0:1814160000:81:0|h[Hardened Obsidium Helm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 4,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40069:0:0:0:0:0:0:-2045766410:81:0|h[Heritage]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 3,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff0070dd|Hitem:54876:0:0:0:0:0:0:1033443840:81:0|h[Hardened Obsidium Shoulders]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 4,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40252:1951:0:0:0:0:0:1656449495:81:0|h[Cloak of the Shadowed Sun]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 2,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff1eff00|Hitem:59765:0:0:0:0:0:0:720601984:81:0|h[Damplight Chestplate]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 6,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+											}, -- [6]
+											{
+												["q"] = 1,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:43155:0:0:0:0:0:0:0:81:0|h[Tabard of the Ebon Blade]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 4,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:39764:3850:3293:0:0:0:0:1807567552:81:0|h[Bindings of the Hapless Prey]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 2,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff1eff00|Hitem:59802:0:0:0:0:0:0:730406592:81:0|h[Wheelman's Shattered Grasp]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 3,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff0070dd|Hitem:59785:0:0:0:0:0:0:169453504:81:0|h[Pounded Pewter Links]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 4,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40446:3822:0:0:0:0:0:1832242772:81:0|h[Dragon Brood Legguards]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 4,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40297:1075:0:0:0:0:0:1069226754:81:0|h[Sabatons of Endurance]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 2,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff1eff00|Hitem:59794:0:0:0:0:0:0:1034930048:81:0|h[Signet of Galathea]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 4,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40718:0:0:0:0:0:0:0:81:0|h[Signet of the Impregnable Fortress]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 3,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff0070dd|Hitem:44063:0:3454:3497:0:0:0:244559197:81:0|h[Figurine - Monarch Crab]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 15,
+												["new"] = 1,
+											}, -- [15]
+											{
+												["q"] = 3,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff0070dd|Hitem:37220:0:0:0:0:0:0:631640720:81:0|h[Essence of Gossamer]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 16,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 2,
+												["age"] = 21942668,
+												["bag_id"] = 1,
+												["h"] = "|cff1eff00|Hitem:59810:0:0:0:0:0:0:1717273344:81:0|h[Captain Taylor's Chopper]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 17,
+												["new"] = 1,
+											}, -- [17]
+											{
+												["q"] = 4,
+												["age"] = 21942665,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40400:1071:0:0:0:0:0:-1450042584:81:0|h[Wall of Terror]|h|r",
+												["slot_id"] = 18,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["count"] = 1,
+												["new"] = 1,
+											}, -- [18]
+											{
+												["q"] = 2,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["h"] = "|cff1eff00|Hitem:59775:0:0:0:0:0:0:1057941568:81:0|h[Breathstone-Infused Longbow]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 6,
+												["slot_id"] = 19,
+												["new"] = 1,
+											}, -- [19]
+										},
+										["status"] = -3,
+										["empty"] = 1,
+									}, -- [1]
+								},
+							},
+							[7] = {
+								["slot_count"] = 7,
+								["bag"] = {
+									{
+										["type"] = 17,
+										["count"] = 7,
+										["slot"] = {
+											{
+												["q"] = 1,
+												["type"] = "CRITTER",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\inv_pet_babyblizzardbear",
+												["h"] = "|cff71d5ff|Hspell:61855|h[Baby Blizzard Bear]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 7,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 1,
+												["type"] = "CRITTER",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Hunter_CobraStrikes",
+												["h"] = "|cff71d5ff|Hspell:61351|h[Cobra Hatchling]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 7,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 1,
+												["type"] = "CRITTER",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\INV_PET_FROSTWYRM",
+												["h"] = "|cff71d5ff|Hspell:52615|h[Frosty]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 7,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 1,
+												["type"] = "CRITTER",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "INTERFACE\\ICONS\\inv_misc_penguinpet",
+												["h"] = "|cff71d5ff|Hspell:55068|h[Mr. Chilly]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 7,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 1,
+												["type"] = "CRITTER",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\INV_Jewelry_Amulet_03",
+												["h"] = "|cff71d5ff|Hspell:48406|h[Spirit of Competition]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 7,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 1,
+												["type"] = "CRITTER",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Hunter_Pet_Bat",
+												["h"] = "|cff71d5ff|Hspell:51851|h[Vampiric Batling]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 7,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 1,
+												["type"] = "CRITTER",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\INV_Misc_Bell_01",
+												["h"] = "|cff71d5ff|Hspell:26529|h[Winter Reindeer]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 7,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+										},
+										["status"] = -3,
+									}, -- [1]
+								},
+							},
+							[8] = {
+								["slot_count"] = 15,
+								["bag"] = {
+									{
+										["type"] = 18,
+										["count"] = 15,
+										["slot"] = {
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "INTERFACE\\ICONS\\ability_mount_seahorse",
+												["h"] = "|cff71d5ff|Hspell:75207|h[Abyssal Seahorse]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
+												["h"] = "|cff71d5ff|Hspell:43688|h[Amani War Bear]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingElekkElite_Blue",
+												["h"] = "|cff71d5ff|Hspell:48027|h[Black War Elekk]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\INV_Misc_QirajiCrystal_04",
+												["h"] = "|cff71d5ff|Hspell:25953|h[Blue Qiraji Battle Tank]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_Drake_Bronze",
+												["h"] = "|cff71d5ff|Hspell:59569|h[Bronze Drake]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+												["h"] = "|cff71d5ff|Hspell:458|h[Brown Horse]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+												["h"] = "|cff71d5ff|Hspell:6648|h[Chestnut Mare]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingElekkElite_Blue",
+												["h"] = "|cff71d5ff|Hspell:35713|h[Great Blue Elekk]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+												["h"] = "|cff71d5ff|Hspell:472|h[Pinto]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingElekk_Purple",
+												["h"] = "|cff71d5ff|Hspell:35711|h[Purple Elekk]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\ability_mount_snowygryphon",
+												["h"] = "|cff71d5ff|Hspell:32240|h[Snowy Gryphon]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+												["h"] = "|cff71d5ff|Hspell:23229|h[Swift Brown Steed]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+												["h"] = "|cff71d5ff|Hspell:23227|h[Swift Palomino]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_Gryphon_01",
+												["h"] = "|cff71d5ff|Hspell:32292|h[Swift Purple Gryphon]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 21942658,
+												["texture"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+												["h"] = "|cff71d5ff|Hspell:23228|h[Swift White Steed]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 15,
+												["new"] = 1,
+											}, -- [15]
+										},
+										["status"] = -3,
+									}, -- [1]
+								},
+							},
+							[9] = {
+								["slot_count"] = 2,
+								["bag"] = {
+									{
+										["type"] = 19,
+										["count"] = 2,
+										["slot"] = {
+											{
+												["q"] = 1,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["new"] = 1,
+												["h"] = "|Htoken:Dalaran Cooking Award:Interface\\Icons\\INV_Misc_Ribbon_01|h[Dalaran Cooking Award]|h",
+												["count"] = 11,
+												["sb"] = true,
+												["loc_id"] = 9,
+												["slot_id"] = 1,
+												["texture"] = "Interface\\Icons\\INV_Misc_Ribbon_01",
+											}, -- [1]
+											{
+												["q"] = 1,
+												["age"] = 21942658,
+												["bag_id"] = 1,
+												["new"] = 1,
+												["h"] = "|Htoken:Honor Points:Interface\\Icons\\PVPCurrency-Honor-Alliance|h[Honor Points]|h",
+												["count"] = 1095,
+												["sb"] = true,
+												["loc_id"] = 9,
+												["slot_id"] = 2,
+												["texture"] = "Interface\\Icons\\PVPCurrency-Honor-Alliance",
+											}, -- [2]
+										},
+										["status"] = -3,
+									}, -- [1]
+									{
+										["type"] = 19,
+										["status"] = -6,
+									}, -- [2]
+								},
+							},
+							[3] = {
+								["slot_count"] = 156,
+								["bag"] = {
+									{
+										["q"] = 1,
+										["type"] = 1,
+										["count"] = 28,
+										["slot"] = {
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cff1eff00|Hitem:31080:0:0:0:0:0:0:483905108:81:0|h[Mercurial Stone]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cff1eff00|Hitem:37710:0:0:0:0:0:0:1234994946:81:0|h[Crashin' Thrashin' Racer Controller]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:17202:0:0:0:0:0:0:1482589104:81:0|h[Snowball]|h|r",
+												["count"] = 20,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:16960:0:0:0:0:0:0:1844021126:81:0|h[Waistband of Wrath]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:29735:0:0:0:0:0:0:1413592645:81:0|h[Holy Dust]|h|r",
+												["count"] = 8,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cff0070dd|Hitem:13209:0:0:0:0:0:0:611717847:81:0|h[Seal of the Dawn]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:16865:0:0:0:0:0:0:1567574552:81:0|h[Breastplate of Might]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:23999:0:0:0:0:0:0:0:81:0|h[Honor Hold Tabard]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:30889:1071:3142:0:0:0:0:-2057305730:81:0|h[Kaz'rogal's Hardened Heart]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40689:0:3501:3293:0:0:0:0:81:0|h[Waistguard of Living Iron]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:43154:0:0:0:0:0:0:0:81:0|h[Tabard of the Argent Crusade]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40345:3731:0:0:0:0:0:-2002165899:81:0|h[Broken Promise]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:30592:0:0:0:0:0:0:-1876201434:81:0|h[Steady Chrysoprase]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40683:0:0:0:0:0:0:0:81:0|h[Valor Medal of the First War]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:10040:0:0:0:0:0:0:2132135828:81:0|h[White Wedding Dress]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 15,
+												["new"] = 1,
+											}, -- [15]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:26043:0:0:0:0:0:0:492478381:81:0|h[Oshu'gun Crystal Powder Sample]|h|r",
+												["count"] = 32,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 16,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:21100:0:0:0:0:0:0:1979406704:81:0|h[Coin of Ancestry]|h|r",
+												["count"] = 64,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 17,
+												["new"] = 1,
+											}, -- [17]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:31804:0:0:0:0:0:0:0:81:0|h[Cenarion Expedition Tabard]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 18,
+												["new"] = 1,
+											}, -- [18]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cff0070dd|Hitem:36941:0:0:0:0:0:0:1866665002:81:0|h[Competitor's Tabard]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 19,
+												["new"] = 1,
+											}, -- [19]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:5976:0:0:0:0:0:0:0:81:0|h[Guild Tabard]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 20,
+												["new"] = 1,
+											}, -- [20]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:32501:0:0:0:0:0:0:292094898:81:0|h[Shadowmoon Insignia]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 21,
+												["new"] = 1,
+											}, -- [21]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:37127:0:0:0:0:0:0:-1479484330:81:0|h[Brightbrew Charm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 22,
+												["new"] = 1,
+											}, -- [22]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cff0070dd|Hitem:37872:0:0:0:0:0:0:684854771:81:0|h[Lavanthor's Talisman]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 23,
+												["new"] = 1,
+											}, -- [23]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:31781:0:0:0:0:0:0:0:81:0|h[Sha'tar Tabard]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 24,
+												["new"] = 1,
+											}, -- [24]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:40844:0:3664:3080:0:0:0:1830449076:81:0|h[Deadly Gladiator's Plate Legguards]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 25,
+												["new"] = 1,
+											}, -- [25]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:32082:0:0:0:0:0:0:-781037496:81:0|h[The Fel Barrier]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 26,
+												["new"] = 1,
+											}, -- [26]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffa335ee|Hitem:18822:0:0:0:0:0:0:1100065856:81:0|h[Obsidian Edged Blade]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 27,
+												["new"] = 1,
+											}, -- [27]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:32445:0:0:0:0:0:0:0:81:0|h[Skyguard Tabard]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 28,
+												["new"] = 1,
+											}, -- [28]
+										},
+										["status"] = -3,
+										["texture"] = "Interface\\Icons\\INV_Box_02",
+									}, -- [1]
+									{
+										["q"] = 2,
+										["type"] = 1,
+										["count"] = 20,
+										["slot"] = {
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cff0070dd|Hitem:33016:0:0:0:0:0:0:1643188060:81:0|h[Blue Brewfest Stein]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cff0070dd|Hitem:7724:0:0:0:0:0:0:1809244084:81:0|h[Gauntlets of Divinity]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:39610:3818:3637:3468:0:0:0:0:81:0|h[Heroes' Dreadnaught Greathelm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:2074560547:81:0|h[Small Dream Shard]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffffffff|Hitem:19182:0:0:0:0:0:0:1223624827:81:0|h[Darkmoon Faire Prize Ticket]|h|r",
+												["count"] = 5,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:32054:0:0:0:0:0:0:0:81:0|h[Merciless Gladiator's War Edge]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:39398:1953:0:0:0:0:0:1346981546:81:0|h[Massive Skeletal Ribcage]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:24546:2977:2711:3226:0:0:0:0:81:0|h[Gladiator's Plate Shoulders]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffffffff|Hitem:10034:0:0:0:0:0:0:1211160974:81:0|h[Tuxedo Shirt]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cff0070dd|Hitem:35280:0:0:0:0:0:0:1787865596:81:0|h[Tabard of Summer Flames]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffffffff|Hitem:44228:0:0:0:0:0:0:1863020956:81:0|h[Baby Spice]|h|r",
+												["count"] = 12,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:34473:0:0:0:0:0:0:1210279142:81:0|h[Commendation of Kael'thas]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cff0070dd|Hitem:39484:0:0:0:0:0:0:966565708:81:0|h[Spiked Collar of Servitude]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:44660:0:3471:0:0:0:0:2016303920:81:0|h[Drakescale Collar]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:32819:0:2759:0:0:0:0:0:81:0|h[Veteran's Scaled Bracers]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 15,
+												["new"] = 1,
+											}, -- [15]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:40545:3253:3471:3454:0:0:0:0:81:0|h[Valorous Dreadnaught Handguards]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 16,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 0,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cff9d9d9d|Hitem:22527:0:0:0:0:0:0:1643710907:81:0|h[Core of Elements]|h|r",
+												["count"] = 28,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 17,
+												["new"] = 1,
+											}, -- [17]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffffffff|Hitem:17712:0:0:0:0:0:0:2079338923:81:0|h[Winter Veil Disguise Kit]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 18,
+												["new"] = 1,
+											}, -- [18]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:40107:0:0:0:0:0:0:1412366009:81:0|h[Sand-Worn Band]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 19,
+												["new"] = 1,
+											}, -- [19]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 2,
+												["h"] = "|cffa335ee|Hitem:40722:1951:0:0:0:0:0:0:81:0|h[Platinum Mesh Cloak]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 20,
+												["new"] = 1,
+											}, -- [20]
+										},
+										["status"] = -3,
+										["h"] = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:180106282:81:0|h[Frostweave Bag]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_EnchantedMageweave",
+									}, -- [2]
+									{
+										["q"] = 3,
+										["type"] = 1,
+										["count"] = 18,
+										["slot"] = {
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffa335ee|Hitem:33500:0:0:0:0:0:0:-1668917188:81:0|h[Signet of Eternal Life]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cff0070dd|Hitem:10330:0:0:0:0:0:0:1363660072:81:0|h[Scarlet Leggings]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cff0070dd|Hitem:35573:0:0:0:0:0:0:1539185473:81:0|h[Arm Blade of Augelmir]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffffffff|Hitem:32578:0:0:0:0:0:0:696133850:81:0|h[Charged Crystal Focus]|h|r",
+												["count"] = 11,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffa335ee|Hitem:39470:0:0:0:0:0:0:2022590636:81:0|h[Medallion of the Disgraced]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffa335ee|Hitem:31859:0:0:0:0:0:0:1933925224:81:0|h[Darkmoon Card: Madness]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cff0070dd|Hitem:35601:0:0:0:0:0:0:-1997878466:81:0|h[Drakonid Arm Blade]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cff0070dd|Hitem:38259:0:0:0:0:0:0:1524415333:81:0|h[First Mate's Pocketwatch]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffa335ee|Hitem:34810:0:0:0:0:0:0:1505673498:81:0|h[Cloak of Blade Turning]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cff0070dd|Hitem:18854:0:0:0:0:0:0:0:81:0|h[Insignia of the Alliance]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffa335ee|Hitem:33812:0:0:0:0:0:0:0:81:0|h[Vindicator's Plate Greaves]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffa335ee|Hitem:37241:0:3293:0:0:0:0:1293010056:81:0|h[Ancient Aligned Girdle]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cff0070dd|Hitem:35408:0:0:0:0:0:0:0:81:0|h[Savage Plate Gauntlets]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cff0070dd|Hitem:43191:0:0:0:0:0:0:1637223298:81:0|h[Jagged Ice Band]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffffffff|Hitem:21544:0:0:0:0:0:0:0:81:0|h[Festive Blue Pant Suit]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 15,
+												["new"] = 1,
+											}, -- [15]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffa335ee|Hitem:16862:0:0:0:0:0:0:1695367894:81:0|h[Sabatons of Might]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 16,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffffffff|Hitem:22728:0:0:0:0:0:0:612382622:81:0|h[Steam Tonk Controller]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 17,
+												["new"] = 1,
+											}, -- [17]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 3,
+												["h"] = "|cffa335ee|Hitem:40426:0:0:0:0:0:0:974891163:81:0|h[Signet of the Accord]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 18,
+												["new"] = 1,
+											}, -- [18]
+										},
+										["status"] = -3,
+										["h"] = "|cff0070dd|Hitem:33117:0:0:0:0:0:0:-2055868544:81:0|h[Jack-o'-Lantern]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_28_Halloween",
+									}, -- [3]
+									{
+										["q"] = 2,
+										["type"] = 1,
+										["count"] = 18,
+										["slot"] = {
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffffffff|Hitem:34054:0:0:0:0:0:0:-1556873612:81:0|h[Infinite Dust]|h|r",
+												["count"] = 4,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffa335ee|Hitem:37401:3731:0:0:0:0:0:-1386194664:81:0|h[Red Sword of Courage]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 4,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 3,
+												["new"] = false,
+											}, -- [3]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffffffff|Hitem:21229:0:0:0:0:0:0:-1548001254:81:0|h[Qiraji Lord's Insignia]|h|r",
+												["count"] = 2,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cff0070dd|Hitem:15138:0:0:0:0:0:0:532826883:81:0|h[Onyxia Scale Cloak]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffa335ee|Hitem:39195:3231:0:0:0:0:0:856183316:81:0|h[Bracers of Lost Sentiments]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffffffff|Hitem:43007:0:0:0:0:0:0:1326150044:81:0|h[Northern Spices]|h|r",
+												["count"] = 25,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffa335ee|Hitem:24545:0:2829:3226:0:0:0:0:81:0|h[Gladiator's Plate Helm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cff1eff00|Hitem:26045:0:0:0:0:0:0:1273901022:81:0|h[Halaa Battle Token]|h|r",
+												["count"] = 21,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cff0070dd|Hitem:7726:0:0:0:0:0:0:-1987204503:81:0|h[Aegis of the Scarlet Commander]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cff0070dd|Hitem:16733:0:0:0:0:0:0:1078392176:81:0|h[Spaulders of Valor]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffffffff|Hitem:21539:0:0:0:0:0:0:0:81:0|h[Festive Purple Dress]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffa335ee|Hitem:32805:0:0:0:0:0:0:0:81:0|h[Veteran's Plate Belt]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cff0070dd|Hitem:7718:0:0:0:0:0:0:1037187154:81:0|h[Herod's Shoulder]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffffffff|Hitem:6530:0:0:0:0:0:0:1540640636:81:0|h[Nightcrawlers]|h|r",
+												["count"] = 3,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 15,
+												["new"] = 1,
+											}, -- [15]
+											{
+												["q"] = 0,
+												["age"] = 21942670,
+												["bag_id"] = 4,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 16,
+												["new"] = false,
+											}, -- [16]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffa335ee|Hitem:40266:1952:0:0:0:0:0:2063954851:81:0|h[Hero's Surrender]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 17,
+												["new"] = 1,
+											}, -- [17]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 4,
+												["h"] = "|cffa335ee|Hitem:40743:1075:0:0:0:0:0:0:81:0|h[Kyzoc's Ground Stompers]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 18,
+												["new"] = 1,
+											}, -- [18]
+										},
+										["status"] = -3,
+										["empty"] = 2,
+										["h"] = "|cff1eff00|Hitem:17966:0:0:0:0:0:0:-1076875665:81:0|h[Onyxia Hide Backpack]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_22",
+									}, -- [4]
+									{
+										["q"] = 2,
+										["type"] = 1,
+										["count"] = 18,
+										["slot"] = {
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:29017:0:0:0:0:0:0:0:81:0|h[Warbringer Handguards]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:38289:0:0:0:0:0:0:996444218:81:0|h[Coren's Lucky Coin]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 0,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cff9d9d9d|Hitem:24140:0:0:0:0:0:0:1265838588:81:0|h[Blackened Urn]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:29011:2999:2831:2743:0:0:0:0:81:0|h[Warbringer Greathelm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:40428:0:0:0:0:0:0:1679962413:81:0|h[Titan's Outlook]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cff0070dd|Hitem:44029:0:0:0:0:0:0:2088209711:81:0|h[Quickblade of Cold Return]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:39345:0:0:0:0:0:0:1164630594:81:0|h[Girdle of the Ascended Phantom]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cff0070dd|Hitem:37675:0:3446:3492:0:0:0:1665787179:81:0|h[Legplates of Steel Implants]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:37128:0:0:0:0:0:0:831401312:81:0|h[Balebrew Charm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffffffff|Hitem:28558:0:0:0:0:0:0:2057403743:81:0|h[Spirit Shard]|h|r",
+												["count"] = 20,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:39276:1071:0:0:0:0:0:-2000753672:81:0|h[The Skull of Ruin]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 0,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cff9d9d9d|Hitem:28053:0:0:0:0:0:0:0:81:0|h[Wicked Arrow]|h|r",
+												["count"] = 153,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:33499:0:0:0:0:0:0:1657434062:81:0|h[Signet of the Last Defender]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:33492:0:3112:3101:0:0:0:1750842988:81:0|h[Trollbane]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:30486:0:3139:3134:3131:0:0:0:81:0|h[Merciless Gladiator's Plate Chestpiece]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 15,
+												["new"] = 1,
+											}, -- [15]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cff0070dd|Hitem:37861:0:0:0:0:0:0:591869802:81:0|h[Necklace of Arcane Spheres]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 16,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:-1666937621:81:0|h[Siren's Tear]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 17,
+												["new"] = 1,
+											}, -- [17]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 5,
+												["h"] = "|cffa335ee|Hitem:37191:0:0:0:0:0:0:-1902520178:81:0|h[Drake-Mounted Crossbow]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 18,
+												["new"] = 1,
+											}, -- [18]
+										},
+										["status"] = -3,
+										["h"] = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:1924797844:81:0|h[Imbued Netherweave Bag]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_24_Netherweave_Imbued",
+									}, -- [5]
+									{
+										["q"] = 2,
+										["type"] = 1,
+										["count"] = 18,
+										["slot"] = {
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cffa335ee|Hitem:38287:0:0:0:0:0:0:-1877513040:81:0|h[Empty Mug of Direbrew]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cffffffff|Hitem:44114:0:0:0:0:0:0:-1176400650:81:0|h[Old Spices]|h|r",
+												["count"] = 6,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 2,
+												["new"] = 1,
+											}, -- [2]
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cff1eff00|Hitem:21213:0:0:0:0:0:0:1669105410:81:0|h[Preserved Holly]|h|r",
+												["count"] = 14,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cffa335ee|Hitem:16867:0:0:0:0:0:0:-2088243318:81:0|h[Legplates of Might]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cffa335ee|Hitem:40366:3818:0:0:0:0:0:1502774093:81:0|h[Platehelm of the Great Wyrm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cff1eff00|Hitem:22524:0:0:0:0:0:0:235806837:81:0|h[Insignia of the Crusade]|h|r",
+												["count"] = 7,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cff1eff00|Hitem:22523:0:0:0:0:0:0:444199815:81:0|h[Insignia of the Dawn]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cffffffff|Hitem:12840:0:0:0:0:0:0:863439662:81:0|h[Minion's Scourgestone]|h|r",
+												["count"] = 34,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cffffffff|Hitem:12841:0:0:0:0:0:0:-2119468370:81:0|h[Invader's Scourgestone]|h|r",
+												["count"] = 17,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cff1eff00|Hitem:12843:0:0:0:0:0:0:1612546116:81:0|h[Corruptor's Scourgestone]|h|r",
+												["count"] = 2,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cff0070dd|Hitem:39478:0:0:0:0:0:0:446822416:81:0|h[Cloak of the Deadliest Game]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cffa335ee|Hitem:30978:0:0:0:0:0:0:0:81:0|h[Onslaught Legguards]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cff1eff00|Hitem:18706:0:0:0:0:0:0:-2076904928:81:0|h[Arena Master]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 6,
+												["h"] = "|cffa335ee|Hitem:40679:0:0:0:0:0:0:0:81:0|h[Chained Military Gorget]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["age"] = 21942662,
+												["bag_id"] = 6,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 15,
+												["new"] = false,
+											}, -- [15]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 6,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 16,
+												["new"] = false,
+											}, -- [16]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 6,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 17,
+												["new"] = false,
+											}, -- [17]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 6,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 18,
+												["new"] = false,
+											}, -- [18]
+										},
+										["status"] = -3,
+										["empty"] = 4,
+										["h"] = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:84133255:81:0|h[Imbued Netherweave Bag]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_24_Netherweave_Imbued",
+									}, -- [6]
+									{
+										["q"] = 2,
+										["type"] = 1,
+										["count"] = 18,
+										["slot"] = {
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cffa335ee|Hitem:29296:0:0:0:0:0:0:1047832512:81:0|h[Band of Eternity]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 7,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 2,
+												["new"] = false,
+											}, -- [2]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cff0070dd|Hitem:44597:0:0:0:0:0:0:780132670:81:0|h[Medallion of Heroism]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 7,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 4,
+												["new"] = false,
+											}, -- [4]
+											{
+												["q"] = 4,
+												["age"] = 21942668,
+												["bag_id"] = 7,
+												["h"] = "|cffa335ee|Hitem:29758:0:0:0:0:0:0:652051048:81:0|h[Gloves of the Fallen Defender]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cff0070dd|Hitem:43102:0:0:0:0:0:0:-1398259478:81:0|h[Frozen Orb]|h|r",
+												["count"] = 4,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cffffffff|Hitem:17202:0:0:0:0:0:0:405619245:81:0|h[Snowball]|h|r",
+												["count"] = 7,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 7,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 8,
+												["new"] = false,
+											}, -- [8]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 7,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 9,
+												["new"] = false,
+											}, -- [9]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cffa335ee|Hitem:28749:2673:0:0:0:0:0:520457231:81:0|h[King's Defender]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cffa335ee|Hitem:39609:0:3492:0:0:0:0:0:81:0|h[Heroes' Dreadnaught Gauntlets]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cffa335ee|Hitem:33919:0:0:0:0:0:0:0:81:0|h[Vindicator's Band of Triumph]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cffa335ee|Hitem:41387:3818:0:0:0:0:0:1032221000:81:0|h[Tempered Titansteel Helm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 7,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 14,
+												["new"] = false,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 7,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 15,
+												["new"] = false,
+											}, -- [15]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 7,
+												["h"] = "|cffa335ee|Hitem:39606:0:3446:3467:0:0:0:0:81:0|h[Heroes' Dreadnaught Battleplate]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 16,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 7,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 17,
+												["new"] = false,
+											}, -- [17]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 7,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 18,
+												["new"] = false,
+											}, -- [18]
+										},
+										["status"] = -3,
+										["empty"] = 8,
+										["h"] = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:205267180:81:0|h[Imbued Netherweave Bag]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_24_Netherweave_Imbued",
+									}, -- [7]
+									{
+										["q"] = 2,
+										["type"] = 1,
+										["count"] = 18,
+										["slot"] = {
+											{
+												["q"] = 0,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 1,
+												["new"] = false,
+											}, -- [1]
+											{
+												["q"] = 0,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 2,
+												["new"] = false,
+											}, -- [2]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffa335ee|Hitem:43348:0:0:0:0:0:0:1843398827:81:0|h[Tabard of the Explorer]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 3,
+												["new"] = 1,
+											}, -- [3]
+											{
+												["q"] = 2,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cff1eff00|Hitem:32897:0:0:0:0:0:0:2051096486:81:0|h[Mark of the Illidari]|h|r",
+												["count"] = 13,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 4,
+												["new"] = 1,
+											}, -- [4]
+											{
+												["q"] = 0,
+												["age"] = 21942661,
+												["bag_id"] = 8,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 5,
+												["new"] = false,
+											}, -- [5]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffa335ee|Hitem:28358:0:0:0:0:0:0:0:81:0|h[Gladiator's Shield Wall]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffa335ee|Hitem:35135:0:2759:0:0:0:0:0:81:0|h[Guardian's Pendant of Triumph]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 7,
+												["new"] = 1,
+											}, -- [7]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffa335ee|Hitem:33640:1606:3057:0:0:0:0:1863612413:81:0|h[Fury]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 8,
+												["new"] = 1,
+											}, -- [8]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffa335ee|Hitem:39246:0:0:0:0:0:0:366578587:81:0|h[Amulet of Autopsy]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 9,
+												["new"] = 1,
+											}, -- [9]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffffffff|Hitem:40083:0:0:0:0:0:0:1658238390:81:0|h[Mixture of Stoneblood]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 10,
+												["new"] = 1,
+											}, -- [10]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffffffff|Hitem:35221:0:0:0:0:0:0:0:81:0|h[Tabard of the Shattered Sun]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cff0070dd|Hitem:33292:0:0:0:0:0:0:-1153013944:81:0|h[Hallowed Helm]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 3,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cff0070dd|Hitem:37863:0:0:0:0:0:0:1105888342:81:0|h[Direbrew's Remote]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 13,
+												["new"] = 1,
+											}, -- [13]
+											{
+												["q"] = 1,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffffffff|Hitem:24579:0:0:0:0:0:0:770308162:81:0|h[Mark of Honor Hold]|h|r",
+												["count"] = 10,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 14,
+												["new"] = 1,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 15,
+												["new"] = false,
+											}, -- [15]
+											{
+												["q"] = 4,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["h"] = "|cffa335ee|Hitem:33495:1606:3112:0:0:0:0:1430417346:81:0|h[Rage]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 3,
+												["slot_id"] = 16,
+												["new"] = 1,
+											}, -- [16]
+											{
+												["q"] = 0,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 17,
+												["new"] = false,
+											}, -- [17]
+											{
+												["q"] = 0,
+												["age"] = 21942660,
+												["bag_id"] = 8,
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 3,
+												["slot_id"] = 18,
+												["new"] = false,
+											}, -- [18]
+										},
+										["status"] = -3,
+										["empty"] = 6,
+										["h"] = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:2048603514:81:0|h[Imbued Netherweave Bag]|h|r",
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_24_Netherweave_Imbued",
+									}, -- [8]
+								},
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+}

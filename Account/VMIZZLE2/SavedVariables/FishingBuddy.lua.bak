@@ -1,0 +1,56 @@
+
+FishingBuddy_Info = {
+	["FishTotals"] = {
+		[1000] = 19,
+		[1001] = 19,
+	},
+	["HiddenFishies"] = {
+	},
+	["FishingSkill"] = {
+		[1001] = 0,
+	},
+	["DataFish"] = 0,
+	["Version"] = 9907,
+	["FishingHoles"] = {
+		[1001] = {
+			[6289] = 14,
+			[6308] = 3,
+			[6291] = 2,
+		},
+	},
+	["SubZones"] = {
+		[1000] = 1,
+		[1001] = "Valley of Heroes",
+	},
+	["ZoneIndex"] = {
+		"Stormwind City", -- [1]
+	},
+	["ImppDBLoaded"] = 0,
+	["Fishies"] = {
+		[6289] = {
+			["enUS"] = "Raw Longjaw Mud Snapper",
+			["mods"] = 20,
+			["quality"] = 1,
+			["level"] = 263,
+			["skill"] = 243,
+			["texture"] = "Interface\\Icons\\INV_Misc_Fish_32",
+		},
+		[6308] = {
+			["enUS"] = "Raw Bristle Whisker Catfish",
+			["mods"] = 20,
+			["quality"] = 1,
+			["level"] = 264,
+			["skill"] = 244,
+			["texture"] = "Interface\\Icons\\INV_Misc_Fish_30",
+		},
+		[6291] = {
+			["enUS"] = "Raw Brilliant Smallfish",
+			["mods"] = 20,
+			["quality"] = 1,
+			["level"] = 265,
+			["skill"] = 245,
+			["texture"] = "Interface\\Icons\\INV_Misc_Fish_08",
+		},
+	},
+	["FishInfo2"] = 0,
+}

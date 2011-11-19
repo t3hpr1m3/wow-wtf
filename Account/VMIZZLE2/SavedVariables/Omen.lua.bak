@@ -1,0 +1,19 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Iaggro - Silvermoon"] = "Iaggro - Silvermoon",
+	},
+	["profiles"] = {
+		["Iaggro - Silvermoon"] = {
+			["PositionW"] = 223.0000166180992,
+			["PositionH"] = 149.9999976748339,
+			["VGrip2"] = 128.2249629045864,
+			["PositionY"] = 241.4999794496345,
+			["PositionX"] = 1184.500005915496,
+			["ShowWith"] = {
+				["HideWhenOOC"] = true,
+			},
+			["VGrip1"] = 94.77497258165084,
+		},
+	},
+}

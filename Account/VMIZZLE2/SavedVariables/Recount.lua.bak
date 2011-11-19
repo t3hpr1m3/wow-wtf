@@ -1,0 +1,30 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Iaggro - Silvermoon"] = "Iaggro - Silvermoon",
+	},
+	["profiles"] = {
+		["Iaggro - Silvermoon"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -343.0002108378592,
+					["x"] = 795.9999110965889,
+					["w"] = 139.9999931612761,
+					["h"] = 199.9999852283563,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

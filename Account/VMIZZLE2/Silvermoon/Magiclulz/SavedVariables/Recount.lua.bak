@@ -1,0 +1,7996 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Gilneas - Cannon Camera <Magiclulz>"] = {
+			["GUID"] = "0xF150C4F4000FED0E",
+			["LastEventHealth"] = {
+				"???", -- [1]
+			},
+			["LastEventType"] = {
+				"MISC", -- [1]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					1, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["level"] = 1,
+			["LastFightIn"] = 30,
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						0, -- [1]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+					},
+					["Messages"] = {
+						"Gilneas - Cannon Camera <Magiclulz> dies.", -- [1]
+					},
+					["EventNum"] = {
+						0, -- [1]
+					},
+					["DeathAt"] = 1318197990,
+					["HealthNum"] = {
+						0, -- [1]
+					},
+					["Health"] = {
+						"???", -- [1]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+					},
+				}, -- [1]
+			},
+			["Owner"] = "Magiclulz",
+			["NextEventNum"] = 2,
+			["LastEventHealthNum"] = {
+				0, -- [1]
+			},
+			["LastEvents"] = {
+				"Gilneas - Cannon Camera <Magiclulz> dies.", -- [1]
+			},
+			["Name"] = "Gilneas - Cannon Camera",
+			["TimeLast"] = {
+				["OVERALL"] = 1318197988,
+				["DeathCount"] = 1318197988,
+			},
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
+			["LastEventTimes"] = {
+				69494.387, -- [1]
+			},
+			["UnitLockout"] = 1318197988,
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DeathCount"] = 1,
+				},
+			},
+		},
+		["Rebel Cannon <Magiclulz>"] = {
+			["GUID"] = "0xF15089F5000005D8",
+			["LastEventHealth"] = {
+				"996 (97%)", -- [1]
+				"996 (97%)", -- [2]
+				"996 (97%)", -- [3]
+				"996 (97%)", -- [4]
+				"996 (97%)", -- [5]
+				"996 (97%)", -- [6]
+				"996 (97%)", -- [7]
+				"996 (97%)", -- [8]
+				"969 (95%)", -- [9]
+				"969 (95%)", -- [10]
+				"962 (94%)", -- [11]
+				"954 (93%)", -- [12]
+				"954 (93%)", -- [13]
+				"954 (93%)", -- [14]
+				"945 (92%)", -- [15]
+				"945 (92%)", -- [16]
+				"945 (92%)", -- [17]
+				"945 (92%)", -- [18]
+				"945 (92%)", -- [19]
+				"945 (92%)", -- [20]
+				"945 (92%)", -- [21]
+				"938 (91%)", -- [22]
+				"938 (91%)", -- [23]
+				"938 (91%)", -- [24]
+				"938 (91%)", -- [25]
+				"938 (91%)", -- [26]
+				"928 (90%)", -- [27]
+				"928 (90%)", -- [28]
+				"928 (90%)", -- [29]
+				"928 (90%)", -- [30]
+				"928 (90%)", -- [31]
+				"928 (90%)", -- [32]
+				"928 (90%)", -- [33]
+				"928 (90%)", -- [34]
+				"928 (90%)", -- [35]
+				"928 (90%)", -- [36]
+				"928 (90%)", -- [37]
+				"928 (90%)", -- [38]
+				"928 (90%)", -- [39]
+				"928 (90%)", -- [40]
+				"928 (90%)", -- [41]
+				"928 (90%)", -- [42]
+				"928 (90%)", -- [43]
+				"928 (90%)", -- [44]
+				"928 (90%)", -- [45]
+				"928 (90%)", -- [46]
+				"1020 (100%)", -- [47]
+				"1002 (98%)", -- [48]
+				"996 (97%)", -- [49]
+				"996 (97%)", -- [50]
+			},
+			["LastAttackedBy"] = "Bloodfang Stalker",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeDamage"] = {
+					34.02, -- [1]
+				},
+				["Damage"] = {
+					39268, -- [1]
+				},
+				["DamageTaken"] = {
+					92, -- [1]
+				},
+				["ActiveTime"] = {
+					34.02, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "Rebel Cannon",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 35,
+			["LastEventNum"] = {
+				0.8823529411764706, -- [1]
+				[13] = 0.8823529411764706,
+				[50] = 0.9803921568627451,
+				[14] = 0.6862745098039216,
+				[9] = 0.6862745098039216,
+				[49] = 0.7843137254901961,
+				[10] = 0.7843137254901961,
+				[48] = 0.5882352941176471,
+				[26] = 0.9803921568627451,
+			},
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 10,
+			["TimeLast"] = {
+				["ActiveTime"] = 1318198294,
+				["TimeDamage"] = 1318198294,
+				["OVERALL"] = 1318198294,
+				["DamageTaken"] = 1318198282,
+				["Damage"] = 1318198294,
+			},
+			["Owner"] = "Magiclulz",
+			["LastAbility"] = 69800.45600000001,
+			["NextEventNum"] = 47,
+			["LastEventHealthNum"] = {
+				97.64705882352941, -- [1]
+				97.64705882352941, -- [2]
+				97.64705882352941, -- [3]
+				97.64705882352941, -- [4]
+				97.64705882352941, -- [5]
+				97.64705882352941, -- [6]
+				97.64705882352941, -- [7]
+				97.64705882352941, -- [8]
+				95, -- [9]
+				95, -- [10]
+				94.31372549019608, -- [11]
+				93.52941176470588, -- [12]
+				93.52941176470588, -- [13]
+				93.52941176470588, -- [14]
+				92.64705882352941, -- [15]
+				92.64705882352941, -- [16]
+				92.64705882352941, -- [17]
+				92.64705882352941, -- [18]
+				92.64705882352941, -- [19]
+				92.64705882352941, -- [20]
+				92.64705882352941, -- [21]
+				91.96078431372548, -- [22]
+				91.96078431372548, -- [23]
+				91.96078431372548, -- [24]
+				91.96078431372548, -- [25]
+				91.96078431372548, -- [26]
+				90.98039215686275, -- [27]
+				90.98039215686275, -- [28]
+				90.98039215686275, -- [29]
+				90.98039215686275, -- [30]
+				90.98039215686275, -- [31]
+				90.98039215686275, -- [32]
+				90.98039215686275, -- [33]
+				90.98039215686275, -- [34]
+				90.98039215686275, -- [35]
+				90.98039215686275, -- [36]
+				90.98039215686275, -- [37]
+				90.98039215686275, -- [38]
+				90.98039215686275, -- [39]
+				90.98039215686275, -- [40]
+				90.98039215686275, -- [41]
+				90.98039215686275, -- [42]
+				90.98039215686275, -- [43]
+				90.98039215686275, -- [44]
+				90.98039215686275, -- [45]
+				90.98039215686275, -- [46]
+				100, -- [47]
+				98.23529411764706, -- [48]
+				97.64705882352941, -- [49]
+				97.64705882352941, -- [50]
+			},
+			["LastEvents"] = {
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -9 (Physical)", -- [1]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Crit -1068 (Fire)", -- [2]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -426 (Fire)", -- [3]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -493 (Fire)", -- [4]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -568 (Fire)", -- [5]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Crit -930 (Fire)", -- [6]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -512 (Fire)", -- [7]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -500 (Fire)", -- [8]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -7 (Physical)", -- [9]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -8 (Physical)", -- [10]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Dodge", -- [11]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Miss", -- [12]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -9 (Physical)", -- [13]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -7 (Physical)", -- [14]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -581 (Fire)", -- [15]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -469 (Fire)", -- [16]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -587 (Fire)", -- [17]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -570 (Fire)", -- [18]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -555 (Fire)", -- [19]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -505 (Fire)", -- [20]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -544 (Fire)", -- [21]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -448 (Fire)", -- [22]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -559 (Fire)", -- [23]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -545 (Fire)", -- [24]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -461 (Fire)", -- [25]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -10 (Physical)", -- [26]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -449 (Fire)", -- [27]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -545 (Fire)", -- [28]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -495 (Fire)", -- [29]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -515 (Fire)", -- [30]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -459 (Fire)", -- [31]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -485 (Fire)", -- [32]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -538 (Fire)", -- [33]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -546 (Fire)", -- [34]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -571 (Fire)", -- [35]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -469 (Fire)", -- [36]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -521 (Fire)", -- [37]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -507 (Fire)", -- [38]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -448 (Fire)", -- [39]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -452 (Fire)", -- [40]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -585 (Fire)", -- [41]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -445 (Fire)", -- [42]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -570 (Fire)", -- [43]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -434 (Fire)", -- [44]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -446 (Fire)", -- [45]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Crit -852 (Fire)", -- [46]
+				"Rebel Cannon <Magiclulz> Rebel Cannon Effect Bloodfang Stalker Hit -506 (Fire)", -- [47]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -6 (Physical)", -- [48]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -8 (Physical)", -- [49]
+				"Bloodfang Stalker Melee Rebel Cannon <Magiclulz> Hit -10 (Physical)", -- [50]
+			},
+			["Name"] = "Rebel Cannon",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				true, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				true, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				69781.942, -- [1]
+				69782.098, -- [2]
+				69782.098, -- [3]
+				69782.098, -- [4]
+				69782.098, -- [5]
+				69782.098, -- [6]
+				69782.098, -- [7]
+				69782.098, -- [8]
+				69782.84699999999, -- [9]
+				69783.322, -- [10]
+				69783.57400000001, -- [11]
+				69783.707, -- [12]
+				69783.707, -- [13]
+				69784.36200000001, -- [14]
+				69784.851, -- [15]
+				69784.851, -- [16]
+				69784.851, -- [17]
+				69784.851, -- [18]
+				69784.851, -- [19]
+				69784.851, -- [20]
+				69784.851, -- [21]
+				69787.33500000001, -- [22]
+				69787.33500000001, -- [23]
+				69787.33500000001, -- [24]
+				69787.33500000001, -- [25]
+				69788.549, -- [26]
+				69788.958, -- [27]
+				69792.219, -- [28]
+				69792.655, -- [29]
+				69792.655, -- [30]
+				69792.655, -- [31]
+				69792.655, -- [32]
+				69792.656, -- [33]
+				69792.656, -- [34]
+				69792.656, -- [35]
+				69792.656, -- [36]
+				69792.656, -- [37]
+				69795.099, -- [38]
+				69795.099, -- [39]
+				69795.10000000001, -- [40]
+				69795.10000000001, -- [41]
+				69797.109, -- [42]
+				69799.935, -- [43]
+				69800.455, -- [44]
+				69800.455, -- [45]
+				69800.45600000001, -- [46]
+				69779.99400000001, -- [47]
+				69780.79000000001, -- [48]
+				69781.538, -- [49]
+				69781.942, -- [50]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Rebel Cannon Effect"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1068,
+									["min"] = 797,
+									["count"] = 4,
+									["amount"] = 3647,
+								},
+								["Hit"] = {
+									["max"] = 587,
+									["min"] = 296,
+									["count"] = 78,
+									["amount"] = 35621,
+								},
+							},
+							["count"] = 82,
+							["amount"] = 39268,
+						},
+					},
+					["TimeSpent"] = {
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Rebel Cannon Effect"] = {
+									["count"] = 34.02,
+								},
+							},
+							["amount"] = 34.02,
+						},
+					},
+					["DamageTaken"] = 92,
+					["WhoDamaged"] = {
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 92,
+								},
+							},
+							["amount"] = 92,
+						},
+					},
+					["ElementDone"] = {
+						["Fire"] = 39268,
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 78,
+								},
+							},
+							["amount"] = 82,
+						},
+					},
+					["DamagedWho"] = {
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Rebel Cannon Effect"] = {
+									["count"] = 39268,
+								},
+							},
+							["amount"] = 39268,
+						},
+					},
+					["TimeDamage"] = 34.02,
+					["TimeDamaging"] = {
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Rebel Cannon Effect"] = {
+									["count"] = 34.02,
+								},
+							},
+							["amount"] = 34.02,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 92,
+					},
+					["ActiveTime"] = 34.02,
+					["Damage"] = 39268,
+				},
+			},
+			["UnitLockout"] = 1318198264,
+			["LastActive"] = 1318198294,
+		},
+		["Lord Darius Crowley <Magiclulz>"] = {
+			["GUID"] = "0xF130899E000FEEAC",
+			["LastEventHealth"] = {
+				"???", -- [1]
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+			},
+			["TimeWindows"] = {
+				["Damage"] = {
+					55, -- [1]
+				},
+				["TimeDamage"] = {
+					3.5, -- [1]
+				},
+				["ActiveTime"] = {
+					3.5, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["level"] = 1,
+			["LastFightIn"] = 34,
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["TimeLast"] = {
+				["Damage"] = 1318198215,
+				["OVERALL"] = 1318198215,
+				["TimeDamage"] = 1318198215,
+				["ActiveTime"] = 1318198215,
+			},
+			["Owner"] = "Magiclulz",
+			["LastAbility"] = 69721.838,
+			["NextEventNum"] = 2,
+			["LastEventHealthNum"] = {
+				0, -- [1]
+			},
+			["LastEvents"] = {
+				"Lord Darius Crowley <Magiclulz> Melee Bloodfang Stalker Hit -55 (Physical)", -- [1]
+			},
+			["Name"] = "Lord Darius Crowley",
+			["LastEventIncoming"] = {
+				false, -- [1]
+			},
+			["LastEventTimes"] = {
+				69721.838, -- [1]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeSpent"] = {
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 55,
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamagedWho"] = {
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 55,
+								},
+							},
+							["amount"] = 55,
+						},
+					},
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 55,
+									["min"] = 55,
+									["count"] = 1,
+									["amount"] = 55,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 55,
+						},
+					},
+					["ActiveTime"] = 3.5,
+					["Damage"] = 55,
+				},
+			},
+			["UnitLockout"] = 1318198215,
+			["LastActive"] = 1318198215,
+		},
+		["Crowley's Horse <Magiclulz>"] = {
+			["GUID"] = "0xF150899F000FEEAB",
+			["LastEventHealth"] = {
+				"1720 (100%)", -- [1]
+				"1720 (100%)", -- [2]
+				"1702 (98%)", -- [3]
+				"1702 (98%)", -- [4]
+				"1702 (98%)", -- [5]
+				"1672 (97%)", -- [6]
+				"1662 (96%)", -- [7]
+				"1662 (96%)", -- [8]
+				"1662 (96%)", -- [9]
+				"1662 (96%)", -- [10]
+				"1662 (96%)", -- [11]
+				"1611 (93%)", -- [12]
+				"1601 (93%)", -- [13]
+				"1590 (92%)", -- [14]
+				"1583 (92%)", -- [15]
+				"1583 (92%)", -- [16]
+				"1566 (91%)", -- [17]
+				"1557 (90%)", -- [18]
+				"1549 (90%)", -- [19]
+				"1541 (89%)", -- [20]
+				"1541 (89%)", -- [21]
+				"1541 (89%)", -- [22]
+				"1512 (87%)", -- [23]
+				"1512 (87%)", -- [24]
+				"1512 (87%)", -- [25]
+				"1481 (86%)", -- [26]
+				"1481 (86%)", -- [27]
+				"1461 (84%)", -- [28]
+				"1451 (84%)", -- [29]
+				"1442 (83%)", -- [30]
+				"1442 (83%)", -- [31]
+				"1423 (82%)", -- [32]
+				"1412 (82%)", -- [33]
+				"1401 (81%)", -- [34]
+				"1401 (81%)", -- [35]
+				"1385 (80%)", -- [36]
+				"1375 (79%)", -- [37]
+				"1365 (79%)", -- [38]
+			},
+			["LastAttackedBy"] = "Bloodfang Stalker",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+			},
+			["TimeWindows"] = {
+				["DamageTaken"] = {
+					366, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "Crowley's Horse",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 34,
+			["LastEventNum"] = {
+				0.5232558139534884, -- [1]
+				0.5232558139534884, -- [2]
+				0.6395348837209303, -- [3]
+				0.6395348837209303, -- [4]
+				0.4651162790697674, -- [5]
+				0.5813953488372093, -- [6]
+				0.4651162790697674, -- [7]
+				0.6395348837209303, -- [8]
+				0.6976744186046512, -- [9]
+				0.6395348837209303, -- [10]
+				0.5232558139534884, -- [11]
+				0.5813953488372093, -- [12]
+				0.6395348837209303, -- [13]
+				0.4069767441860465, -- [14]
+				0.4651162790697674, -- [15]
+				0.5232558139534884, -- [16]
+				0.5232558139534884, -- [17]
+				0.4651162790697674, -- [18]
+				0.4651162790697674, -- [19]
+				0.5232558139534884, -- [20]
+				0.6395348837209303, -- [21]
+				0.5232558139534884, -- [22]
+				0.5232558139534884, -- [23]
+				0.6395348837209303, -- [24]
+				0.6395348837209303, -- [25]
+				0.6395348837209303, -- [26]
+				0.5232558139534884, -- [27]
+				0.5813953488372093, -- [28]
+				0.5232558139534884, -- [29]
+				0.5813953488372093, -- [30]
+				0.5232558139534884, -- [31]
+				0.6395348837209303, -- [32]
+				0.6395348837209303, -- [33]
+				0.4069767441860465, -- [34]
+				0.5232558139534884, -- [35]
+				0.5813953488372093, -- [36]
+				0.5813953488372093, -- [37]
+				0.6395348837209303, -- [38]
+			},
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 11,
+			["Owner"] = "Magiclulz",
+			["TimeLast"] = {
+				["DamageTaken"] = 1318198235,
+				["OVERALL"] = 1318198235,
+			},
+			["NextEventNum"] = 39,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				98.95348837209302, -- [3]
+				98.95348837209302, -- [4]
+				98.95348837209302, -- [5]
+				97.20930232558139, -- [6]
+				96.62790697674419, -- [7]
+				96.62790697674419, -- [8]
+				96.62790697674419, -- [9]
+				96.62790697674419, -- [10]
+				96.62790697674419, -- [11]
+				93.66279069767442, -- [12]
+				93.08139534883721, -- [13]
+				92.44186046511628, -- [14]
+				92.03488372093024, -- [15]
+				92.03488372093024, -- [16]
+				91.04651162790698, -- [17]
+				90.52325581395348, -- [18]
+				90.05813953488372, -- [19]
+				89.59302325581395, -- [20]
+				89.59302325581395, -- [21]
+				89.59302325581395, -- [22]
+				87.90697674418605, -- [23]
+				87.90697674418605, -- [24]
+				87.90697674418605, -- [25]
+				86.1046511627907, -- [26]
+				86.1046511627907, -- [27]
+				84.94186046511628, -- [28]
+				84.36046511627907, -- [29]
+				83.83720930232558, -- [30]
+				83.83720930232558, -- [31]
+				82.73255813953489, -- [32]
+				82.09302325581395, -- [33]
+				81.45348837209302, -- [34]
+				81.45348837209302, -- [35]
+				80.52325581395348, -- [36]
+				79.94186046511628, -- [37]
+				79.36046511627907, -- [38]
+			},
+			["LastEvents"] = {
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [1]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [2]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [3]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [4]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -8 (Physical)", -- [5]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -10 (Physical)", -- [6]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -8 (Physical)", -- [7]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [8]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -12 (Physical)", -- [9]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [10]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [11]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -10 (Physical)", -- [12]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [13]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -7 (Physical)", -- [14]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -8 (Physical)", -- [15]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [16]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [17]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -8 (Physical)", -- [18]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -8 (Physical)", -- [19]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [20]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [21]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [22]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [23]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [24]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [25]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [26]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [27]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -10 (Physical)", -- [28]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [29]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -10 (Physical)", -- [30]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [31]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [32]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [33]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -7 (Physical)", -- [34]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -9 (Physical)", -- [35]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -10 (Physical)", -- [36]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -10 (Physical)", -- [37]
+				"Bloodfang Stalker Melee Crowley's Horse <Magiclulz> Hit -11 (Physical)", -- [38]
+			},
+			["Name"] = "Crowley's Horse",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+			},
+			["LastEventTimes"] = {
+				69681.584, -- [1]
+				69681.586, -- [2]
+				69683.36500000001, -- [3]
+				69683.682, -- [4]
+				69683.68300000001, -- [5]
+				69684.564, -- [6]
+				69688.91100000001, -- [7]
+				69688.912, -- [8]
+				69689.24400000001, -- [9]
+				69689.52100000001, -- [10]
+				69689.522, -- [11]
+				69691.592, -- [12]
+				69695.807, -- [13]
+				69696.872, -- [14]
+				69697.807, -- [15]
+				69698.23300000001, -- [16]
+				69700.277, -- [17]
+				69706.162, -- [18]
+				69710.425, -- [19]
+				69711.715, -- [20]
+				69712.231, -- [21]
+				69712.231, -- [22]
+				69716.58900000001, -- [23]
+				69716.58900000001, -- [24]
+				69717.534, -- [25]
+				69717.78600000001, -- [26]
+				69718.607, -- [27]
+				69723.09, -- [28]
+				69725.57000000001, -- [29]
+				69728.72, -- [30]
+				69728.724, -- [31]
+				69729.98300000001, -- [32]
+				69730.762, -- [33]
+				69734.568, -- [34]
+				69734.87300000001, -- [35]
+				69736.159, -- [36]
+				69738.531, -- [37]
+				69741.67200000001, -- [38]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 38,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 38,
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 3,
+									["min"] = 3,
+									["count"] = 1,
+									["amount"] = 3,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 38,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 38,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 38,
+								},
+							},
+							["amount"] = 38,
+						},
+					},
+					["WhoDamaged"] = {
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 366,
+								},
+							},
+							["amount"] = 366,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 366,
+					},
+					["DamageTaken"] = 366,
+					["ElementTakenBlock"] = {
+						["Melee"] = 3,
+					},
+				},
+			},
+			["UnitLockout"] = 1318198175,
+			["LastActive"] = 1318198235,
+		},
+		["Gilnean Mastiff <Magiclulz>"] = {
+			["GUID"] = "0xF1308B2F000FEA35",
+			["LastEventHealth"] = {
+				"55 (63%)", -- [1]
+				"55 (63%)", -- [2]
+				"49 (56%)", -- [3]
+				"48 (55%)", -- [4]
+				"47 (54%)", -- [5]
+				"47 (54%)", -- [6]
+				"46 (53%)", -- [7]
+				"45 (52%)", -- [8]
+				"44 (51%)", -- [9]
+				"43 (50%)", -- [10]
+				"43 (50%)", -- [11]
+				"42 (48%)", -- [12]
+				"41 (47%)", -- [13]
+				"86 (100%)", -- [14]
+				"86 (100%)", -- [15]
+				"79 (91%)", -- [16]
+				"78 (90%)", -- [17]
+				"78 (90%)", -- [18]
+				"77 (89%)", -- [19]
+				"76 (88%)", -- [20]
+				"75 (87%)", -- [21]
+				"74 (86%)", -- [22]
+				"73 (84%)", -- [23]
+				"72 (83%)", -- [24]
+				"71 (82%)", -- [25]
+				"70 (81%)", -- [26]
+				"70 (81%)", -- [27]
+				"69 (80%)", -- [28]
+				"68 (79%)", -- [29]
+				"67 (77%)", -- [30]
+				"66 (76%)", -- [31]
+				"65 (75%)", -- [32]
+				"65 (75%)", -- [33]
+				"65 (75%)", -- [34]
+				"86 (100%)", -- [35]
+				"86 (100%)", -- [36]
+				"86 (100%)", -- [37]
+				"78 (90%)", -- [38]
+				"78 (90%)", -- [39]
+				"69 (80%)", -- [40]
+				"86 (100%)", -- [41]
+				"86 (100%)", -- [42]
+				"79 (91%)", -- [43]
+				"79 (91%)", -- [44]
+				"73 (84%)", -- [45]
+				"73 (84%)", -- [46]
+				"67 (77%)", -- [47]
+				"67 (77%)", -- [48]
+				"61 (70%)", -- [49]
+				"61 (70%)", -- [50]
+			},
+			["LastAttackedBy"] = "Bloodfang Lurker",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeDamage"] = {
+					72.27, -- [1]
+				},
+				["Damage"] = {
+					285, -- [1]
+				},
+				["DamageTaken"] = {
+					177, -- [1]
+				},
+				["ActiveTime"] = {
+					72.27, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "Gilnean Mastiff",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 28,
+			["LastEventNum"] = {
+				nil, -- [1]
+				6.976744186046512, -- [2]
+				nil, -- [3]
+				1.162790697674419, -- [4]
+				1.162790697674419, -- [5]
+				nil, -- [6]
+				1.162790697674419, -- [7]
+				1.162790697674419, -- [8]
+				1.162790697674419, -- [9]
+				1.162790697674419, -- [10]
+				nil, -- [11]
+				1.162790697674419, -- [12]
+				1.162790697674419, -- [13]
+				6.976744186046512, -- [14]
+				nil, -- [15]
+				1.162790697674419, -- [16]
+				1.162790697674419, -- [17]
+				nil, -- [18]
+				1.162790697674419, -- [19]
+				1.162790697674419, -- [20]
+				1.162790697674419, -- [21]
+				1.162790697674419, -- [22]
+				1.162790697674419, -- [23]
+				1.162790697674419, -- [24]
+				1.162790697674419, -- [25]
+				1.162790697674419, -- [26]
+				nil, -- [27]
+				1.162790697674419, -- [28]
+				1.162790697674419, -- [29]
+				1.162790697674419, -- [30]
+				1.162790697674419, -- [31]
+				1.162790697674419, -- [32]
+				8.139534883720931, -- [33]
+				nil, -- [34]
+				nil, -- [35]
+				9.302325581395349, -- [36]
+				nil, -- [37]
+				9.302325581395349, -- [38]
+				nil, -- [39]
+				1.162790697674419, -- [40]
+				8.139534883720931, -- [41]
+				[43] = 6.976744186046512,
+				[45] = 6.976744186046512,
+				[47] = 6.976744186046512,
+				[50] = 6.976744186046512,
+			},
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 7,
+			["TimeLast"] = {
+				["ActiveTime"] = 1318197853,
+				["TimeDamage"] = 1318197853,
+				["OVERALL"] = 1318197853,
+				["DamageTaken"] = 1318197853,
+				["Damage"] = 1318197853,
+			},
+			["Owner"] = "Magiclulz",
+			["LastAbility"] = 69359.323,
+			["NextEventNum"] = 35,
+			["LastEventHealthNum"] = {
+				63.95348837209303, -- [1]
+				63.95348837209303, -- [2]
+				56.97674418604651, -- [3]
+				55.81395348837209, -- [4]
+				54.65116279069768, -- [5]
+				54.65116279069768, -- [6]
+				53.48837209302326, -- [7]
+				52.32558139534883, -- [8]
+				51.16279069767442, -- [9]
+				50, -- [10]
+				50, -- [11]
+				48.83720930232558, -- [12]
+				47.67441860465117, -- [13]
+				100, -- [14]
+				100, -- [15]
+				91.86046511627907, -- [16]
+				90.69767441860465, -- [17]
+				90.69767441860465, -- [18]
+				89.53488372093024, -- [19]
+				88.37209302325582, -- [20]
+				87.20930232558139, -- [21]
+				86.04651162790698, -- [22]
+				84.88372093023256, -- [23]
+				83.72093023255815, -- [24]
+				82.55813953488372, -- [25]
+				81.3953488372093, -- [26]
+				81.3953488372093, -- [27]
+				80.23255813953489, -- [28]
+				79.06976744186046, -- [29]
+				77.90697674418605, -- [30]
+				76.74418604651163, -- [31]
+				75.58139534883721, -- [32]
+				75.58139534883721, -- [33]
+				75.58139534883721, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				90.69767441860465, -- [38]
+				90.69767441860465, -- [39]
+				80.23255813953489, -- [40]
+				100, -- [41]
+				100, -- [42]
+				91.86046511627907, -- [43]
+				91.86046511627907, -- [44]
+				84.88372093023256, -- [45]
+				84.88372093023256, -- [46]
+				77.90697674418605, -- [47]
+				77.90697674418605, -- [48]
+				70.93023255813954, -- [49]
+				70.93023255813954, -- [50]
+			},
+			["LastEvents"] = {
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -9 (Physical)", -- [1]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -6 (Physical)", -- [2]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -9 (Physical)", -- [3]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [4]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [5]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -8 (Physical)", -- [6]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [7]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [8]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [9]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [10]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -8 (Physical)", -- [11]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [12]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [13]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -6 (Physical)", -- [14]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -8 (Physical)", -- [15]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [16]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [17]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -8 (Physical)", -- [18]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [19]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [20]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [21]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [22]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [23]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [24]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [25]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [26]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -9 (Physical)", -- [27]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [28]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [29]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [30]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [31]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [32]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -7 (Physical)", -- [33]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -9 (Physical)", -- [34]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Crit -16 (Physical)", -- [35]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -8 (Physical)", -- [36]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -8 (Physical)", -- [37]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -8 (Physical)", -- [38]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -9 (Physical)", -- [39]
+				"Bloodfang Lurker Undying Frenzy Gilnean Mastiff <Magiclulz> Hit -1 (Physical)", -- [40]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -7 (Physical)", -- [41]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -8 (Physical)", -- [42]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -6 (Physical)", -- [43]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -8 (Physical)", -- [44]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -6 (Physical)", -- [45]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -9 (Physical)", -- [46]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -6 (Physical)", -- [47]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Crit -18 (Physical)", -- [48]
+				"Gilnean Mastiff <Magiclulz> Melee Bloodfang Lurker Hit -8 (Physical)", -- [49]
+				"Bloodfang Lurker Melee Gilnean Mastiff <Magiclulz> Hit -6 (Physical)", -- [50]
+			},
+			["Name"] = "Gilnean Mastiff",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				true, -- [4]
+				true, -- [5]
+				false, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				false, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				false, -- [15]
+				true, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				false, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				false, -- [34]
+				false, -- [35]
+				true, -- [36]
+				false, -- [37]
+				true, -- [38]
+				false, -- [39]
+				true, -- [40]
+				true, -- [41]
+				false, -- [42]
+				true, -- [43]
+				false, -- [44]
+				true, -- [45]
+				false, -- [46]
+				true, -- [47]
+				false, -- [48]
+				false, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				69338.482, -- [1]
+				69339.023, -- [2]
+				69340.326, -- [3]
+				69341.944, -- [4]
+				69342.246, -- [5]
+				69342.584, -- [6]
+				69342.58500000001, -- [7]
+				69342.586, -- [8]
+				69342.999, -- [9]
+				69343.795, -- [10]
+				69344.329, -- [11]
+				69344.572, -- [12]
+				69344.572, -- [13]
+				69353.27, -- [14]
+				69353.27100000001, -- [15]
+				69353.639, -- [16]
+				69354.849, -- [17]
+				69355.177, -- [18]
+				69355.177, -- [19]
+				69355.61200000001, -- [20]
+				69355.61200000001, -- [21]
+				69356.19, -- [22]
+				69356.443, -- [23]
+				69356.443, -- [24]
+				69356.986, -- [25]
+				69356.986, -- [26]
+				69357.242, -- [27]
+				69357.747, -- [28]
+				69357.747, -- [29]
+				69358.003, -- [30]
+				69358.522, -- [31]
+				69358.522, -- [32]
+				69359.323, -- [33]
+				69359.323, -- [34]
+				69311.391, -- [35]
+				69313.135, -- [36]
+				69313.269, -- [37]
+				69315.12700000001, -- [38]
+				69315.39900000001, -- [39]
+				69315.938, -- [40]
+				69328.052, -- [41]
+				69328.561, -- [42]
+				69330.09300000001, -- [43]
+				69330.368, -- [44]
+				69332.22500000001, -- [45]
+				69332.461, -- [46]
+				69333.925, -- [47]
+				69334.485, -- [48]
+				69336.553, -- [49]
+				69336.79300000001, -- [50]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["PartialBlock"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 2,
+									["min"] = 2,
+									["count"] = 1,
+									["amount"] = 2,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 21,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 25,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 28,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["DamageTaken"] = 177,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 0,
+						},
+						["Undying Frenzy"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 0,
+						},
+						["Undying Frenzy"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 72.27,
+					["ElementTaken"] = {
+						["Melee"] = 149,
+						["Physical"] = 28,
+					},
+					["Damage"] = 285,
+					["ElementTakenBlock"] = {
+						["Melee"] = 2,
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 7,
+									["min"] = 7,
+									["count"] = 1,
+									["amount"] = 7,
+								},
+								["Crit"] = {
+									["max"] = 18,
+									["min"] = 16,
+									["count"] = 3,
+									["amount"] = 52,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 7,
+									["count"] = 27,
+									["amount"] = 226,
+								},
+							},
+							["count"] = 31,
+							["amount"] = 285,
+						},
+					},
+					["TimeSpent"] = {
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 72.27,
+								},
+							},
+							["amount"] = 72.27,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["TimeDamage"] = 72.27,
+					["TimeDamaging"] = {
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 72.27,
+								},
+							},
+							["amount"] = 72.27,
+						},
+					},
+					["WhoDamaged"] = {
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 149,
+								},
+								["Undying Frenzy"] = {
+									["count"] = 28,
+								},
+							},
+							["amount"] = 177,
+						},
+					},
+					["DamagedWho"] = {
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 285,
+								},
+							},
+							["amount"] = 285,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 285,
+					},
+				},
+			},
+			["UnitLockout"] = 1318197739,
+			["LastActive"] = 1318197853,
+		},
+		["Josiah Avery <Magiclulz>"] = {
+			["GUID"] = "0xF1308A2A000FEA1C",
+			["LastEventHealth"] = {
+				"0 (0%)", -- [1]
+			},
+			["LastEventType"] = {
+				"MISC", -- [1]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					1, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "playertarget",
+			["level"] = 1,
+			["LastFightIn"] = 22,
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						0, -- [1]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+					},
+					["Messages"] = {
+						"Josiah Avery <Magiclulz> dies.", -- [1]
+					},
+					["EventNum"] = {
+						0, -- [1]
+					},
+					["DeathAt"] = 1318197697,
+					["HealthNum"] = {
+						0, -- [1]
+					},
+					["Health"] = {
+						"0 (0%)", -- [1]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+					},
+				}, -- [1]
+			},
+			["Owner"] = "Magiclulz",
+			["NextEventNum"] = 2,
+			["LastEventHealthNum"] = {
+				0, -- [1]
+			},
+			["LastEvents"] = {
+				"Josiah Avery <Magiclulz> dies.", -- [1]
+			},
+			["Name"] = "Josiah Avery",
+			["TimeLast"] = {
+				["OVERALL"] = 1318197695,
+				["DeathCount"] = 1318197695,
+			},
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
+			["LastEventTimes"] = {
+				69201.19100000001, -- [1]
+			},
+			["UnitLockout"] = 1318197695,
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DeathCount"] = 1,
+				},
+			},
+		},
+		["Magiclulz"] = {
+			["GUID"] = "0x0100000004B6AED9",
+			["LastEventHealth"] = {
+				"117 (92%)", -- [1]
+				"117 (92%)", -- [2]
+				"117 (92%)", -- [3]
+				"117 (92%)", -- [4]
+				"117 (92%)", -- [5]
+				"117 (92%)", -- [6]
+				"117 (92%)", -- [7]
+				"107 (84%)", -- [8]
+				"127 (100%)", -- [9]
+				"127 (100%)", -- [10]
+				"127 (100%)", -- [11]
+				"127 (100%)", -- [12]
+				"127 (100%)", -- [13]
+				"127 (100%)", -- [14]
+				"127 (100%)", -- [15]
+				"127 (100%)", -- [16]
+				"127 (100%)", -- [17]
+				"127 (100%)", -- [18]
+				"127 (100%)", -- [19]
+				"127 (100%)", -- [20]
+				"127 (100%)", -- [21]
+				"127 (100%)", -- [22]
+				"127 (100%)", -- [23]
+				"127 (100%)", -- [24]
+				"127 (100%)", -- [25]
+				"127 (100%)", -- [26]
+				"127 (100%)", -- [27]
+				"127 (100%)", -- [28]
+				"127 (100%)", -- [29]
+				"127 (100%)", -- [30]
+				"127 (100%)", -- [31]
+				"127 (100%)", -- [32]
+				"127 (100%)", -- [33]
+				"127 (100%)", -- [34]
+				"127 (100%)", -- [35]
+				"127 (100%)", -- [36]
+				"127 (100%)", -- [37]
+				"127 (100%)", -- [38]
+				"127 (100%)", -- [39]
+				"127 (100%)", -- [40]
+				"127 (100%)", -- [41]
+				"127 (100%)", -- [42]
+				"127 (100%)", -- [43]
+				"127 (100%)", -- [44]
+				"127 (100%)", -- [45]
+				"127 (100%)", -- [46]
+				"127 (100%)", -- [47]
+				"127 (100%)", -- [48]
+				"117 (92%)", -- [49]
+				"117 (92%)", -- [50]
+			},
+			["LastAttackedBy"] = "Forsaken Invader",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["HealingTaken"] = {
+					112, -- [1]
+				},
+				["DOT_Time"] = {
+					669, -- [1]
+				},
+				["ActiveTime"] = {
+					463.58, -- [1]
+				},
+				["DeathCount"] = {
+					1, -- [1]
+				},
+				["TimeDamage"] = {
+					463.58, -- [1]
+				},
+				["DamageTaken"] = {
+					508, -- [1]
+				},
+				["Damage"] = {
+					5899, -- [1]
+				},
+			},
+			["enClass"] = "MAGE",
+			["unit"] = "Magiclulz",
+			["DeathLogs"] = {
+				{
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+					},
+					["Messages"] = {
+						"Afflicted Gilnean Melee Magiclulz Hit -6 (Physical)", -- [1]
+						"Afflicted Gilnean Melee Magiclulz Hit -6 (Physical)", -- [2]
+						"Afflicted Gilnean Melee Magiclulz Hit -6 (Physical)", -- [3]
+						"Afflicted Gilnean Melee Magiclulz Hit -7 (Physical)", -- [4]
+						"Afflicted Gilnean Melee Magiclulz Hit -7 (Physical)", -- [5]
+						"Afflicted Gilnean Melee Magiclulz Hit -6 (Physical)", -- [6]
+						"Afflicted Gilnean Melee Magiclulz Hit -8 (Physical)", -- [7]
+						"Afflicted Gilnean Melee Magiclulz Hit -7 (Physical)", -- [8]
+						"Afflicted Gilnean Melee Magiclulz Hit -6 (Physical)", -- [9]
+						"Afflicted Gilnean Melee Magiclulz Hit -7 (Physical)", -- [10]
+						"Afflicted Gilnean Melee Magiclulz Hit -7 (Physical)", -- [11]
+						"Afflicted Gilnean Melee Magiclulz Hit -7 (Physical)", -- [12]
+						"Afflicted Gilnean Melee Magiclulz Hit -7 (Physical)", -- [13]
+						"Afflicted Gilnean Melee Magiclulz Hit -6 (Physical)", -- [14]
+						"Afflicted Gilnean Melee Magiclulz Hit -7 (Physical)", -- [15]
+						"Magiclulz dies.", -- [16]
+					},
+					["DeathAt"] = 1318198063,
+					["HealthNum"] = {
+						100, -- [1]
+						100, -- [2]
+						87.62886597938145, -- [3]
+						87.62886597938145, -- [4]
+						74.22680412371135, -- [5]
+						74.22680412371135, -- [6]
+						74.22680412371135, -- [7]
+						52.57731958762886, -- [8]
+						52.57731958762886, -- [9]
+						52.57731958762886, -- [10]
+						31.95876288659794, -- [11]
+						31.95876288659794, -- [12]
+						17.52577319587629, -- [13]
+						17.52577319587629, -- [14]
+						4.123711340206185, -- [15]
+						0, -- [16]
+					},
+					["MessageTimes"] = {
+						-12.1929999999993, -- [1]
+						-11.71600000000035, -- [2]
+						-9.779999999998836, -- [3]
+						-9.275000000008731, -- [4]
+						-7.862999999997555, -- [5]
+						-7.610000000000582, -- [6]
+						-7.434999999997672, -- [7]
+						-5.786000000007334, -- [8]
+						-5.650999999998021, -- [9]
+						-5.294999999998254, -- [10]
+						-3.794999999998254, -- [11]
+						-3.345000000001164, -- [12]
+						-1.796000000002096, -- [13]
+						-1.260999999998603, -- [14]
+						-0.8430000000080327, -- [15]
+						0, -- [16]
+					},
+					["KilledBy"] = "Afflicted Gilnean",
+					["Health"] = {
+						"97 (100%)", -- [1]
+						"97 (100%)", -- [2]
+						"85 (87%)", -- [3]
+						"85 (87%)", -- [4]
+						"72 (74%)", -- [5]
+						"72 (74%)", -- [6]
+						"72 (74%)", -- [7]
+						"51 (52%)", -- [8]
+						"51 (52%)", -- [9]
+						"51 (52%)", -- [10]
+						"31 (31%)", -- [11]
+						"31 (31%)", -- [12]
+						"17 (17%)", -- [13]
+						"17 (17%)", -- [14]
+						"4 (4%)", -- [15]
+						"0 (0%)", -- [16]
+					},
+					["EventNum"] = {
+						6.185567010309279, -- [1]
+						6.185567010309279, -- [2]
+						6.185567010309279, -- [3]
+						7.216494845360825, -- [4]
+						7.216494845360825, -- [5]
+						6.185567010309279, -- [6]
+						8.24742268041237, -- [7]
+						7.216494845360825, -- [8]
+						6.185567010309279, -- [9]
+						7.216494845360825, -- [10]
+						7.216494845360825, -- [11]
+						7.216494845360825, -- [12]
+						7.216494845360825, -- [13]
+						6.185567010309279, -- [14]
+						7.216494845360825, -- [15]
+						0, -- [16]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"MISC", -- [16]
+					},
+				}, -- [1]
+			},
+			["LastAbility"] = 70713.685,
+			["LastDamageTaken"] = 10,
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 48,
+			["LastEventNum"] = {
+				[7] = 7.874015748031496,
+				[30] = 7.874015748031496,
+				[47] = 7.874015748031496,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["GuardianReverseGUIDs"] = {
+				["Crowley's Horse"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF150899F000FEEAB",
+					},
+				},
+				["King Greymane's Horse"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF1508C41000FECAC",
+					},
+				},
+				["Worgen Alpha"] = {
+					["LatestGuardian"] = 3,
+					["GUIDs"] = {
+						"0xF1308962000FE7AB", -- [1]
+						"0xF130895F000FE7E6", -- [2]
+						"0xF130895F000FE824", -- [3]
+						[0] = "0xF130895F000FE76C",
+					},
+				},
+			},
+			["TimeLast"] = {
+				["DOT_Time"] = 1318198239,
+				["HealingTaken"] = 1318197448,
+				["DeathCount"] = 1318198061,
+				["ActiveTime"] = 1318199207,
+				["TimeDamage"] = 1318199207,
+				["OVERALL"] = 1318199207,
+				["DamageTaken"] = 1318199207,
+				["Damage"] = 1318199207,
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Worgen Alpha <Magiclulz>", -- [1]
+				"Josiah Avery <Magiclulz>", -- [2]
+				"Gilnean Mastiff <Magiclulz>", -- [3]
+				"King Greymane's Horse <Magiclulz>", -- [4]
+				"Gilneas - Cannon Camera <Magiclulz>", -- [5]
+				"Crowley's Horse <Magiclulz>", -- [6]
+				"Lord Darius Crowley <Magiclulz>", -- [7]
+				"Rebel Cannon <Magiclulz>", -- [8]
+			},
+			["NextEventNum"] = 32,
+			["LastEventHealthNum"] = {
+				92.1259842519685, -- [1]
+				92.1259842519685, -- [2]
+				92.1259842519685, -- [3]
+				92.1259842519685, -- [4]
+				92.1259842519685, -- [5]
+				92.1259842519685, -- [6]
+				92.1259842519685, -- [7]
+				84.25196850393701, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				100, -- [47]
+				100, -- [48]
+				92.1259842519685, -- [49]
+				92.1259842519685, -- [50]
+			},
+			["LastEvents"] = {
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [1]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [2]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [3]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [4]
+				"Magiclulz Fireball Forsaken Invader Hit -31 (Fire)", -- [5]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [6]
+				"Forsaken Invader Melee Magiclulz Hit -10 (Physical)", -- [7]
+				"Magiclulz Fire Blast Forsaken Invader Hit -44 (Fire)", -- [8]
+				"Magiclulz Fireball Forsaken Invader Hit -32 (Fire)", -- [9]
+				"Magiclulz Fireball Forsaken Invader Hit -31 (Fire)", -- [10]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [11]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [12]
+				"Magiclulz Arcane Missiles Forsaken Invader Crit -36 (Arcane)", -- [13]
+				"Magiclulz Fireball Forsaken Invader Crit -61 (Fire)", -- [14]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [15]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [16]
+				"Magiclulz Fireball Forsaken Invader Hit -32 (Fire)", -- [17]
+				"Magiclulz Fireball Forsaken Invader Hit -31 (Fire)", -- [18]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [19]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [20]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -19 (Arcane)", -- [21]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [22]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [23]
+				"Magiclulz Fireball Forsaken Invader Hit -33 (Fire)", -- [24]
+				"Magiclulz Fire Blast Forsaken Invader Hit -41 (Fire)", -- [25]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [26]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [27]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [28]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [29]
+				"Forsaken Invader Melee Magiclulz Hit -10 (Physical)", -- [30]
+				"Magiclulz Fireball Forsaken Invader Hit -31 (Fire)", -- [31]
+				"Magiclulz Fireball Forsaken Invader Miss (Fire)", -- [32]
+				"Magiclulz Fireball Forsaken Invader Hit -33 (Fire)", -- [33]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [34]
+				"Magiclulz Fireball Forsaken Invader Hit -35 (Fire)", -- [35]
+				"Magiclulz Fireball Forsaken Invader Hit -33 (Fire)", -- [36]
+				"Magiclulz Fireball Forsaken Invader Hit -35 (Fire)", -- [37]
+				"Magiclulz Fireball Forsaken Invader Hit -31 (Fire)", -- [38]
+				"Magiclulz Fire Blast Forsaken Invader Hit -44 (Fire)", -- [39]
+				"Magiclulz Fireball Forsaken Invader Hit -30 (Fire)", -- [40]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [41]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [42]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [43]
+				"Magiclulz Arcane Missiles Forsaken Invader Hit -18 (Arcane)", -- [44]
+				"Magiclulz Fireball Forsaken Invader Hit -32 (Fire)", -- [45]
+				"Magiclulz Fireball Forsaken Invader Hit -33 (Fire)", -- [46]
+				"Forsaken Invader Melee Magiclulz Hit -10 (Physical)", -- [47]
+				"Magiclulz Fire Blast Forsaken Invader Hit -42 (Fire)", -- [48]
+				"Magiclulz Fireball Forsaken Invader Hit -34 (Fire)", -- [49]
+				"Magiclulz Fireball Forsaken Invader Hit -31 (Fire)", -- [50]
+			},
+			["Name"] = "Magiclulz",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				true, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				true, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				true, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				70585.461, -- [1]
+				70585.463, -- [2]
+				70586.039, -- [3]
+				70598.44900000001, -- [4]
+				70600.13000000001, -- [5]
+				70603.313, -- [6]
+				70603.314, -- [7]
+				70604.03, -- [8]
+				70622.91800000001, -- [9]
+				70624.77400000001, -- [10]
+				70625.71400000001, -- [11]
+				70626.22199999999, -- [12]
+				70626.746, -- [13]
+				70658.57800000001, -- [14]
+				70660.2, -- [15]
+				70661.298, -- [16]
+				70686.889, -- [17]
+				70688.701, -- [18]
+				70689.424, -- [19]
+				70690.43700000001, -- [20]
+				70690.438, -- [21]
+				70699.49400000001, -- [22]
+				70701.534, -- [23]
+				70703.34300000001, -- [24]
+				70704.14900000001, -- [25]
+				70708.97199999999, -- [26]
+				70710.02100000001, -- [27]
+				70710.68700000001, -- [28]
+				70711.227, -- [29]
+				70713.412, -- [30]
+				70713.685, -- [31]
+				70403.285, -- [32]
+				70404.856, -- [33]
+				70407.35000000001, -- [34]
+				70408.779, -- [35]
+				70464.116, -- [36]
+				70466.048, -- [37]
+				70467.77400000001, -- [38]
+				70468.942, -- [39]
+				70489.72100000001, -- [40]
+				70491.357, -- [41]
+				70492.563, -- [42]
+				70493.10000000001, -- [43]
+				70493.769, -- [44]
+				70534.66, -- [45]
+				70536.14600000001, -- [46]
+				70539.106, -- [47]
+				70539.52100000001, -- [48]
+				70582.401, -- [49]
+				70584.196, -- [50]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 142,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 142,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 101,
+								},
+								["Fire Blast"] = {
+									["count"] = 41,
+								},
+							},
+							["amount"] = 142,
+						},
+						["Forsaken Assassin"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Forsaken Assassin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 7.35,
+								},
+								["Fire Blast"] = {
+									["count"] = 0.8100000000000001,
+								},
+							},
+							["amount"] = 8.16,
+						},
+						["Forsaken Assassin"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 8.16,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 34,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 101,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 101,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 41,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 41,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 41,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 8.16,
+					["TimeDamaging"] = {
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 7.35,
+								},
+								["Fire Blast"] = {
+									["count"] = 0.8100000000000001,
+								},
+							},
+							["amount"] = 8.16,
+						},
+						["Forsaken Assassin"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 135,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 63,
+						["Melee"] = 0,
+						["Arcane"] = 72,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 63,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 72,
+								},
+							},
+							["amount"] = 135,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 0,
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.36,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 1.97,
+								},
+							},
+							["amount"] = 7.33,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+						["Lord Darius Crowley"] = {
+							["Details"] = {
+								["Rebel Valor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.33,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 32,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 63,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 63,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 18,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 36,
+								},
+								["Crit"] = {
+									["max"] = 36,
+									["min"] = 36,
+									["count"] = 1,
+									["amount"] = 36,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 72,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.33,
+					["TimeDamaging"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.36,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 1.97,
+								},
+							},
+							["amount"] = 7.33,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Arcane"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+						["Lord Darius Crowley"] = {
+							["Details"] = {
+								["Rebel Valor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["TimeSpent"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.96,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 2.26,
+								},
+							},
+							["amount"] = 8.219999999999999,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 10,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 8.219999999999999,
+					["ElementTaken"] = {
+						["Melee"] = 10,
+					},
+					["Damage"] = 119,
+					["WhoHealed"] = {
+						["Lord Darius Crowley"] = {
+							["Details"] = {
+								["Rebel Valor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementDone"] = {
+						["Arcane"] = 54,
+						["Fire"] = 65,
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 65,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 54,
+								},
+							},
+							["amount"] = 119,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 8.219999999999999,
+					["TimeDamaging"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.96,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 2.26,
+								},
+							},
+							["amount"] = 8.219999999999999,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 34,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 65,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 65,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 18,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 54,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 54,
+						},
+					},
+					["WhoDamaged"] = {
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 113,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Arcane"] = 18,
+						["Fire"] = 95,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 95,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 113,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.12,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 1.1,
+								},
+							},
+							["amount"] = 6.220000000000001,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+						["Lord Darius Crowley"] = {
+							["Details"] = {
+								["Rebel Valor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 6.220000000000001,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 61,
+									["min"] = 61,
+									["count"] = 1,
+									["amount"] = 61,
+								},
+								["Hit"] = {
+									["max"] = 34,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 34,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 95,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 18,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 18,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 18,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 6.220000000000001,
+					["TimeDamaging"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.12,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 1.1,
+								},
+							},
+							["amount"] = 6.220000000000001,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["TimeSpent"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.96,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 2.26,
+								},
+							},
+							["amount"] = 8.219999999999999,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 10,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 8.219999999999999,
+					["ElementTaken"] = {
+						["Melee"] = 10,
+					},
+					["Damage"] = 119,
+					["WhoHealed"] = {
+						["Lord Darius Crowley"] = {
+							["Details"] = {
+								["Rebel Valor"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementDone"] = {
+						["Arcane"] = 54,
+						["Fire"] = 65,
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 65,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 54,
+								},
+							},
+							["amount"] = 119,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 8.219999999999999,
+					["TimeDamaging"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.96,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 2.26,
+								},
+							},
+							["amount"] = 8.219999999999999,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 34,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 65,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 65,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 18,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 54,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 54,
+						},
+					},
+					["WhoDamaged"] = {
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+						["Throw Torch (DoT)"] = {
+							["Details"] = {
+								["Bloodfang Stalker"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 118,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Fire"] = 63,
+						["Melee"] = 0,
+						["Arcane"] = 55,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Throw Torch (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 63,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 55,
+								},
+							},
+							["amount"] = 118,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Throw Torch (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.310000000000001,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 1.73,
+								},
+							},
+							["amount"] = 7.04,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.04,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 32,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 63,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 63,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 19,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 55,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 55,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Torch (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.04,
+					["TimeDamaging"] = {
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Throw Torch (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 5.310000000000001,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 1.73,
+								},
+							},
+							["amount"] = 7.04,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["ElementDoneBlock"] = {
+						["Melee"] = 2,
+					},
+					["DOTs"] = {
+						["Throw Torch (DoT)"] = {
+							["Details"] = {
+								["Bloodfang Stalker"] = {
+									["count"] = 669,
+								},
+							},
+							["amount"] = 669,
+						},
+					},
+					["TimeSpent"] = {
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 15.92,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 1.32,
+								},
+							},
+							["amount"] = 17.24,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 11.42,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 2.22,
+								},
+							},
+							["amount"] = 13.64,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 69.02999999999999,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 11.32,
+								},
+								["Fire Blast"] = {
+									["count"] = 6.08,
+								},
+							},
+							["amount"] = 86.43000000000001,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 46.5,
+								},
+								["Melee"] = {
+									["count"] = 2.87,
+								},
+							},
+							["amount"] = 49.37000000000001,
+						},
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 73.50999999999999,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 11.18,
+								},
+								["Melee"] = {
+									["count"] = 22.13,
+								},
+							},
+							["amount"] = 106.82,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 39.67,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 2.1,
+								},
+							},
+							["amount"] = 41.77,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 26.65000000000001,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 4.17,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 34.32000000000001,
+						},
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Throw Torch (DoT)"] = {
+									["count"] = 64.98,
+								},
+							},
+							["amount"] = 64.98,
+						},
+						["Forsaken Assassin"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 9.109999999999999,
+								},
+								["Fire Blast"] = {
+									["count"] = 0.8,
+								},
+							},
+							["amount"] = 9.91,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 39.09999999999999,
+								},
+							},
+							["amount"] = 39.09999999999999,
+						},
+					},
+					["DamageTaken"] = 508,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 94,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 94,
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 94,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 94,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 463.58,
+					["ElementTaken"] = {
+						["Melee"] = 508,
+					},
+					["DOT_Time"] = 669,
+					["Damage"] = 5899,
+					["WhoHealed"] = {
+						["Lord Darius Crowley"] = {
+							["Details"] = {
+								["Rebel Valor"] = {
+									["count"] = 112,
+								},
+							},
+							["amount"] = 112,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 90,
+								},
+							},
+							["amount"] = 94,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 955,
+						["Fire"] = 4145,
+						["Melee"] = 58,
+						["Arcane"] = 741,
+					},
+					["HealingTaken"] = 112,
+					["DamagedWho"] = {
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 175,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 193,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 113,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 52,
+								},
+							},
+							["amount"] = 165,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 881,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 307,
+								},
+								["Fire Blast"] = {
+									["count"] = 171,
+								},
+							},
+							["amount"] = 1359,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 527,
+								},
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 532,
+						},
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 725,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 239,
+								},
+								["Melee"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 1012,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 657,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 54,
+								},
+							},
+							["amount"] = 711,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 371,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 71,
+								},
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 447,
+						},
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Throw Torch (DoT)"] = {
+									["count"] = 955,
+								},
+							},
+							["amount"] = 955,
+						},
+						["Forsaken Assassin"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 91,
+								},
+								["Fire Blast"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 130,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 395,
+								},
+							},
+							["amount"] = 395,
+						},
+					},
+					["TimeDamage"] = 463.58,
+					["TimeDamaging"] = {
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 15.92,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 1.32,
+								},
+							},
+							["amount"] = 17.24,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 11.42,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 2.22,
+								},
+							},
+							["amount"] = 13.64,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 69.02999999999999,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 11.32,
+								},
+								["Fire Blast"] = {
+									["count"] = 6.08,
+								},
+							},
+							["amount"] = 86.43000000000001,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 46.5,
+								},
+								["Melee"] = {
+									["count"] = 2.87,
+								},
+							},
+							["amount"] = 49.37000000000001,
+						},
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 73.50999999999999,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 11.18,
+								},
+								["Melee"] = {
+									["count"] = 22.13,
+								},
+							},
+							["amount"] = 106.82,
+						},
+						["Frenzied Stalker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 39.67,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 2.1,
+								},
+							},
+							["amount"] = 41.77,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 26.65000000000001,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 4.17,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 34.32000000000001,
+						},
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Throw Torch (DoT)"] = {
+									["count"] = 64.98,
+								},
+							},
+							["amount"] = 64.98,
+						},
+						["Forsaken Assassin"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 9.109999999999999,
+								},
+								["Fire Blast"] = {
+									["count"] = 0.8,
+								},
+							},
+							["amount"] = 9.91,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 39.09999999999999,
+								},
+							},
+							["amount"] = 39.09999999999999,
+						},
+					},
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 61,
+									["min"] = 48,
+									["count"] = 7,
+									["amount"] = 375,
+								},
+								["Hit"] = {
+									["max"] = 35,
+									["min"] = 21,
+									["count"] = 124,
+									["amount"] = 3560,
+								},
+							},
+							["count"] = 134,
+							["amount"] = 3935,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 6,
+									["min"] = 6,
+									["count"] = 1,
+									["amount"] = 6,
+								},
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 5,
+									["count"] = 7,
+									["amount"] = 37,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 4,
+									["min"] = 4,
+									["count"] = 1,
+									["amount"] = 4,
+								},
+								["Crit"] = {
+									["max"] = 11,
+									["min"] = 11,
+									["count"] = 1,
+									["amount"] = 11,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 58,
+						},
+						["Throw Torch (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 7,
+									["min"] = 7,
+									["count"] = 2,
+									["amount"] = 14,
+								},
+								["Tick"] = {
+									["max"] = 5,
+									["min"] = 3,
+									["count"] = 221,
+									["amount"] = 941,
+								},
+							},
+							["count"] = 223,
+							["amount"] = 955,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 36,
+									["min"] = 35,
+									["count"] = 2,
+									["amount"] = 71,
+								},
+								["Hit"] = {
+									["max"] = 19,
+									["min"] = 17,
+									["count"] = 38,
+									["amount"] = 670,
+								},
+							},
+							["count"] = 42,
+							["amount"] = 741,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 44,
+									["min"] = 39,
+									["count"] = 5,
+									["amount"] = 210,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 210,
+						},
+					},
+					["WhoDamaged"] = {
+						["Afflicted Gilnean"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 100,
+								},
+							},
+							["amount"] = 100,
+						},
+						["Worgen Alpha <Magiclulz>"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 62,
+								},
+							},
+							["amount"] = 62,
+						},
+						["Forsaken Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 30,
+						},
+						["Rampaging Worgen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 29,
+								},
+							},
+							["amount"] = 29,
+						},
+						["Bloodfang Worgen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 174,
+								},
+							},
+							["amount"] = 174,
+						},
+						["Forsaken Assassin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 33,
+								},
+							},
+							["amount"] = 33,
+						},
+						["Worgen Runt"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 50,
+								},
+							},
+							["amount"] = 50,
+						},
+						["Bloodfang Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Bloodfang Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 221,
+								},
+							},
+							["amount"] = 223,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 129,
+								},
+							},
+							["amount"] = 139,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 38,
+								},
+							},
+							["amount"] = 42,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1318196618,
+			["LastActive"] = 1318199207,
+		},
+		["King Greymane's Horse <Magiclulz>"] = {
+			["GUID"] = "0xF1508C41000FECAC",
+			["LastEventHealth"] = {
+				"498 (100%)", -- [1]
+				"491 (98%)", -- [2]
+				"484 (97%)", -- [3]
+				"484 (97%)", -- [4]
+				"484 (97%)", -- [5]
+				"484 (97%)", -- [6]
+				"484 (97%)", -- [7]
+				"484 (97%)", -- [8]
+				"484 (97%)", -- [9]
+				"465 (93%)", -- [10]
+				"465 (93%)", -- [11]
+				"465 (93%)", -- [12]
+				"465 (93%)", -- [13]
+				"427 (85%)", -- [14]
+				"420 (84%)", -- [15]
+				"420 (84%)", -- [16]
+				"420 (84%)", -- [17]
+				"420 (84%)", -- [18]
+				"420 (84%)", -- [19]
+				"420 (84%)", -- [20]
+				"420 (84%)", -- [21]
+				"420 (84%)", -- [22]
+				"420 (84%)", -- [23]
+				"420 (84%)", -- [24]
+				"420 (84%)", -- [25]
+				"420 (84%)", -- [26]
+				"420 (84%)", -- [27]
+				"420 (84%)", -- [28]
+				"420 (84%)", -- [29]
+				"420 (84%)", -- [30]
+				"420 (84%)", -- [31]
+				"420 (84%)", -- [32]
+				"315 (63%)", -- [33]
+				"315 (63%)", -- [34]
+				"315 (63%)", -- [35]
+				"315 (63%)", -- [36]
+				"304 (61%)", -- [37]
+				"289 (58%)", -- [38]
+				"284 (57%)", -- [39]
+				"284 (57%)", -- [40]
+				"279 (56%)", -- [41]
+				"279 (56%)", -- [42]
+			},
+			["LastAttackedBy"] = "Bloodfang Ripper",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+			},
+			["TimeWindows"] = {
+				["DamageTaken"] = {
+					225, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "King Greymane's Horse",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 29,
+			["LastEventNum"] = {
+				1.405622489959839, -- [1]
+				1.405622489959839, -- [2]
+				nil, -- [3]
+				1.405622489959839, -- [4]
+				1.606425702811245, -- [5]
+				0.8032128514056225, -- [6]
+				1.004016064257028, -- [7]
+				nil, -- [8]
+				1.405622489959839, -- [9]
+				1.405622489959839, -- [10]
+				1.204819277108434, -- [11]
+				1.405622489959839, -- [12]
+				1.204819277108434, -- [13]
+				1.405622489959839, -- [14]
+				1.004016064257028, -- [15]
+				1.004016064257028, -- [16]
+				1.204819277108434, -- [17]
+				0.8032128514056225, -- [18]
+				1.204819277108434, -- [19]
+				1.606425702811245, -- [20]
+				1.204819277108434, -- [21]
+				1.405622489959839, -- [22]
+				1.204819277108434, -- [23]
+				1.004016064257028, -- [24]
+				1.004016064257028, -- [25]
+				1.004016064257028, -- [26]
+				1.405622489959839, -- [27]
+				1.405622489959839, -- [28]
+				1.204819277108434, -- [29]
+				1.004016064257028, -- [30]
+				1.204819277108434, -- [31]
+				1.204819277108434, -- [32]
+				1.204819277108434, -- [33]
+				1.004016064257028, -- [34]
+				1.004016064257028, -- [35]
+				1.004016064257028, -- [36]
+				1.004016064257028, -- [37]
+				1.004016064257028, -- [38]
+				1.004016064257028, -- [39]
+				[41] = 1.204819277108434,
+			},
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 6,
+			["Owner"] = "Magiclulz",
+			["TimeLast"] = {
+				["DamageTaken"] = 1318197965,
+				["OVERALL"] = 1318197965,
+			},
+			["NextEventNum"] = 43,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				98.59437751004016, -- [2]
+				97.18875502008032, -- [3]
+				97.18875502008032, -- [4]
+				97.18875502008032, -- [5]
+				97.18875502008032, -- [6]
+				97.18875502008032, -- [7]
+				97.18875502008032, -- [8]
+				97.18875502008032, -- [9]
+				93.37349397590361, -- [10]
+				93.37349397590361, -- [11]
+				93.37349397590361, -- [12]
+				93.37349397590361, -- [13]
+				85.7429718875502, -- [14]
+				84.33734939759036, -- [15]
+				84.33734939759036, -- [16]
+				84.33734939759036, -- [17]
+				84.33734939759036, -- [18]
+				84.33734939759036, -- [19]
+				84.33734939759036, -- [20]
+				84.33734939759036, -- [21]
+				84.33734939759036, -- [22]
+				84.33734939759036, -- [23]
+				84.33734939759036, -- [24]
+				84.33734939759036, -- [25]
+				84.33734939759036, -- [26]
+				84.33734939759036, -- [27]
+				84.33734939759036, -- [28]
+				84.33734939759036, -- [29]
+				84.33734939759036, -- [30]
+				84.33734939759036, -- [31]
+				84.33734939759036, -- [32]
+				63.25301204819277, -- [33]
+				63.25301204819277, -- [34]
+				63.25301204819277, -- [35]
+				63.25301204819277, -- [36]
+				61.04417670682731, -- [37]
+				58.03212851405623, -- [38]
+				57.0281124497992, -- [39]
+				57.0281124497992, -- [40]
+				56.02409638554217, -- [41]
+				56.02409638554217, -- [42]
+			},
+			["LastEvents"] = {
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [1]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [2]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Miss", -- [3]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [4]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -8 (Physical)", -- [5]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -4 (Physical)", -- [6]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [7]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Miss", -- [8]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [9]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [10]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [11]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [12]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [13]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [14]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [15]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [16]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [17]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -4 (Physical)", -- [18]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [19]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -8 (Physical)", -- [20]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [21]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [22]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [23]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [24]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [25]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [26]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [27]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -7 (Physical)", -- [28]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [29]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [30]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [31]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [32]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [33]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [34]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [35]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [36]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [37]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [38]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -5 (Physical)", -- [39]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Miss", -- [40]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Hit -6 (Physical)", -- [41]
+				"Bloodfang Ripper Melee King Greymane's Horse <Magiclulz> Miss", -- [42]
+			},
+			["Name"] = "King Greymane's Horse",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+			},
+			["LastEventTimes"] = {
+				69450.86900000001, -- [1]
+				69451.44500000001, -- [2]
+				69453.844, -- [3]
+				69455.30100000001, -- [4]
+				69455.30100000001, -- [5]
+				69455.302, -- [6]
+				69455.927, -- [7]
+				69455.927, -- [8]
+				69455.927, -- [9]
+				69456.527, -- [10]
+				69456.52800000001, -- [11]
+				69456.52800000001, -- [12]
+				69456.529, -- [13]
+				69457.284, -- [14]
+				69463.04700000001, -- [15]
+				69463.04700000001, -- [16]
+				69463.04700000001, -- [17]
+				69463.048, -- [18]
+				69463.048, -- [19]
+				69463.048, -- [20]
+				69463.048, -- [21]
+				69463.049, -- [22]
+				69463.307, -- [23]
+				69463.57000000001, -- [24]
+				69463.571, -- [25]
+				69463.571, -- [26]
+				69463.572, -- [27]
+				69463.572, -- [28]
+				69463.573, -- [29]
+				69463.573, -- [30]
+				69463.57400000001, -- [31]
+				69463.57400000001, -- [32]
+				69465.054, -- [33]
+				69465.054, -- [34]
+				69465.338, -- [35]
+				69465.50600000001, -- [36]
+				69465.81600000001, -- [37]
+				69467.424, -- [38]
+				69469.939, -- [39]
+				69470.02100000001, -- [40]
+				69470.96000000001, -- [41]
+				69470.961, -- [42]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 42,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 42,
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 2,
+									["min"] = 2,
+									["count"] = 1,
+									["amount"] = 2,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 42,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 42,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 38,
+								},
+							},
+							["amount"] = 42,
+						},
+					},
+					["WhoDamaged"] = {
+						["Bloodfang Ripper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 225,
+								},
+							},
+							["amount"] = 225,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 225,
+					},
+					["DamageTaken"] = 225,
+					["ElementTakenBlock"] = {
+						["Melee"] = 2,
+					},
+				},
+			},
+			["UnitLockout"] = 1318197945,
+			["LastActive"] = 1318197965,
+		},
+	},
+	["FightNum"] = 49,
+	["CombatTimes"] = {
+		{
+			1318196618, -- [1]
+			1318196622, -- [2]
+			"16:43:38", -- [3]
+			"16:43:42", -- [4]
+			"Rampaging Worgen", -- [5]
+		}, -- [1]
+		{
+			1318196715, -- [1]
+			1318196723, -- [2]
+			"16:45:15", -- [3]
+			"16:45:23", -- [4]
+			"Rampaging Worgen", -- [5]
+		}, -- [2]
+		{
+			1318196728, -- [1]
+			1318196732, -- [2]
+			"16:45:29", -- [3]
+			"16:45:32", -- [4]
+			"Rampaging Worgen", -- [5]
+		}, -- [3]
+		{
+			1318196761, -- [1]
+			1318196765, -- [2]
+			"16:46:01", -- [3]
+			"16:46:05", -- [4]
+			"Rampaging Worgen", -- [5]
+		}, -- [4]
+		{
+			1318196775, -- [1]
+			1318196781, -- [2]
+			"16:46:15", -- [3]
+			"16:46:21", -- [4]
+			"Rampaging Worgen", -- [5]
+		}, -- [5]
+		{
+			1318196804, -- [1]
+			1318196808, -- [2]
+			"16:46:44", -- [3]
+			"16:46:48", -- [4]
+			"Rampaging Worgen", -- [5]
+		}, -- [6]
+		{
+			1318196873, -- [1]
+			1318196877, -- [2]
+			"16:47:54", -- [3]
+			"16:47:57", -- [4]
+			"Rampaging Worgen", -- [5]
+		}, -- [7]
+		{
+			1318196964, -- [1]
+			1318196983, -- [2]
+			"16:49:24", -- [3]
+			"16:49:43", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [8]
+		{
+			1318196987, -- [1]
+			1318196991, -- [2]
+			"16:49:47", -- [3]
+			"16:49:51", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [9]
+		{
+			1318196992, -- [1]
+			1318197006, -- [2]
+			"16:49:52", -- [3]
+			"16:50:06", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [10]
+		{
+			1318197069, -- [1]
+			1318197075, -- [2]
+			"16:51:10", -- [3]
+			"16:51:15", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [11]
+		{
+			1318197108, -- [1]
+			1318197113, -- [2]
+			"16:51:49", -- [3]
+			"16:51:53", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [12]
+		{
+			1318197116, -- [1]
+			1318197121, -- [2]
+			"16:51:56", -- [3]
+			"16:52:01", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [13]
+		{
+			1318197185, -- [1]
+			1318197190, -- [2]
+			"16:53:05", -- [3]
+			"16:53:10", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [14]
+		{
+			1318197200, -- [1]
+			1318197214, -- [2]
+			"16:53:21", -- [3]
+			"16:53:34", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [15]
+		{
+			1318197221, -- [1]
+			1318197227, -- [2]
+			"16:53:42", -- [3]
+			"16:53:47", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [16]
+		{
+			1318197284, -- [1]
+			1318197298, -- [2]
+			"16:54:45", -- [3]
+			"16:54:58", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [17]
+		{
+			1318197307, -- [1]
+			1318197312, -- [2]
+			"16:55:07", -- [3]
+			"16:55:12", -- [4]
+			"Bloodfang Worgen", -- [5]
+		}, -- [18]
+		{
+			1318197355, -- [1]
+			1318197371, -- [2]
+			"16:55:55", -- [3]
+			"16:56:11", -- [4]
+			"Worgen Runt", -- [5]
+		}, -- [19]
+		{
+			1318197385, -- [1]
+			1318197390, -- [2]
+			"16:56:25", -- [3]
+			"16:56:30", -- [4]
+			"Worgen Alpha <Magiclulz>", -- [5]
+		}, -- [20]
+		{
+			1318197414, -- [1]
+			1318197432, -- [2]
+			"16:56:54", -- [3]
+			"16:57:12", -- [4]
+			"Worgen Runt", -- [5]
+		}, -- [21]
+		{
+			1318197445, -- [1]
+			1318197450, -- [2]
+			"16:57:25", -- [3]
+			"16:57:30", -- [4]
+			"Worgen Alpha <Magiclulz>", -- [5]
+		}, -- [22]
+		{
+			1318197739, -- [1]
+			1318197746, -- [2]
+			"17:02:19", -- [3]
+			"17:02:26", -- [4]
+			"Bloodfang Lurker", -- [5]
+		}, -- [23]
+		{
+			1318197754, -- [1]
+			1318197763, -- [2]
+			"17:02:34", -- [3]
+			"17:02:43", -- [4]
+			"Bloodfang Lurker", -- [5]
+		}, -- [24]
+		{
+			1318197771, -- [1]
+			1318197780, -- [2]
+			"17:02:52", -- [3]
+			"17:03:00", -- [4]
+			"Bloodfang Lurker", -- [5]
+		}, -- [25]
+		{
+			1318197788, -- [1]
+			1318197798, -- [2]
+			"17:03:08", -- [3]
+			"17:03:18", -- [4]
+			"Bloodfang Lurker", -- [5]
+		}, -- [26]
+		{
+			1318197805, -- [1]
+			1318197813, -- [2]
+			"17:03:25", -- [3]
+			"17:03:33", -- [4]
+			"Bloodfang Lurker", -- [5]
+		}, -- [27]
+		{
+			1318197822, -- [1]
+			1318197841, -- [2]
+			"17:03:42", -- [3]
+			"17:04:01", -- [4]
+			"Bloodfang Lurker", -- [5]
+		}, -- [28]
+		{
+			1318197847, -- [1]
+			1318197856, -- [2]
+			"17:04:07", -- [3]
+			"17:04:16", -- [4]
+			"Bloodfang Lurker", -- [5]
+		}, -- [29]
+		{
+			1318197945, -- [1]
+			1318197972, -- [2]
+			"17:05:45", -- [3]
+			"17:06:12", -- [4]
+			"Bloodfang Ripper", -- [5]
+		}, -- [30]
+		{
+			1318198017, -- [1]
+			1318198021, -- [2]
+			"17:06:58", -- [3]
+			"17:07:01", -- [4]
+			"Afflicted Gilnean", -- [5]
+		}, -- [31]
+		{
+			1318198028, -- [1]
+			1318198033, -- [2]
+			"17:07:08", -- [3]
+			"17:07:13", -- [4]
+			"Afflicted Gilnean", -- [5]
+		}, -- [32]
+		{
+			1318198036, -- [1]
+			1318198041, -- [2]
+			"17:07:16", -- [3]
+			"17:07:21", -- [4]
+			"Afflicted Gilnean", -- [5]
+		}, -- [33]
+		{
+			1318198049, -- [1]
+			1318198062, -- [2]
+			"17:07:29", -- [3]
+			"17:07:42", -- [4]
+			"Afflicted Gilnean", -- [5]
+		}, -- [34]
+		{
+			1318198175, -- [1]
+			1318198244, -- [2]
+			"17:09:36", -- [3]
+			"17:10:44", -- [4]
+			"Bloodfang Stalker", -- [5]
+		}, -- [35]
+		{
+			1318198264, -- [1]
+			1318198297, -- [2]
+			"17:11:04", -- [3]
+			"17:11:37", -- [4]
+			"Bloodfang Stalker", -- [5]
+		}, -- [36]
+		{
+			1318198359, -- [1]
+			1318198369, -- [2]
+			"17:12:39", -- [3]
+			"17:12:49", -- [4]
+			"Frenzied Stalker", -- [5]
+		}, -- [37]
+		{
+			1318198369, -- [1]
+			1318198377, -- [2]
+			"17:12:49", -- [3]
+			"17:12:57", -- [4]
+			"Frenzied Stalker", -- [5]
+		}, -- [38]
+		{
+			1318198380, -- [1]
+			1318198388, -- [2]
+			"17:13:00", -- [3]
+			"17:13:08", -- [4]
+			"Frenzied Stalker", -- [5]
+		}, -- [39]
+		{
+			1318198390, -- [1]
+			1318198395, -- [2]
+			"17:13:10", -- [3]
+			"17:13:15", -- [4]
+			"Frenzied Stalker", -- [5]
+		}, -- [40]
+		{
+			1318198398, -- [1]
+			1318198405, -- [2]
+			"17:13:19", -- [3]
+			"17:13:25", -- [4]
+			"Frenzied Stalker", -- [5]
+		}, -- [41]
+		{
+			1318198824, -- [1]
+			1318198835, -- [2]
+			"17:20:24", -- [3]
+			"17:20:35", -- [4]
+			"Forsaken Assassin", -- [5]
+		}, -- [42]
+		{
+			1318198897, -- [1]
+			1318198904, -- [2]
+			"17:21:37", -- [3]
+			"17:21:44", -- [4]
+			"Forsaken Invader", -- [5]
+		}, -- [43]
+		{
+			1318198958, -- [1]
+			1318199104, -- [2]
+			"17:22:38", -- [3]
+			"17:25:04", -- [4]
+			"Forsaken Invader", -- [5]
+		}, -- [44]
+		{
+			1318199117, -- [1]
+			1318199123, -- [2]
+			"17:25:17", -- [3]
+			"17:25:23", -- [4]
+			"Forsaken Invader", -- [5]
+		}, -- [45]
+		{
+			1318199152, -- [1]
+			1318199157, -- [2]
+			"17:25:53", -- [3]
+			"17:25:57", -- [4]
+			"Forsaken Invader", -- [5]
+		}, -- [46]
+		{
+			1318199181, -- [1]
+			1318199186, -- [2]
+			"17:26:21", -- [3]
+			"17:26:26", -- [4]
+			"Forsaken Invader", -- [5]
+		}, -- [47]
+		{
+			1318199193, -- [1]
+			1318199200, -- [2]
+			"17:26:33", -- [3]
+			"17:26:40", -- [4]
+			"Forsaken Invader", -- [5]
+		}, -- [48]
+		{
+			1318199203, -- [1]
+			1318199210, -- [2]
+			"17:26:43", -- [3]
+			"17:26:50", -- [4]
+			"Forsaken Invader", -- [5]
+		}, -- [49]
+	},
+	["FoughtWho"] = {
+		"Forsaken Invader 17:26:43-17:26:50", -- [1]
+		"Forsaken Invader 17:26:33-17:26:40", -- [2]
+		"Forsaken Invader 17:26:21-17:26:26", -- [3]
+		"Forsaken Invader 17:25:53-17:25:57", -- [4]
+		"Forsaken Invader 17:25:17-17:25:23", -- [5]
+	},
+}

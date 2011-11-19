@@ -1,0 +1,55 @@
+
+BeanCounterDB = {
+	["Silvermoon"] = {
+		["Professerake"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["Silvermoon"] = {
+		["Professerake"] = {
+			["version"] = 3.02,
+			["faction"] = "Alliance",
+			["wealth"] = 8086625,
+			["maintenance"] = {
+				["compactDB"] = 1317919699,
+				["sortArray"] = 1317975947,
+				["prunePostedDB"] = 1317871224,
+			},
+			["mailbox"] = {
+			},
+		},
+	},
+	["profile.Default"] = {
+		["configator.left"] = 487.9999261417814,
+		["configator.top"] = 724.5000083774369,
+		["util.beancounter.ButtonuseDateCheck"] = false,
+	},
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil

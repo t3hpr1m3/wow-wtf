@@ -1,0 +1,15 @@
+Version: 1
+Frame: MinimapCluster
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 0
+Y: 0
+W: 192
+H: 192
+Frame: Recount_MainWindow
+FrameLevel: 40
+Anchor: BOTTOMRIGHT
+X: -87
+Y: 40
+W: 224
+H: 206

@@ -1,0 +1,34 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Professerake"] = {
+			["GUID"] = "0x0100000004B2E302",
+			["type"] = "Self",
+			["GuardianReverseGUIDs"] = {
+				["Worg Pup"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF1302813005FA4E9",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "ROGUE",
+			["Name"] = "Professerake",
+			["Pet"] = {
+				"Worg Pup <Professerake>", -- [1]
+			},
+			["Fights"] = {
+			},
+			["level"] = 64,
+			["UnitLockout"] = 1317673818,
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

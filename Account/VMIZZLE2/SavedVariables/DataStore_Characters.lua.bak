@@ -1,0 +1,33 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["XPMax"] = 5203400,
+				["played"] = 687902,
+				["guildRankName"] = "Officer",
+				["isResting"] = 1,
+				["lastUpdate"] = 1321712129,
+				["class"] = "Death Knight",
+				["race"] = "Gnome",
+				["level"] = 83,
+				["XP"] = 4264856,
+				["RestXP"] = 811106,
+				["money"] = 26934553,
+				["gender"] = 3,
+				["subZone"] = "Dwarven District",
+				["zone"] = "Stormwind City",
+				["guildRankIndex"] = 1,
+				["name"] = "Dkuno",
+				["faction"] = "Alliance",
+				["englishRace"] = "Gnome",
+				["guildName"] = "Parental Control",
+				["lastLogoutTimestamp"] = 1321712129,
+				["englishClass"] = "DEATHKNIGHT",
+			},
+		},
+	},
+}

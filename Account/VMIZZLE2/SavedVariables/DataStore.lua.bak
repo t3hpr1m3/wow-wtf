@@ -1,0 +1,20 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["guildName"] = "Parental Control",
+				["faction"] = "Alliance",
+			},
+		},
+		["Guilds"] = {
+			["Default.Silvermoon.Parental Control"] = {
+				["faction"] = "Alliance",
+			},
+		},
+		["Version"] = 1,
+	},
+}

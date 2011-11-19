@@ -1,0 +1,21 @@
+
+FishingBuddy_Info = {
+	["FishTotals"] = {
+	},
+	["HiddenFishies"] = {
+	},
+	["FishingSkill"] = {
+	},
+	["DataFish"] = 0,
+	["Version"] = 9907,
+	["FishingHoles"] = {
+	},
+	["SubZones"] = {
+	},
+	["ZoneIndex"] = {
+	},
+	["ImppDBLoaded"] = 0,
+	["Fishies"] = {
+	},
+	["FishInfo2"] = 0,
+}

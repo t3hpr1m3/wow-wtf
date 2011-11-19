@@ -1,0 +1,24 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["lastUpdate"] = 1321711799,
+				["Stats"] = {
+					["Ranged"] = "0-0|0|0|714|4.9937734603882",
+					["Spell"] = "29|29|714|4.1448030471802|300|0",
+					["Melee"] = "2428-2937|3.6520001734607|5088|714|4.9937734603882|16",
+					["MaxPower"] = "6|120",
+					["PVP"] = "44|0",
+					["HealthMax"] = 70013,
+					["Resistances"] = "0|0|0|0|0|83",
+					["Base"] = "2044|120|3849|39|61|23155",
+					["Defense"] = "23155|400|8.5430879592896|11.100098609924|0|0",
+				},
+			},
+		},
+	},
+}

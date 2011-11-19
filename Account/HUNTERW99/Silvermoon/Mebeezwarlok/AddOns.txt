@@ -1,0 +1,1 @@
+ChocolateBar_Options: enabled

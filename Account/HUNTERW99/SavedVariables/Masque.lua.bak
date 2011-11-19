@@ -1,0 +1,10 @@
+
+MasqueDB = {
+	["profileKeys"] = {
+		["Mebeezwarlok - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

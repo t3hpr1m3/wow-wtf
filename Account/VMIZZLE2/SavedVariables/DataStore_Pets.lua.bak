@@ -1,0 +1,33 @@
+
+DataStore_PetsDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Reference"] = {
+			["Spells"] = {
+				[61855] = 32841,
+				[54729] = 29582,
+				[78685] = 42183,
+				[48778] = 28302,
+				[75207] = 40054,
+				[52615] = 28883,
+			},
+		},
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["lastUpdate"] = 1321711800,
+				["CRITTER"] = {
+					61855, -- [1]
+					52615, -- [2]
+					78685, -- [3]
+				},
+				["MOUNT"] = {
+					75207, -- [1]
+					48778, -- [2]
+					54729, -- [3]
+				},
+			},
+		},
+	},
+}

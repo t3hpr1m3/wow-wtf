@@ -1,0 +1,41 @@
+MACRO 9 "Challenge/Int" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift] Intimidating Shout; [mod:alt] Commanding Shout; Challenging Shout
+END
+MACRO 11 "Devastate" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift] Thunder Clap; [mod:alt] Shield Block; Thunder Clap
+END
+MACRO 6 "Disarm" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift] Charge; [mod:alt] Victory Rush; Disarm
+END
+MACRO 5 "Intervene" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:ctrl] Vigilance; [mod:shift] Execute; [mod:alt] Berserker Rage; Intervene
+END
+MACRO 12 "Jailor" INV_Misc_QuestionMark
+/target Ethereum Jailor
+END
+MACRO 4 "Mount" INV_Misc_QuestionMark
+#showtooltip
+/cast [modifier:shift] Bronze Drake; [modifier:ctrl] Frosty; Amani War Bear
+END
+MACRO 3 "Orgrim Hammer" INV_Misc_QuestionMark
+#showtooltip
+/target Orgrim's Hammer Scout
+/use Dart Gun
+END
+MACRO 10 "Rage" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift] Enraged Regeneration; Bloodrage
+END
+MACRO 8 "Shoot" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift] Throw; Shoot
+END
+MACRO 7 "Trinket" INV_Misc_QuestionMark
+#showtooltip
+/use [nomod] Insignia of the alliance
+/cast [mod:shift]Heroic Throw; [mod:alt] Hamstring
+END

@@ -1,0 +1,13 @@
+
+DataStore_AgendaDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["lastUpdate"] = 1321711800,
+			},
+		},
+	},
+}

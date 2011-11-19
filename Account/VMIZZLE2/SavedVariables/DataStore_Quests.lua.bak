@@ -1,0 +1,34 @@
+
+DataStore_QuestsDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Silvermoon.Dkuno"] = {
+				["QuestLinks"] = {
+					[11] = "|cff40c040|Hquest:13384:80|h[Judgment at the Eye of Eternity]|h|r",
+					[7] = "|cffffff00|Hquest:28558:84|h[Hero's Call: Uldum!]|h|r",
+					[9] = "|cffffff00|Hquest:25752:81|h[Swift Action]|h|r",
+					[4] = "|cffffff00|Hquest:26247:82|h[Diplomacy First]|h|r",
+					[5] = "|cffffff00|Hquest:26625:83|h[Troggzor the Earthinator]|h|r",
+					[2] = "|cffffff00|Hquest:28732:82|h[This Can Only Mean One Thing...]|h|r",
+				},
+				["lastUpdate"] = 1321711799,
+				["Quests"] = {
+					"0|Blackrock Caverns", -- [1]
+					"1||0|0|0", -- [2]
+					"0|Deepholm", -- [3]
+					"1||0|41000|0", -- [4]
+					"1||0|172000|0", -- [5]
+					"0|Ruins of Uldum", -- [6]
+					"1||0|0|0", -- [7]
+					"0|Shimmering Expanse", -- [8]
+					"1||0|78000|0", -- [9]
+					"0|The Eye of Eternity", -- [10]
+					"1|Raid (10)|0|222000|0", -- [11]
+				},
+			},
+		},
+	},
+}

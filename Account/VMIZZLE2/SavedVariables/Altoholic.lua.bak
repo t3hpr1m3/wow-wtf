@@ -1,0 +1,12 @@
+
+AltoholicDB = {
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+	},
+	["global"] = {
+		["options"] = {
+			["Lola"] = "W29RKKK15QWH19GHNWKK",
+			["Tabs.Achievements.Default.Silvermoon.Column1"] = "Default.Silvermoon.Dkuno",
+		},
+	},
+}

@@ -1,0 +1,36 @@
+
+AucAdvancedConfig = {
+	["version"] = 1,
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["uierrormsg"] = 1,
+			},
+			["pricelevel"] = {
+			},
+		},
+	},
+	["users.Gul'dan.Vampiero"] = "Default",
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Gul'dan"] = "Vampiero",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+		},
+		["Current"] = {
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}
