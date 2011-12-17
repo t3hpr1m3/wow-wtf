@@ -17,15 +17,16 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
+			["LastFightIn"] = 0,
 			["Name"] = "Vîrtuous",
+			["Fights"] = {
+			},
 			["Pet"] = {
 				"Servant of House Barov <Vîrtuous>", -- [1]
 			},
-			["Fights"] = {
-			},
 			["level"] = 1,
 			["UnitLockout"] = 1321318641,
-			["LastFightIn"] = 0,
+			["LastAbility"] = 534016.237,
 		},
 		["Earthbind Totem <Notahuman>"] = {
 			["GUID"] = "0xF1300A460059BB28",
@@ -71,6 +72,9 @@ RecountPerCharDB = {
 				}, -- [1]
 			},
 			["Owner"] = "Notahuman",
+			["LastEventTimes"] = {
+				402330.265, -- [1]
+			},
 			["NextEventNum"] = 2,
 			["LastEventHealthNum"] = {
 				0, -- [1]
@@ -79,15 +83,12 @@ RecountPerCharDB = {
 				"Earthbind Totem <Notahuman> dies.", -- [1]
 			},
 			["Name"] = "Earthbind Totem",
-			["TimeLast"] = {
-				["OVERALL"] = 1321318953,
-				["DeathCount"] = 1321318953,
-			},
 			["LastEventIncoming"] = {
 				true, -- [1]
 			},
-			["LastEventTimes"] = {
-				402330.265, -- [1]
+			["TimeLast"] = {
+				["OVERALL"] = 1321318953,
+				["DeathCount"] = 1321318953,
 			},
 			["UnitLockout"] = 1321318953,
 			["Fights"] = {
@@ -98,6 +99,7 @@ RecountPerCharDB = {
 					["DeathCount"] = 1,
 				},
 			},
+			["LastAbility"] = 534016.237,
 		},
 		["Caranos"] = {
 			["GUID"] = "0x0100000004171348",
@@ -112,15 +114,16 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
+			["LastFightIn"] = 0,
 			["Name"] = "Caranos",
+			["Fights"] = {
+			},
 			["Pet"] = {
 				"Dameian <Caranos>", -- [1]
 			},
-			["Fights"] = {
-			},
 			["level"] = 1,
 			["UnitLockout"] = 1321317308,
-			["LastFightIn"] = 0,
+			["LastAbility"] = 534016.237,
 		},
 		["Notahuman"] = {
 			["GUID"] = "0x0100000004C0E10F",
@@ -147,17 +150,18 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
+			["LastFightIn"] = 0,
 			["Name"] = "Notahuman",
+			["Fights"] = {
+			},
 			["Pet"] = {
 				"Earthbind Totem <Notahuman>", -- [1]
 				"Flametongue Totem <Notahuman>", -- [2]
 				"Strength of Earth Totem <Notahuman>", -- [3]
 			},
-			["Fights"] = {
-			},
 			["level"] = 1,
 			["UnitLockout"] = 1321318910,
-			["LastFightIn"] = 0,
+			["LastAbility"] = 534016.237,
 		},
 		["Kypiroth"] = {
 			["GUID"] = "0x0100000002D46977",
@@ -172,15 +176,16 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
+			["LastFightIn"] = 0,
 			["Name"] = "Kypiroth",
+			["Fights"] = {
+			},
 			["Pet"] = {
 				"Smolderweb Hatchling <Kypiroth>", -- [1]
 			},
-			["Fights"] = {
-			},
 			["level"] = 1,
 			["UnitLockout"] = 1321318582,
-			["LastFightIn"] = 0,
+			["LastAbility"] = 534016.237,
 		},
 		["Guardian of Ancient Kings <Dethcropally>"] = {
 			["GUID"] = "0xF130B5A30059CB0E",
@@ -263,10 +268,42 @@ RecountPerCharDB = {
 			["level"] = 1,
 			["LastFightIn"] = 0,
 			["type"] = "Pet",
+			["LastActive"] = 1321319324,
 			["Owner"] = "Dethcropally",
-			["TimeLast"] = {
-				["Overhealing"] = 1321319323,
-				["OVERALL"] = 1321319323,
+			["LastEventTimes"] = {
+				402692.424, -- [1]
+				402692.955, -- [2]
+				402693.202, -- [3]
+				402693.341, -- [4]
+				402693.341, -- [5]
+				402693.341, -- [6]
+				402693.341, -- [7]
+				402693.341, -- [8]
+				402695.229, -- [9]
+				402696.012, -- [10]
+				402696.012, -- [11]
+				402696.012, -- [12]
+				402696.012, -- [13]
+				402696.012, -- [14]
+				402696.012, -- [15]
+				402696.012, -- [16]
+				402697.224, -- [17]
+				402697.75, -- [18]
+				402698.009, -- [19]
+				402698.01, -- [20]
+				402698.01, -- [21]
+				402698.01, -- [22]
+				402698.01, -- [23]
+				402698.01, -- [24]
+				402699.049, -- [25]
+				402699.307, -- [26]
+				402699.846, -- [27]
+				402699.846, -- [28]
+				402699.846, -- [29]
+				402699.846, -- [30]
+				402699.846, -- [31]
+				402699.846, -- [32]
+				402700.893, -- [33]
 			},
 			["NextEventNum"] = 34,
 			["LastEventHealthNum"] = {
@@ -375,41 +412,6 @@ RecountPerCharDB = {
 				false, -- [32]
 				true, -- [33]
 			},
-			["LastEventTimes"] = {
-				402692.424, -- [1]
-				402692.955, -- [2]
-				402693.202, -- [3]
-				402693.341, -- [4]
-				402693.341, -- [5]
-				402693.341, -- [6]
-				402693.341, -- [7]
-				402693.341, -- [8]
-				402695.229, -- [9]
-				402696.012, -- [10]
-				402696.012, -- [11]
-				402696.012, -- [12]
-				402696.012, -- [13]
-				402696.012, -- [14]
-				402696.012, -- [15]
-				402696.012, -- [16]
-				402697.224, -- [17]
-				402697.75, -- [18]
-				402698.009, -- [19]
-				402698.01, -- [20]
-				402698.01, -- [21]
-				402698.01, -- [22]
-				402698.01, -- [23]
-				402698.01, -- [24]
-				402699.049, -- [25]
-				402699.307, -- [26]
-				402699.846, -- [27]
-				402699.846, -- [28]
-				402699.846, -- [29]
-				402699.846, -- [30]
-				402699.846, -- [31]
-				402699.846, -- [32]
-				402700.893, -- [33]
-			},
 			["Fights"] = {
 				["CurrentFightData"] = {
 					["Overhealing"] = 105000,
@@ -446,31 +448,36 @@ RecountPerCharDB = {
 					},
 				},
 			},
+			["TimeLast"] = {
+				["Overhealing"] = 1321319323,
+				["OVERALL"] = 1321319323,
+			},
 			["UnitLockout"] = 1321319324,
-			["LastActive"] = 1321319324,
+			["LastAbility"] = 534016.237,
 		},
-		["Dethcropally"] = {
-			["GUID"] = "0x0100000004B19122",
+		["Ivylise"] = {
+			["GUID"] = "0x01000000035A1CE1",
 			["type"] = "Ungrouped",
 			["GuardianReverseGUIDs"] = {
-				["Guardian of Ancient Kings"] = {
+				["Smolderweb Hatchling"] = {
 					["LatestGuardian"] = 0,
 					["GUIDs"] = {
-						[0] = "0xF130B5A30059CB0E",
+						[0] = "0xF13029660059A1FF",
 					},
 				},
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
-			["Name"] = "Dethcropally",
-			["Pet"] = {
-				"Guardian of Ancient Kings <Dethcropally>", -- [1]
-			},
+			["LastFightIn"] = 0,
+			["Name"] = "Ivylise",
 			["Fights"] = {
 			},
+			["Pet"] = {
+				"Smolderweb Hatchling <Ivylise>", -- [1]
+			},
 			["level"] = 1,
-			["UnitLockout"] = 1321319313,
-			["LastFightIn"] = 0,
+			["UnitLockout"] = 1321318299,
+			["LastAbility"] = 534016.237,
 		},
 		["Veethunter"] = {
 			["GUID"] = "0x01000000044C17AE",
@@ -491,39 +498,41 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
+			["LastFightIn"] = 0,
 			["Name"] = "Veethunter",
+			["Fights"] = {
+			},
 			["Pet"] = {
 				"Veetspider <Veethunter>", -- [1]
 				"Veetfox <Veethunter>", -- [2]
 			},
-			["Fights"] = {
-			},
 			["level"] = 1,
 			["UnitLockout"] = 1321318002,
-			["LastFightIn"] = 0,
+			["LastAbility"] = 534016.237,
 		},
-		["Ivylise"] = {
-			["GUID"] = "0x01000000035A1CE1",
+		["Dethcropally"] = {
+			["GUID"] = "0x0100000004B19122",
 			["type"] = "Ungrouped",
 			["GuardianReverseGUIDs"] = {
-				["Smolderweb Hatchling"] = {
+				["Guardian of Ancient Kings"] = {
 					["LatestGuardian"] = 0,
 					["GUIDs"] = {
-						[0] = "0xF13029660059A1FF",
+						[0] = "0xF130B5A30059CB0E",
 					},
 				},
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
-			["Name"] = "Ivylise",
-			["Pet"] = {
-				"Smolderweb Hatchling <Ivylise>", -- [1]
-			},
+			["LastFightIn"] = 0,
+			["Name"] = "Dethcropally",
 			["Fights"] = {
 			},
+			["Pet"] = {
+				"Guardian of Ancient Kings <Dethcropally>", -- [1]
+			},
 			["level"] = 1,
-			["UnitLockout"] = 1321318299,
-			["LastFightIn"] = 0,
+			["UnitLockout"] = 1321319313,
+			["LastAbility"] = 534016.237,
 		},
 		["Strength of Earth Totem <Notahuman>"] = {
 			["GUID"] = "0xF13016F20059BCD3",
@@ -569,6 +578,9 @@ RecountPerCharDB = {
 				}, -- [1]
 			},
 			["Owner"] = "Notahuman",
+			["LastEventTimes"] = {
+				402412.861, -- [1]
+			},
 			["NextEventNum"] = 2,
 			["LastEventHealthNum"] = {
 				0, -- [1]
@@ -577,15 +589,12 @@ RecountPerCharDB = {
 				"Strength of Earth Totem <Notahuman> dies.", -- [1]
 			},
 			["Name"] = "Strength of Earth Totem",
-			["TimeLast"] = {
-				["OVERALL"] = 1321319036,
-				["DeathCount"] = 1321319036,
-			},
 			["LastEventIncoming"] = {
 				true, -- [1]
 			},
-			["LastEventTimes"] = {
-				402412.861, -- [1]
+			["TimeLast"] = {
+				["OVERALL"] = 1321319036,
+				["DeathCount"] = 1321319036,
 			},
 			["UnitLockout"] = 1321319036,
 			["Fights"] = {
@@ -596,6 +605,7 @@ RecountPerCharDB = {
 					["DeathCount"] = 1,
 				},
 			},
+			["LastAbility"] = 534016.237,
 		},
 		["Flametongue Totem <Notahuman>"] = {
 			["GUID"] = "0xF130173E0059BB53",
@@ -641,6 +651,9 @@ RecountPerCharDB = {
 				}, -- [1]
 			},
 			["Owner"] = "Notahuman",
+			["LastEventTimes"] = {
+				402411.944, -- [1]
+			},
 			["NextEventNum"] = 2,
 			["LastEventHealthNum"] = {
 				0, -- [1]
@@ -649,15 +662,12 @@ RecountPerCharDB = {
 				"Flametongue Totem <Notahuman> dies.", -- [1]
 			},
 			["Name"] = "Flametongue Totem",
-			["TimeLast"] = {
-				["OVERALL"] = 1321319035,
-				["DeathCount"] = 1321319035,
-			},
 			["LastEventIncoming"] = {
 				true, -- [1]
 			},
-			["LastEventTimes"] = {
-				402411.944, -- [1]
+			["TimeLast"] = {
+				["OVERALL"] = 1321319035,
+				["DeathCount"] = 1321319035,
 			},
 			["UnitLockout"] = 1321319035,
 			["Fights"] = {
@@ -668,6 +678,7 @@ RecountPerCharDB = {
 					["DeathCount"] = 1,
 				},
 			},
+			["LastAbility"] = 534016.237,
 		},
 		["Druidisy"] = {
 			["GUID"] = "0x0100000004B253D8",
@@ -692,10 +703,10 @@ RecountPerCharDB = {
 				5.451713395638629, -- [1]
 			},
 			["type"] = "Self",
-			["LastAbility"] = 400230.646,
-			["LastDamageTaken"] = 70,
-			["Owner"] = false,
+			["LastAbility"] = 534016.237,
 			["UnitLockout"] = 1321248960,
+			["Owner"] = false,
+			["LastDamageTaken"] = 70,
 			["NextEventNum"] = 2,
 			["LastEventHealthNum"] = {
 				94.54828660436137, -- [1]
@@ -703,7 +714,9 @@ RecountPerCharDB = {
 			["LastEvents"] = {
 				"Environment Falling Druidisy Hit -70 (Physical)", -- [1]
 			},
-			["Name"] = "Druidisy",
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
 			["Fights"] = {
 				["CurrentFightData"] = {
 					["PartialResist"] = {
@@ -818,9 +831,7 @@ RecountPerCharDB = {
 				["DamageTaken"] = 1321248960,
 				["OVERALL"] = 1321248960,
 			},
-			["LastEventIncoming"] = {
-				true, -- [1]
-			},
+			["Name"] = "Druidisy",
 			["LastEventTimes"] = {
 				332337.307, -- [1]
 			},

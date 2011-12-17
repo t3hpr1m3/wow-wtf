@@ -1,4 +1,5 @@
 
+TidyPlatesHubSavedVariables = nil
 TidyPlatesHubTankSavedVariables = {
 }
 TidyPlatesHubDamageSavedVariables = {

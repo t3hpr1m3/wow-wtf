@@ -12,13 +12,27 @@ AucAdvancedConfig = {
 				},
 			},
 		},
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+			},
+		},
 		["util"] = {
+			["appraiser"] = {
+				["columnsortcurSort"] = 6,
+				["item.52231.bulk"] = true,
+				["columnsortcurDir"] = -1,
+				["item.52231.number"] = 1,
+				["item.52231.model"] = "market",
+				["item.52231.stack"] = 1,
+			},
 			["mover"] = {
 				["anchors"] = {
 					"TOPLEFT", -- [1]
 					nil, -- [2]
 					"TOPLEFT", -- [3]
-					16, -- [4]
+					16.00000109419583, -- [4]
 					-116.000006838724, -- [5]
 				},
 			},
@@ -26,12 +40,6 @@ AucAdvancedConfig = {
 				["uierrormsg"] = 1,
 			},
 			["pricelevel"] = {
-			},
-		},
-		["stat"] = {
-			["sales"] = {
-				["ignoredsigs"] = {
-				},
 			},
 		},
 		["configator.top"] = 724.5000083774369,
@@ -45,15 +53,15 @@ AucAdvancedData = {
 	["Stats"] = {
 	},
 	["UtilSearchUiData"] = {
-		["Global"] = {
-			["configator.left"] = 438.0000086167922,
-			["configator.top"] = 749.4999846470647,
-		},
+		["Version"] = 1,
 		["Current"] = {
 			["snatch.itemsList"] = {
 			},
 		},
-		["Version"] = 1,
+		["Global"] = {
+			["configator.left"] = 438.0000086167922,
+			["configator.top"] = 749.4999846470647,
+		},
 		["SavedSearches"] = {
 		},
 	},

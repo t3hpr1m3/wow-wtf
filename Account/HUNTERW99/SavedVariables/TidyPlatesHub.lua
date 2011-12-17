@@ -1,4 +1,5 @@
 
+TidyPlatesHubCache = nil
 TidyPlatesHubTankCache = {
 	["TextUseBlizzardFont"] = false,
 	["OpacitySpotlight"] = 0.5,

@@ -31,7 +31,7 @@ _NPCScanOptionsCharacter = {
 		[50050] = "Shok'sharak",
 		[49913] = "Lady LaLa",
 	},
-	["Version"] = "4.2.0.2",
+	["Version"] = "4.3.0.1",
 	["NPCWorldIDs"] = {
 		[50052] = 2,
 		[50053] = 1,

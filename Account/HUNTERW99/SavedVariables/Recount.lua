@@ -9,15 +9,12 @@ RecountDB = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -356.5001276447824,
+					["y"] = -356.5001123260408,
 					["x"] = 689.0000938956797,
-					["w"] = 223.9999715509084,
+					["w"] = 223.9999890580417,
 					["h"] = 205.9999949393443,
 				},
 			},
-			["DetailWindowX"] = 0,
-			["MainWindowHeight"] = 206.0000299536109,
-			["CurDataSet"] = "OverallData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -26,8 +23,11 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["MainWindowWidth"] = 224.0000941008415,
+			["DetailWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
 			["GraphWindowX"] = 0,
+			["MainWindowWidth"] = 224.0000941008415,
+			["MainWindowHeight"] = 206.0000299536109,
 		},
 		["Vampiero - Gul'dan"] = {
 			["GraphWindowY"] = 0,

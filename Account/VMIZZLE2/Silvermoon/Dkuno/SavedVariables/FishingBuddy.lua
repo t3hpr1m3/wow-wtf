@@ -1,9 +1,9 @@
 
 FishingBuddy_Player = {
+	["Outfit"] = {
+	},
 	["Settings"] = {
 		["ResetWatcher"] = 1,
-	},
-	["Outfit"] = {
 	},
 	["WasWearing"] = {
 	},

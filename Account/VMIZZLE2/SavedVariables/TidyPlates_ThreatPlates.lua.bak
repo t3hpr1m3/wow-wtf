@@ -1,0 +1,61 @@
+
+ThreatPlatesDB = {
+	["char"] = {
+		["Dkuno - Silvermoon"] = {
+			["specInfo"] = {
+				{
+					34, -- [1]
+					4, -- [2]
+					3, -- [3]
+				}, -- [1]
+				{
+					4, -- [1]
+					31, -- [2]
+					6, -- [3]
+				}, -- [2]
+			},
+			["specName"] = {
+				"Blood", -- [1]
+				"Frost", -- [2]
+				"Unholy", -- [3]
+			},
+			["welcome"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Dkuno - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["nameplate"] = {
+				["toggle"] = {
+					["Totem"] = true,
+				},
+			},
+			["uniqueSettings"] = {
+				[33] = {
+				},
+				[34] = {
+				},
+				[38] = {
+				},
+				[40] = {
+				},
+				[41] = {
+				},
+				[42] = {
+				},
+				[48] = {
+				},
+				[49] = {
+				},
+				[50] = {
+				},
+				["list"] = {
+				},
+			},
+			["cache"] = {
+			},
+		},
+	},
+}

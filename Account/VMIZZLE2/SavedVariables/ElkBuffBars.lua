@@ -5,31 +5,12 @@ ElkBuffBarsDB = {
 			["TENCH"] = {
 			},
 			["DEBUFF"] = {
-				["Fracture "] = 6,
-				["Spinning Slash "] = 10,
-				["Lacerate "] = 5,
-				["Wave of Corruption "] = 2,
-				["Blight of Ozumat "] = 75,
-				["Deadly Poison "] = 5,
 				["Censure "] = 5,
-				["Poisoned Spear "] = 3,
-				["Faerie Fire "] = 3,
-				["Elementium Spike Shield "] = 5,
-				["Bubble Shield "] = 7,
-				["Beat Down "] = 6,
-				["Water Bolt "] = 18,
 			},
 			["BUFF"] = {
-				["Scent of Blood "] = 3,
-				["Soul Strike "] = 5,
-				["Lightning Shield "] = 3,
-				["Water Shield "] = 3,
-				["Dietary Enhancement "] = 10,
-				["Battlemaiden's Intensity "] = 3,
-				["Blood Gorged "] = 4,
-				["Bone Shield "] = 4,
-				["Earth Shield "] = 9,
-				["Tidal Waves "] = 2,
+				["Slayer "] = 10,
+				["Slaughter Rank 3"] = 3,
+				["Bloodthirst "] = 2,
 			},
 		},
 		["maxtimes"] = {
@@ -40,7 +21,7 @@ ElkBuffBarsDB = {
 			["BUFF"] = {
 			},
 		},
-		["build"] = "14545",
+		["build"] = "15050",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -53,13 +34,13 @@ ElkBuffBarsDB = {
 			["bargroups"] = {
 				{
 					["anchorshown"] = false,
-					["anchortext"] = "BUFFS",
-					["id"] = 1,
+					["configmode"] = false,
+					["scale"] = 1,
 					["barspacing"] = 0,
 					["alpha"] = 1,
-					["configmode"] = false,
-					["y"] = 976.9999297663051,
-					["x"] = 1343.000487122307,
+					["anchortext"] = "BUFFS",
+					["y"] = 939.8198907158236,
+					["x"] = 1268.045306546143,
 					["growup"] = false,
 					["filter"] = {
 						["type"] = {
@@ -113,7 +94,7 @@ ElkBuffBarsDB = {
 						},
 						["spark"] = false,
 						["textTLfontsize"] = 14,
-						["barright"] = false,
+						["bartexture"] = "Otravi",
 						["barbgcolor"] = {
 							0, -- [1]
 							0.5, -- [2]
@@ -127,11 +108,11 @@ ElkBuffBarsDB = {
 							1, -- [4]
 						},
 						["debufftypecolor"] = true,
-						["iconcountfontsize"] = 14,
+						["width"] = 250,
 						["textBLfont"] = "Friz Quadrata TT",
 						["textBLfontsize"] = 14,
-						["width"] = 250,
-						["bartexture"] = "Otravi",
+						["iconcountfontsize"] = 14,
+						["barright"] = false,
 						["textTRcolor"] = {
 							1, -- [1]
 							1, -- [2]
@@ -142,7 +123,7 @@ ElkBuffBarsDB = {
 						["textBLalign"] = "LEFT",
 						["height"] = 20,
 					},
-					["scale"] = 1,
+					["id"] = 1,
 					["sorting"] = "timeleft",
 				}, -- [1]
 				{
@@ -207,7 +188,7 @@ ElkBuffBarsDB = {
 						},
 						["spark"] = false,
 						["textTLfontsize"] = 14,
-						["barright"] = false,
+						["bartexture"] = "Otravi",
 						["barbgcolor"] = {
 							1, -- [1]
 							0, -- [2]
@@ -221,11 +202,11 @@ ElkBuffBarsDB = {
 							1, -- [4]
 						},
 						["debufftypecolor"] = true,
-						["iconcountfontsize"] = 14,
+						["width"] = 250,
 						["textBLfont"] = "Friz Quadrata TT",
 						["textBLfontsize"] = 14,
-						["width"] = 250,
-						["bartexture"] = "Otravi",
+						["iconcountfontsize"] = 14,
+						["barright"] = false,
 						["textTRcolor"] = {
 							1, -- [1]
 							1, -- [2]
@@ -301,7 +282,7 @@ ElkBuffBarsDB = {
 						},
 						["spark"] = false,
 						["textTLfontsize"] = 14,
-						["barright"] = false,
+						["bartexture"] = "Otravi",
 						["barbgcolor"] = {
 							0.5, -- [1]
 							0, -- [2]
@@ -315,11 +296,11 @@ ElkBuffBarsDB = {
 							1, -- [4]
 						},
 						["debufftypecolor"] = true,
-						["iconcountfontsize"] = 14,
+						["width"] = 250,
 						["textBLfont"] = "Friz Quadrata TT",
 						["textBLfontsize"] = 14,
-						["width"] = 250,
-						["bartexture"] = "Otravi",
+						["iconcountfontsize"] = 14,
+						["barright"] = false,
 						["textTRcolor"] = {
 							1, -- [1]
 							1, -- [2]

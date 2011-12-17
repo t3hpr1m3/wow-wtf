@@ -1,0 +1,21 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Mebeezwarlok - Silvermoon"] = "Mebeezwarlok - Silvermoon",
+	},
+	["profiles"] = {
+		["Mebeezwarlok - Silvermoon"] = {
+		},
+	},
+}

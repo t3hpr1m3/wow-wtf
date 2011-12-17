@@ -62,6 +62,9 @@ ChocolateBarDB = {
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
+				["ProfessionsVault"] = {
+					["barName"] = "ChocolateBar1",
+				},
 				["Broker_uClock"] = {
 					["index"] = -1,
 					["barName"] = "ChocolateBar1",
@@ -72,17 +75,12 @@ ChocolateBarDB = {
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
-				["Informant"] = {
+				["Prat"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
-				["ArkInventory_Money"] = {
-					["index"] = -1,
-					["barName"] = "ChocolateBar1",
-					["align"] = "right",
-				},
-				["Auc-Util-SearchUI"] = {
+				["Informant"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
@@ -94,6 +92,16 @@ ChocolateBarDB = {
 				},
 				["Auc-Util-AutoMagic"] = {
 					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["Auc-Util-SearchUI"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["ArkInventory_Money"] = {
+					["index"] = -1,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},

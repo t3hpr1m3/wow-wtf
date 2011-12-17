@@ -6,11 +6,11 @@ uClockDB = {
 		["Dkuno - Silvermoon"] = "Default",
 		["Teenybanker - Silvermoon"] = "Default",
 		["Iaggro - Silvermoon"] = "Default",
-		["Thunkity - Silvermoon"] = "Default",
-		["Fromdaback - Gul'dan"] = "Default",
-		["Msfunbags - Silvermoon"] = "Default",
 		["Idroptotems - Gul'dan"] = "Default",
+		["Fromdaback - Gul'dan"] = "Default",
 		["Druidisy - Silvermoon"] = "Default",
+		["Thunkity - Silvermoon"] = "Default",
+		["Msfunbags - Silvermoon"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

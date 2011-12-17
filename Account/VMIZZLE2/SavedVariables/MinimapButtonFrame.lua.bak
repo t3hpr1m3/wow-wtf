@@ -1,0 +1,31 @@
+
+MBFDB = {
+	["profileKeys"] = {
+		["Iaggro - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["addonScale"] = 0.5,
+			["columns_or_rows"] = 2,
+			["locked"] = true,
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-291.7495662026433, -- [3]
+				-74.49997760317908, -- [4]
+			},
+			["currentTexture"] = "simple Square",
+			["customChildren"] = {
+				"MinimapButtonFrameDragButton", -- [1]
+				"MiniMapMailFrameDisabled", -- [2]
+				"AltoholicMinimapButton", -- [3]
+				"DBMMinimapButton", -- [4]
+				"LibDBIcon10_ProfessionsVault", -- [5]
+				"MiniMapMailFrame", -- [6]
+				"GameTimeFrame", -- [7]
+				"MiniMapLFGFrame", -- [8]
+			},
+			["grabBlizzButtons"] = true,
+		},
+	},
+}

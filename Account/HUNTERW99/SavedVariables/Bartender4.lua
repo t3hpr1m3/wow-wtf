@@ -6,13 +6,13 @@ Bartender4DB = {
 				["Mebeezwarlok - Silvermoon"] = {
 					["actionbars"] = {
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [1]
 						{
 							["enabled"] = false,
@@ -25,41 +25,41 @@ Bartender4DB = {
 						}, -- [2]
 						{
 							["rows"] = 12,
-							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
 								["x"] = -82,
 								["point"] = "BOTTOMRIGHT",
 							},
+							["padding"] = 5,
 						}, -- [3]
 						{
 							["rows"] = 12,
-							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
 								["x"] = -42,
 								["point"] = "BOTTOMRIGHT",
 							},
+							["padding"] = 5,
 						}, -- [4]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 83,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [5]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 83,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [6]
 						{
 						}, -- [7]
@@ -73,13 +73,13 @@ Bartender4DB = {
 				["Vampiero - Gul'dan"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [1]
 						{
 							["enabled"] = false,
@@ -92,41 +92,41 @@ Bartender4DB = {
 						}, -- [2]
 						{
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
 								["x"] = -82,
 								["point"] = "BOTTOMRIGHT",
 							},
-							["padding"] = 5,
 						}, -- [3]
 						{
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
 								["x"] = -42,
 								["point"] = "BOTTOMRIGHT",
 							},
-							["padding"] = 5,
 						}, -- [4]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 83,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [5]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 83,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [6]
 						{
 						}, -- [7]
@@ -139,25 +139,37 @@ Bartender4DB = {
 				},
 			},
 		},
+		["ExtraActionBar"] = {
+			["profiles"] = {
+				["Mebeezwarlok - Silvermoon"] = {
+					["position"] = {
+						["y"] = 222.9999991109659,
+						["x"] = -31.4999546934539,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+				},
+			},
+		},
 		["MicroMenu"] = {
 			["profiles"] = {
 				["Mebeezwarlok - Silvermoon"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 41.75,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
+					["version"] = 3,
 				},
 				["Vampiero - Gul'dan"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 41.75,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
-					["version"] = 3,
 				},
 			},
 		},
@@ -167,21 +179,21 @@ Bartender4DB = {
 			["profiles"] = {
 				["Mebeezwarlok - Silvermoon"] = {
 					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Vampiero - Gul'dan"] = {
 					["enabled"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 			},
 		},
@@ -210,20 +222,20 @@ Bartender4DB = {
 		["StanceBar"] = {
 			["profiles"] = {
 				["Mebeezwarlok - Silvermoon"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = -15.00002427746995,
 						["x"] = -82.5000459904187,
 						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Vampiero - Gul'dan"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 208.9414340571599,
 						["x"] = -81.51122559438943,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 			},
 		},
@@ -281,8 +293,8 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Vampiero - Gul'dan"] = {
-			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
 			["minimapIcon"] = {
 				["minimapPos"] = 180.0000007072887,
 			},

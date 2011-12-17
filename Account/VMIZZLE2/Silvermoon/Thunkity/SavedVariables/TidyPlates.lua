@@ -1,12 +1,12 @@
 
 TidyPlatesOptions = {
-	["WelcomeShown"] = true,
-	["EnableMinimapButton"] = false,
+	["primary"] = "Neon/|cFFFF4400Damage",
+	["EnableCastWatcher"] = false,
 	["LDB"] = {
 	},
 	["FriendlyAutomation"] = "No Automation",
 	["EnemyAutomation"] = "No Automation",
-	["primary"] = "Neon/|cFFFF4400Damage",
-	["EnableCastWatcher"] = false,
+	["EnableMinimapButton"] = false,
+	["WelcomeShown"] = true,
 	["secondary"] = "Neon/|cFF3782D1Tank",
 }

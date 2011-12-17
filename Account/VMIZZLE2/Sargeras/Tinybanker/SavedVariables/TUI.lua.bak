@@ -1,0 +1,2 @@
+
+TUIDataPerChar = nil

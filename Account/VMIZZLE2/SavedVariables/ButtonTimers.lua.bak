@@ -1,0 +1,66 @@
+
+ButtonTimersDB = {
+	["profileKeys"] = {
+		["Msfunbags - Silvermoon"] = "Default",
+	},
+	["char"] = {
+		["Msfunbags - Silvermoon"] = {
+			["bar4attach2"] = {
+				"CENTER", -- [1]
+				nil, -- [2]
+				"CENTER", -- [3]
+				132, -- [4]
+				0, -- [5]
+			},
+			["bar2attach2"] = {
+				"CENTER", -- [1]
+				nil, -- [2]
+				"CENTER", -- [3]
+				44, -- [4]
+				0, -- [5]
+			},
+			["bar2attach"] = {
+				"CENTER", -- [1]
+				nil, -- [2]
+				"CENTER", -- [3]
+				44.0000034968059, -- [4]
+				0, -- [5]
+			},
+			["bar3attach2"] = {
+				"CENTER", -- [1]
+				nil, -- [2]
+				"CENTER", -- [3]
+				88, -- [4]
+				0, -- [5]
+			},
+			["bar1attach2"] = {
+				"CENTER", -- [1]
+				nil, -- [2]
+				"CENTER", -- [3]
+				0, -- [4]
+				0, -- [5]
+			},
+			["bar4attach"] = {
+				"CENTER", -- [1]
+				nil, -- [2]
+				"CENTER", -- [3]
+				132.0000104904177, -- [4]
+				0, -- [5]
+			},
+			["bar3attach"] = {
+				"CENTER", -- [1]
+				nil, -- [2]
+				"CENTER", -- [3]
+				88.00000699361181, -- [4]
+				0, -- [5]
+			},
+			["bar1attach"] = {
+				"CENTER", -- [1]
+				nil, -- [2]
+				"CENTER", -- [3]
+				0, -- [4]
+				0, -- [5]
+			},
+		},
+	},
+}

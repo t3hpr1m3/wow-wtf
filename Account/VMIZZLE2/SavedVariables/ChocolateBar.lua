@@ -6,14 +6,15 @@ ChocolateBarDB = {
 		["Dkuno - Silvermoon"] = "Default",
 		["Teenybanker - Silvermoon"] = "Default",
 		["Iaggro - Silvermoon"] = "Default",
-		["Thunkity - Silvermoon"] = "Default",
+		["Druidisy - Silvermoon"] = "Default",
 		["Fromdaback - Gul'dan"] = "Default",
 		["Msfunbags - Silvermoon"] = "Default",
+		["Thunkity - Silvermoon"] = "Default",
 		["Idroptotems - Gul'dan"] = "Default",
-		["Druidisy - Silvermoon"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["locked"] = false,
 			["objSettings"] = {
 				["ArkInventory_Tracking_Item"] = {
 					["index"] = 1,
@@ -77,6 +78,16 @@ ChocolateBarDB = {
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
+				["MinimapButtonFrame"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["TellMeWhen"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
 				["Swatter"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
@@ -103,10 +114,27 @@ ChocolateBarDB = {
 					["align"] = "right",
 					["index"] = 11,
 				},
-				["Prat"] = {
+				["MoreChocolate"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
+					["index"] = 10,
+				},
+				["Auc-Util-AutoMagic"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 14,
+				},
+				["Auc-Util-SearchUI"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 5,
+				},
+				["ArkInventory_Money"] = {
+					["index"] = 1,
+					["barName"] = "ChocolateBar1",
 				},
 				["Informant"] = {
 					["showText"] = false,
@@ -115,27 +143,10 @@ ChocolateBarDB = {
 					["index"] = 6,
 					["showIcon"] = false,
 				},
-				["ArkInventory_Money"] = {
-					["index"] = 1,
-					["barName"] = "ChocolateBar1",
-				},
-				["Auc-Util-SearchUI"] = {
+				["Prat"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
-					["index"] = 5,
-				},
-				["Auc-Util-AutoMagic"] = {
-					["showText"] = false,
-					["barName"] = "ChocolateBar1",
-					["align"] = "right",
-					["index"] = 14,
-				},
-				["MoreChocolate"] = {
-					["showText"] = false,
-					["barName"] = "ChocolateBar1",
-					["align"] = "right",
-					["index"] = 10,
 				},
 				["AucAdvanced"] = {
 					["showText"] = false,

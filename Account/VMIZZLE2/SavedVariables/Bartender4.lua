@@ -24,8 +24,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -34,8 +34,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -91,8 +91,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -101,8 +101,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -158,139 +158,6 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
-				["Fromdaback - Gul'dan"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -189.5000470162271,
-								["x"] = -231.50004496461,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Idroptotems - Gul'dan"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -189.5000470162271,
-								["x"] = -231.50004496461,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
 							["padding"] = 5,
 							["rows"] = 12,
 							["version"] = 3,
@@ -337,163 +204,31 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Teenybanker - Silvermoon"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -189.5000470162271,
-								["x"] = -231.50004496461,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
-				["Tinybanker - Sargeras"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -189.5000470162271,
-								["x"] = -231.50004496461,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
-				["Iaggro - Silvermoon"] = {
+				["Dkuno - Silvermoon"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 161.0000096426008,
-								["x"] = -175.1591488004434,
+								["y"] = 116.9999792786664,
+								["x"] = -221.0000192168143,
 								["point"] = "BOTTOM",
 							},
 						}, -- [1]
 						{
 							["version"] = 3,
-							["position"] = {
-								["y"] = 38.44827329401028,
-								["x"] = -60.75001516487032,
-								["point"] = "CENTER",
-								["scale"] = 1.5,
-							},
-							["rows"] = 6,
+							["buttons"] = 6,
+							["padding"] = 0,
+							["rows"] = 2,
 							["visibility"] = {
 								["nocombat"] = true,
 							},
-							["padding"] = 0,
+							["position"] = {
+								["y"] = -204.0871480476366,
+								["x"] = 411.7500405365362,
+								["point"] = "CENTER",
+								["scale"] = 1.5,
+							},
 						}, -- [2]
 						{
 							["padding"] = 0,
@@ -511,8 +246,8 @@ Bartender4DB = {
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 81.46438341200394,
-								["x"] = -100.3999951374619,
+								["y"] = 83.48182144954649,
+								["x"] = -63.2002775148303,
 								["point"] = "RIGHT",
 								["scale"] = 0.800000011920929,
 							},
@@ -521,8 +256,8 @@ Bartender4DB = {
 							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 85.00000335097474,
-								["x"] = -175.1591488004434,
+								["y"] = 40.99999924774037,
+								["x"] = -221.0000192168143,
 								["point"] = "BOTTOM",
 							},
 						}, -- [5]
@@ -530,8 +265,8 @@ Bartender4DB = {
 							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 123.0000064967878,
-								["x"] = -175.1591488004434,
+								["y"] = 78.99999363998673,
+								["x"] = -221.0000192168143,
 								["point"] = "BOTTOM",
 							},
 						}, -- [6]
@@ -561,215 +296,14 @@ Bartender4DB = {
 						}, -- [9]
 						{
 							["enabled"] = true,
-							["rows"] = 3,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 161.0000096426008,
-								["x"] = -168.1590966209798,
-								["point"] = "BOTTOM",
 								["growHorizontal"] = "LEFT",
-							},
-						}, -- [10]
-					},
-				},
-				["Msfunbags - Silvermoon"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -189.5000470162271,
-								["x"] = -231.50004496461,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
+								["x"] = 2.249946743437249,
 								["point"] = "BOTTOMRIGHT",
+								["scale"] = 0.75,
+								["y"] = 206.8731544592139,
 							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
-				["Komos - Sargeras"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -189.5000470162271,
-								["x"] = -231.50004496461,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
-				["Druidisy - Silvermoon"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -189.5000470162271,
-								["x"] = -231.50004496461,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
 						}, -- [10]
 					},
 				},
@@ -841,24 +375,157 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Dkuno - Silvermoon"] = {
+				["Teenybanker - Silvermoon"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -189.5000470162271,
+								["x"] = -231.50004496461,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Tinybanker - Sargeras"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -189.5000470162271,
+								["x"] = -231.50004496461,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Iaggro - Silvermoon"] = {
 					["actionbars"] = {
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = 161.0000096426008,
-								["x"] = -175.1591488004434,
+								["y"] = 116.9999792786664,
+								["x"] = -221.0000192168143,
 								["point"] = "BOTTOM",
 							},
 							["padding"] = 0,
 						}, -- [1]
 						{
 							["rows"] = 2,
-							["buttons"] = 4,
+							["buttons"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -183.8275695086192,
-								["x"] = -60.75001516487032,
+								["y"] = -204.0871480476366,
+								["x"] = 411.7500405365362,
 								["point"] = "CENTER",
 								["scale"] = 1.5,
 							},
@@ -882,8 +549,8 @@ Bartender4DB = {
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 81.46438341200394,
-								["x"] = -100.3999951374619,
+								["y"] = 83.48182144954649,
+								["x"] = -63.2002775148303,
 								["point"] = "RIGHT",
 								["scale"] = 0.800000011920929,
 							},
@@ -892,8 +559,8 @@ Bartender4DB = {
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = 85.00000335097474,
-								["x"] = -175.1591488004434,
+								["y"] = 40.99999924774037,
+								["x"] = -221.0000192168143,
 								["point"] = "BOTTOM",
 							},
 							["padding"] = 0,
@@ -901,8 +568,8 @@ Bartender4DB = {
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = 123.0000064967878,
-								["x"] = -175.1591488004434,
+								["y"] = 78.99999363998673,
+								["x"] = -221.0000192168143,
 								["point"] = "BOTTOM",
 							},
 							["padding"] = 0,
@@ -932,16 +599,422 @@ Bartender4DB = {
 							},
 						}, -- [9]
 						{
-							["rows"] = 3,
 							["enabled"] = true,
 							["version"] = 3,
 							["position"] = {
 								["growHorizontal"] = "LEFT",
-								["x"] = -168.1590966209798,
-								["point"] = "BOTTOM",
-								["y"] = 161.0000096426008,
+								["x"] = 2.249946743437249,
+								["point"] = "BOTTOMRIGHT",
+								["scale"] = 0.75,
+								["y"] = 206.8731544592139,
 							},
 						}, -- [10]
+					},
+				},
+				["Druidisy - Silvermoon"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -189.5000470162271,
+								["x"] = -231.50004496461,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Fromdaback - Gul'dan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -189.5000470162271,
+								["x"] = -231.50004496461,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Msfunbags - Silvermoon"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 116.9999792786664,
+								["x"] = -221.0000192168143,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["version"] = 3,
+							["buttons"] = 6,
+							["position"] = {
+								["y"] = -204.0871480476366,
+								["x"] = 411.7500405365362,
+								["point"] = "CENTER",
+								["scale"] = 1.5,
+							},
+							["padding"] = 0,
+							["visibility"] = {
+								["nocombat"] = true,
+							},
+							["rows"] = 2,
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 79.55224027856195,
+								["x"] = -32.80005045387452,
+								["point"] = "RIGHT",
+								["scale"] = 0.800000011920929,
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83.48182144954649,
+								["x"] = -63.2002775148303,
+								["point"] = "RIGHT",
+								["scale"] = 0.800000011920929,
+							},
+						}, -- [4]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 40.99999924774037,
+								["x"] = -221.0000192168143,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 78.99999363998673,
+								["x"] = -221.0000192168143,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -81.34325340392354,
+								["x"] = 66.10094790868743,
+								["point"] = "CENTER",
+							},
+						}, -- [7]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -121.3432364438882,
+								["x"] = 66.10098292295402,
+								["point"] = "CENTER",
+							},
+						}, -- [8]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -161.3432194838528,
+								["x"] = 66.10098292295402,
+								["point"] = "CENTER",
+							},
+						}, -- [9]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["growHorizontal"] = "LEFT",
+								["x"] = 2.249946743437249,
+								["point"] = "BOTTOMRIGHT",
+								["scale"] = 0.75,
+								["y"] = 206.8731544592139,
+							},
+						}, -- [10]
+					},
+				},
+				["Idroptotems - Gul'dan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -189.5000470162271,
+								["x"] = -231.50004496461,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Komos - Sargeras"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -189.5000470162271,
+								["x"] = -231.50004496461,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+			},
+		},
+		["ExtraActionBar"] = {
+			["profiles"] = {
+				["Teenybanker - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 222.9999991109659,
+						["x"] = -31.4999546934539,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Dkuno - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 222.9999991109659,
+						["x"] = -31.4999546934539,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Iaggro - Silvermoon"] = {
+					["position"] = {
+						["y"] = 222.9999991109659,
+						["x"] = -31.4999546934539,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+				},
+				["Msfunbags - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 222.9999991109659,
+						["x"] = -31.4999546934539,
+						["point"] = "BOTTOM",
 					},
 				},
 			},
@@ -975,21 +1048,22 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Fromdaback - Gul'dan"] = {
+				["Dkuno - Silvermoon"] = {
+					["padding"] = 2,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
+						["y"] = 177.0814530792919,
+						["x"] = -218.3999974666604,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 0.6000000238418579,
 					},
 				},
-				["Idroptotems - Gul'dan"] = {
+				["Thunkity - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
+						["y"] = 40.50000427420247,
+						["x"] = -306.500043802027,
+						["point"] = "BOTTOMRIGHT",
 						["scale"] = 1,
 					},
 				},
@@ -1012,17 +1086,44 @@ Bartender4DB = {
 					},
 				},
 				["Iaggro - Silvermoon"] = {
+					["position"] = {
+						["y"] = 177.0814530792919,
+						["x"] = -218.3999974666604,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 0.6000000238418579,
+					},
+					["version"] = 3,
 					["padding"] = 2,
-					["rows"] = 6,
+				},
+				["Druidisy - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -126.8355805035919,
-						["x"] = -70.19989527480698,
-						["point"] = "RIGHT",
-						["scale"] = 0.6000000238418579,
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Fromdaback - Gul'dan"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
 					},
 				},
 				["Msfunbags - Silvermoon"] = {
+					["padding"] = 2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 177.0814530792919,
+						["x"] = -218.3999974666604,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 0.6000000238418579,
+					},
+				},
+				["Idroptotems - Gul'dan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 41.75,
@@ -1040,58 +1141,36 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Druidisy - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Thunkity - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 40.50000427420247,
-						["x"] = -306.500043802027,
-						["point"] = "BOTTOMRIGHT",
-						["scale"] = 1,
-					},
-				},
-				["Dkuno - Silvermoon"] = {
-					["version"] = 3,
-					["rows"] = 6,
-					["position"] = {
-						["y"] = -126.8355805035919,
-						["x"] = -70.19989527480698,
-						["point"] = "RIGHT",
-						["scale"] = 0.6000000238418579,
-					},
-					["padding"] = 2,
-				},
 			},
 		},
 		["XPBar"] = {
 			["profiles"] = {
 				["Dkuno - Silvermoon"] = {
-					["enabled"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 12,
 						["x"] = -387.0000223626273,
 						["point"] = "BOTTOM",
 						["scale"] = 0.75,
 					},
+				},
+				["Msfunbags - Silvermoon"] = {
 					["version"] = 3,
+					["position"] = {
+						["y"] = 12,
+						["x"] = -387.0000223626273,
+						["point"] = "BOTTOM",
+						["scale"] = 0.75,
+					},
 				},
 				["Iaggro - Silvermoon"] = {
-					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
 						["y"] = 12,
 						["x"] = -387.0000223626273,
 						["point"] = "BOTTOM",
 						["scale"] = 0.75,
 					},
+					["version"] = 3,
 				},
 				["Thunkity - Silvermoon"] = {
 					["enabled"] = true,
@@ -1145,8 +1224,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Fromdaback - Gul'dan"] = {
-					["enabled"] = true,
+				["Dkuno - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
@@ -1154,8 +1232,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Idroptotems - Gul'dan"] = {
-					["enabled"] = true,
+				["Thunkity - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
@@ -1182,6 +1259,24 @@ Bartender4DB = {
 					},
 				},
 				["Iaggro - Silvermoon"] = {
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+				},
+				["Druidisy - Silvermoon"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Fromdaback - Gul'dan"] = {
+					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
@@ -1190,6 +1285,14 @@ Bartender4DB = {
 					},
 				},
 				["Msfunbags - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Idroptotems - Gul'dan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1206,31 +1309,6 @@ Bartender4DB = {
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
-				},
-				["Druidisy - Silvermoon"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Thunkity - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Dkuno - Silvermoon"] = {
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
 				},
 			},
 		},
@@ -1263,7 +1341,8 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Fromdaback - Gul'dan"] = {
+				["Dkuno - Silvermoon"] = {
+					["enabled"] = false,
 					["onebag"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1272,7 +1351,8 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Idroptotems - Gul'dan"] = {
+				["Thunkity - Silvermoon"] = {
+					["enabled"] = false,
 					["onebag"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1309,7 +1389,35 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Druidisy - Silvermoon"] = {
+					["onebag"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 463.5,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Fromdaback - Gul'dan"] = {
+					["onebag"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 463.5,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Msfunbags - Silvermoon"] = {
+					["enabled"] = false,
+					["onebag"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 463.5,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Idroptotems - Gul'dan"] = {
 					["onebag"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1327,33 +1435,112 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Druidisy - Silvermoon"] = {
-					["onebag"] = true,
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Mommykissit - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 41.75,
-						["x"] = 463.5,
-						["point"] = "BOTTOM",
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
 					},
 				},
-				["Thunkity - Silvermoon"] = {
-					["enabled"] = false,
-					["onebag"] = true,
+				["Magiclulz - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 41.75,
-						["x"] = 463.5,
-						["point"] = "BOTTOM",
+						["y"] = 51.49998122770273,
+						["x"] = 53.50015370032065,
+						["point"] = "CENTER",
+					},
+				},
+				["Mommykissit - Sargeras"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
 					},
 				},
 				["Dkuno - Silvermoon"] = {
-					["enabled"] = false,
-					["onebag"] = true,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 41.75,
-						["x"] = 463.5,
-						["point"] = "BOTTOM",
+						["y"] = 51.49996372056955,
+						["x"] = 53.49997862898772,
+						["point"] = "CENTER",
+					},
+				},
+				["Thunkity - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
+					},
+				},
+				["Teenybanker - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
+					},
+				},
+				["Tinybanker - Sargeras"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
+					},
+				},
+				["Iaggro - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49996372056955,
+						["x"] = 53.49997862898772,
+						["point"] = "CENTER",
+					},
+				},
+				["Druidisy - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
+					},
+				},
+				["Fromdaback - Gul'dan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
+					},
+				},
+				["Msfunbags - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49996372056955,
+						["x"] = 53.49997862898772,
+						["point"] = "CENTER",
+					},
+				},
+				["Idroptotems - Gul'dan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
+					},
+				},
+				["Komos - Sargeras"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 51.49999873483603,
+						["x"] = 53.49997862898761,
+						["point"] = "CENTER",
 					},
 				},
 			},
@@ -1384,71 +1571,12 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Fromdaback - Gul'dan"] = {
+				["Dkuno - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Idroptotems - Gul'dan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -15.00002427746995,
-						["x"] = -82.5000459904187,
-						["point"] = "CENTER",
-					},
-				},
-				["Teenybanker - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -15.00002427746995,
-						["x"] = -82.5000459904187,
-						["point"] = "CENTER",
-					},
-				},
-				["Tinybanker - Sargeras"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -15.00002427746995,
-						["x"] = -82.5000459904187,
-						["point"] = "CENTER",
-					},
-				},
-				["Iaggro - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 45,
+						["y"] = -17.29424656102799,
 						["x"] = -51.50003374910273,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Msfunbags - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -15.00002427746995,
-						["x"] = -82.5000459904187,
-						["point"] = "CENTER",
-					},
-				},
-				["Komos - Sargeras"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Druidisy - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
+						["point"] = "TOP",
 						["scale"] = 1,
 					},
 				},
@@ -1460,121 +1588,73 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Dkuno - Silvermoon"] = {
-					["position"] = {
-						["y"] = 45,
-						["x"] = -51.50003374910273,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-					["version"] = 3,
-				},
-			},
-		},
-		["Vehicle"] = {
-			["profiles"] = {
-				["Mommykissit - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
-						["point"] = "CENTER",
-					},
-				},
-				["Magiclulz - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 51.49998122770273,
-						["x"] = 53.50015370032065,
-						["point"] = "CENTER",
-					},
-				},
-				["Mommykissit - Sargeras"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
-						["point"] = "CENTER",
-					},
-				},
-				["Fromdaback - Gul'dan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
-						["point"] = "CENTER",
-					},
-				},
-				["Idroptotems - Gul'dan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
-						["point"] = "CENTER",
-					},
-				},
 				["Teenybanker - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
+						["y"] = -15.00002427746995,
+						["x"] = -82.5000459904187,
 						["point"] = "CENTER",
 					},
 				},
 				["Tinybanker - Sargeras"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
+						["y"] = -15.00002427746995,
+						["x"] = -82.5000459904187,
 						["point"] = "CENTER",
 					},
 				},
 				["Iaggro - Silvermoon"] = {
+					["position"] = {
+						["y"] = -17.29424656102799,
+						["x"] = -51.50003374910273,
+						["point"] = "TOP",
+						["scale"] = 1,
+					},
+					["version"] = 3,
+				},
+				["Druidisy - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 51.49996372056955,
-						["x"] = 53.49997862898772,
-						["point"] = "CENTER",
+						["y"] = 116,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Fromdaback - Gul'dan"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
 					},
 				},
 				["Msfunbags - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
+						["y"] = -17.29424656102799,
+						["x"] = -51.50003374910273,
+						["point"] = "TOP",
+						["scale"] = 1,
+					},
+				},
+				["Idroptotems - Gul'dan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15.00002427746995,
+						["x"] = -82.5000459904187,
 						["point"] = "CENTER",
 					},
 				},
 				["Komos - Sargeras"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
-						["point"] = "CENTER",
-					},
-				},
-				["Druidisy - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
-						["point"] = "CENTER",
-					},
-				},
-				["Thunkity - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 51.49999873483603,
-						["x"] = 53.49997862898761,
-						["point"] = "CENTER",
-					},
-				},
-				["Dkuno - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 51.49996372056955,
-						["x"] = 53.49997862898772,
-						["point"] = "CENTER",
+						["y"] = 116,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
 					},
 				},
 			},
@@ -1605,19 +1685,19 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Fromdaback - Gul'dan"] = {
+				["Dkuno - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 116,
-						["x"] = -120,
-						["point"] = "BOTTOM",
+						["y"] = -210.7424847723843,
+						["x"] = 432.1595239044518,
+						["point"] = "LEFT",
 					},
 				},
-				["Idroptotems - Gul'dan"] = {
+				["Thunkity - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
+						["y"] = 189.8044435429487,
+						["x"] = -401.2672418079097,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -1645,7 +1725,31 @@ Bartender4DB = {
 						["point"] = "LEFT",
 					},
 				},
+				["Druidisy - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Fromdaback - Gul'dan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Msfunbags - Silvermoon"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 209.3886231398757,
+						["x"] = -2.999993366437773,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Idroptotems - Gul'dan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
@@ -1661,30 +1765,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Druidisy - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -120,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Thunkity - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 189.8044435429487,
-						["x"] = -401.2672418079097,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Dkuno - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -210.7424847723843,
-						["x"] = 432.1595239044518,
-						["point"] = "LEFT",
-					},
-				},
 			},
 		},
 		["RepBar"] = {
@@ -1694,16 +1774,16 @@ Bartender4DB = {
 		["Mommykissit - Silvermoon"] = "Mommykissit - Silvermoon",
 		["Magiclulz - Silvermoon"] = "Magiclulz - Silvermoon",
 		["Mommykissit - Sargeras"] = "Mommykissit - Sargeras",
-		["Fromdaback - Gul'dan"] = "Fromdaback - Gul'dan",
-		["Idroptotems - Gul'dan"] = "Idroptotems - Gul'dan",
+		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+		["Thunkity - Silvermoon"] = "Thunkity - Silvermoon",
 		["Teenybanker - Silvermoon"] = "Teenybanker - Silvermoon",
 		["Tinybanker - Sargeras"] = "Tinybanker - Sargeras",
 		["Iaggro - Silvermoon"] = "Iaggro - Silvermoon",
-		["Msfunbags - Silvermoon"] = "Msfunbags - Silvermoon",
-		["Komos - Sargeras"] = "Komos - Sargeras",
 		["Druidisy - Silvermoon"] = "Druidisy - Silvermoon",
-		["Thunkity - Silvermoon"] = "Thunkity - Silvermoon",
-		["Dkuno - Silvermoon"] = "Dkuno - Silvermoon",
+		["Fromdaback - Gul'dan"] = "Fromdaback - Gul'dan",
+		["Msfunbags - Silvermoon"] = "Msfunbags - Silvermoon",
+		["Idroptotems - Gul'dan"] = "Idroptotems - Gul'dan",
+		["Komos - Sargeras"] = "Komos - Sargeras",
 	},
 	["profiles"] = {
 		["Mommykissit - Silvermoon"] = {
@@ -1724,12 +1804,18 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Fromdaback - Gul'dan"] = {
-			["focuscastmodifier"] = false,
+		["Dkuno - Silvermoon"] = {
+			["snapping"] = 1,
+			["minimapIcon"] = {
+				["minimapPos"] = 199.0257889787833,
+				["hide"] = true,
+			},
+			["buttonlock"] = true,
 			["blizzardVehicle"] = true,
+			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
-		["Idroptotems - Gul'dan"] = {
+		["Thunkity - Silvermoon"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -1745,26 +1831,14 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Iaggro - Silvermoon"] = {
+			["blizzardVehicle"] = true,
+			["snapping"] = 1,
+			["buttonlock"] = true,
 			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["minimapPos"] = 199.0257889787833,
+				["hide"] = true,
 			},
-			["buttonlock"] = true,
-			["blizzardVehicle"] = true,
-			["snapping"] = 1,
-			["outofrange"] = "hotkey",
-		},
-		["Msfunbags - Silvermoon"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["minimapIcon"] = {
-				["minimapPos"] = 199.1199396548671,
-			},
-			["outofrange"] = "hotkey",
-		},
-		["Komos - Sargeras"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 		["Druidisy - Silvermoon"] = {
@@ -1772,19 +1846,30 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Thunkity - Silvermoon"] = {
+		["Fromdaback - Gul'dan"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Dkuno - Silvermoon"] = {
-			["blizzardVehicle"] = true,
+		["Msfunbags - Silvermoon"] = {
 			["focuscastmodifier"] = false,
-			["buttonlock"] = true,
-			["snapping"] = 1,
 			["minimapIcon"] = {
-				["minimapPos"] = 182.935802522727,
+				["minimapPos"] = 199.0257889787833,
+				["hide"] = true,
 			},
+			["buttonlock"] = true,
+			["blizzardVehicle"] = true,
+			["snapping"] = 1,
+			["outofrange"] = "hotkey",
+		},
+		["Idroptotems - Gul'dan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Komos - Sargeras"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 	},

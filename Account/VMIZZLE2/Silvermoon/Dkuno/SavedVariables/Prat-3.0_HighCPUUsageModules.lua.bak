@@ -1,0 +1,74 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1322951113,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[16:24:27]|r|c00000000|r |Hchannel:channel:1|h[1] |h Joined Channel: |Hchannel:1|h[1. General - Stormwind City]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [1]
+			{
+				"|cff979797[16:24:27]|r|c00000000|r |Hchannel:channel:2|h[2] |h Joined Channel: |Hchannel:2|h[2. Trade - City]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [2]
+			{
+				"|cff979797[16:24:27]|r|c00000000|r |Hchannel:channel:3|h[3] |h Joined Channel: |Hchannel:3|h[3. LocalDefense - Stormwind City]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [3]
+			{
+				"|cff979797[16:24:27]|r|c00000000|r |Hchannel:channel:4|h[4] |h Joined Channel: |Hchannel:4|h[4. LookingForGroup]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [4]
+			{
+				"|cff979797[16:24:27]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Atomika:409:CHANNEL:2|h|cffc41e3aAtomika|r|h|cffd8d8d8]|r: you dont really get to learn the raid", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [5]
+			{
+				"|cff979797[16:24:31]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Kitters:412:CHANNEL:2|h|cffaad372Kitters|r|h|cffd8d8d8]|r: I just want some boots. ;-;", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [6]
+			{
+				"|cff979797[16:24:37]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Atomika:417:CHANNEL:2|h|cffc41e3aAtomika|r|h|cffd8d8d8]|r: you get to see the same pixels", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [7]
+			{
+				"|cff979797[16:24:38]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Lilassassin:418:CHANNEL:2|h|cfffff468Lilassassin|r|h|cffd8d8d8]|r: rogue lfg first 4 bosses in DS", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [8]
+			{
+				"|cff979797[16:24:55]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Náughtynurse:435:CHANNEL:2|h|cffffffffNáughtynurse|r|h|cffd8d8d8]|r: LFM ulduar10 Need 2 tanks a healer and some dps. Come get ur transmog gear!", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [9]
+			{
+				"|cff979797[16:24:58]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Distina:439:CHANNEL:2|h|cff68ccefDistina|r|h|cffd8d8d8]|r: WTS  |cff0070dd|Hitem:70062:0:0:0:0:0:0:164339856:85:0|h[Bloodthirsty Embersilk Belt]|h|r |cff0070dd|Hitem:70064:0:0:0:0:0:0:1256588928:85:0|h[Bloodthirsty Embersilk Shoulders]|h|r pst with offer", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [10]
+			{
+				"|cff979797[16:25:13]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Grandpòp:462:CHANNEL:2|h|cfff48cbaGrandpòp|r|h|cffd8d8d8]|r: you learn more from LFR than you do not going in it at all.....", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+			}, -- [11]
+		},
+	},
+}

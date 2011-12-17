@@ -1,5 +1,5 @@
 
 _NPCScanOptions = {
-	["Version"] = "4.2.0.2",
+	["Version"] = "4.3.0.1",
 	["CacheWarnings"] = true,
 }

@@ -10,10 +10,10 @@ Omen3DB = {
 		["Tinybanker - Sargeras"] = "Tinybanker - Sargeras",
 		["Iaggro - Silvermoon"] = "Iaggro - Silvermoon",
 		["Msfunbags - Silvermoon"] = "Msfunbags - Silvermoon",
-		["Fromdaback - Gul'dan"] = "Fromdaback - Gul'dan",
+		["Komos - Sargeras"] = "Komos - Sargeras",
 		["Druidisy - Silvermoon"] = "Druidisy - Silvermoon",
 		["Thunkity - Silvermoon"] = "Thunkity - Silvermoon",
-		["Komos - Sargeras"] = "Komos - Sargeras",
+		["Fromdaback - Gul'dan"] = "Fromdaback - Gul'dan",
 	},
 	["profiles"] = {
 		["Mommykissit - Silvermoon"] = {
@@ -31,13 +31,15 @@ Omen3DB = {
 			["PositionY"] = 574.4999756883364,
 		},
 		["Dkuno - Silvermoon"] = {
-			["PositionW"] = 200.0000727640228,
-			["PositionH"] = 81.99999849548074,
+			["VGrip2"] = 117.2999357751049,
 			["PositionY"] = 176.5000901685752,
+			["PositionW"] = 203.9999625237928,
+			["VGrip1"] = 86.69995252942533,
+			["PositionX"] = 1199.500117728633,
 			["MinimapIcon"] = {
 				["minimapPos"] = 226.3535828781176,
 			},
-			["PositionX"] = 1199.500117728633,
+			["PositionH"] = 137.999925731458,
 		},
 		["Idroptotems - Gul'dan"] = {
 			["PositionX"] = 775.4999683709018,
@@ -52,32 +54,33 @@ Omen3DB = {
 			["PositionY"] = 574.4999756883364,
 		},
 		["Iaggro - Silvermoon"] = {
-			["VGrip2"] = 127.6499990940062,
-			["PositionY"] = 157.0000323471643,
-			["PositionW"] = 222.0000791924233,
-			["PositionX"] = 1080.500211077215,
-			["ShowWith"] = {
-				["HideWhenOOC"] = true,
-			},
-			["VGrip1"] = 94.3499993303524,
+			["PositionW"] = 249.9999027533455,
+			["PositionH"] = 153.0000725588611,
+			["VGrip2"] = 143.7498817174737,
+			["PositionY"] = 153.0000725588611,
 			["MinimapIcon"] = {
 				["minimapPos"] = 218.9045758661066,
 				["hide"] = true,
 			},
-			["PositionH"] = 157.0000323471643,
+			["ShowWith"] = {
+				["HideWhenOOC"] = true,
+			},
+			["VGrip1"] = 106.2499125737849,
+			["PositionX"] = 1187.702130624962,
 		},
 		["Msfunbags - Silvermoon"] = {
 			["VGrip2"] = 116.72504348773,
-			["PositionY"] = 225.5001928178217,
+			["PositionY"] = 121.9999990425787,
 			["PositionW"] = 203.0000250981169,
 			["PositionH"] = 121.9999990425787,
 			["MinimapIcon"] = {
 				["minimapPos"] = 233.8207801420209,
+				["hide"] = true,
 			},
-			["PositionX"] = 1182.500271121211,
+			["PositionX"] = 1201.719462003058,
 			["VGrip1"] = 86.27503214310474,
 		},
-		["Fromdaback - Gul'dan"] = {
+		["Komos - Sargeras"] = {
 			["PositionX"] = 775.4999683709018,
 			["PositionY"] = 574.4999756883364,
 		},
@@ -89,7 +92,7 @@ Omen3DB = {
 			["PositionX"] = 775.4999683709018,
 			["PositionY"] = 574.4999756883364,
 		},
-		["Komos - Sargeras"] = {
+		["Fromdaback - Gul'dan"] = {
 			["PositionX"] = 775.4999683709018,
 			["PositionY"] = 574.4999756883364,
 		},

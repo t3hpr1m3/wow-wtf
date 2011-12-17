@@ -7,5 +7,5 @@ AtlasLootCharDB = {
 	["profileKeys"] = {
 		["Iaggro - Silvermoon"] = "Iaggro - Silvermoon",
 	},
-	["AtlasLootVersion"] = "60404",
+	["AtlasLootVersion"] = "60500",
 }
